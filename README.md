@@ -34,6 +34,6 @@ LOOKUP_LEVEL = {
     "magnificently": 18,
     "astoundingly": 19,
     "unbelievably much": 20,
-    "immensly": 21
+    "immensely": 21
 }
 ```
