@@ -9,6 +9,9 @@ Get things like:
 ```
 A ghastly meteoric iron claymore (2h) [Known s:-4 d:+3 c:+12 dam:+8 hit:+14 electric:17]
 ```
+Doesn't show resists or AC/AC/decay rate as it makes my screen look to messy. 
+
+You can do that yourself from the json.
 
 Numbers are from:
 
