@@ -128,7 +128,7 @@
 /def -Fp5 -P1 -mregexp -t"(A tainted meteoric iron sickle \(1h\))" check_eq_126 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+4 i:+3 hpr:2 spr:2 dam:+7 hit:+13 acid:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Worn wyrmskin sandals)" check_eq_127 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+8 w:+3 spr:7@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A superior wyrmscale kettle hat)" check_eq_128 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+12 w:-3 spr:0@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Superior mithril rivet vambraces <Bound>)" check_eq_129 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-8 w:+15 spr:5@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Superior mithril rivet vambraces )" check_eq_129 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-8 w:+15 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A gaudy silver bastard sword \(2h\))" check_eq_130 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 dam:+4 hit:+13 asphyxiation:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An odious meteoric iron long sceptre \(2h\))" check_eq_131 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+18 spr:8 dam:+5 hit:+9 magical:19@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Hideous satin long gloves)" check_eq_132 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+5 w:+8 spr:4@{n}]%{PR}%;/endif
@@ -150,7 +150,7 @@
 /def -Fp5 -P1 -mregexp -t"(A worn leather and tooth bracelet)" check_eq_148 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-5 i:+5 w:+15 hpr:2 spr:9@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A multi-jeweled platinum ring)" check_eq_149 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+8 spr:12@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A golden ring with a red ruby embedded in it)" check_eq_150 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+4 spr:13@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Antique wyrmscale rivet gauntlets <Bound>)" check_eq_151 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+8 spr:3@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Antique wyrmscale rivet gauntlets )" check_eq_151 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+8 spr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Tome of Black Hell)" check_eq_152 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-3 d:-3 c:+3 i:+7 w:+3 spr:13@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(White belt)" check_eq_153 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-3 d:-4 c:-2 i:+7 w:+7 spr:0@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Held in right hand: A masterfully crafted golden horn)" check_eq_154 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known@{n}]%{PR}%;/endif
@@ -341,7 +341,7 @@
 /def -Fp5 -P1 -mregexp -t"(A nice humanskin cassock)" check_eq_339 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+4 w:+5 hpr:4 spr:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A superior silver bearded axe \(1h\))" check_eq_340 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+8 c:-8 hpr:4 dam:+11 hit:+9 cold:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Horrible silver sollerets)" check_eq_341 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+1 c:+12 ch:-8 hpr:3@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(A pair of massive voidplate boots <Bound>)" check_eq_342 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+25 d:+0 c:+25 i:-0 w:-0 ch:-2 hpr:21@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(A pair of massive voidplate boots )" check_eq_342 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+25 d:+0 c:+25 i:-0 w:-0 ch:-2 hpr:21@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A blood-stained cuir bouilli cape)" check_eq_343 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-5 w:+12 spr:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Superior mithril rivet vambraces)" check_eq_344 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 d:+8 c:+5 i:-8 w:+15 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A horrid silk sash)" check_eq_345 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 ch:+8 spr:4@{n}]%{PR}%;/endif
@@ -363,7 +363,7 @@
 /def -Fp5 -P1 -mregexp -t"(Horrid orichalcum demi-gaunts)" check_eq_361 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-1 w:+8 spr:2@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Grimy wyvernskin chausses)" check_eq_362 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+1 w:+0 spr:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Wielded in right hand: A grim titanium halberd \(2h\) <*glowing*>)" check_eq_363 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+20 spr:9 dam:+8 hit:+11 acid:16@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(A voidtouched ring with an emerald <Bound>)" check_eq_364 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 c:+0 i:+15 w:+6 hpr:5 spr:0@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(A voidtouched ring with an emerald )" check_eq_364 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 c:+0 i:+15 w:+6 hpr:5 spr:0@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An old mithril ring)" check_eq_365 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+18 spr:11@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A garnished viridium broadaxe \(1h\))" check_eq_366 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+5 i:-5 w:+1 ch:+3 hpr:2 spr:1 dam:+16 hit:+7 acid:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A fancy orichalcum torc)" check_eq_367 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:-5 w:+15 spr:9@{n}]%{PR}%;/endif
@@ -382,7 +382,7 @@
 /def -Fp5 -P1 -mregexp -t"(A dusty obsidian cutlass \(1h\))" check_eq_380 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+5 hpr:4 dam:+7 hit:+19 magical:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An ornate silver double headed axe \(2h\))" check_eq_381 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+5 hpr:3 dam:+12 hit:+5 psionic:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An elegant trollskin cape)" check_eq_382 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+5 hpr:4@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(A decorated satin rope <Bound>)" check_eq_383 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 i:-0 w:+0 spr:7@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(A decorated satin rope )" check_eq_383 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 i:-0 w:+0 spr:7@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Tainted orichalcum sabatons)" check_eq_384 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-4 d:+12 c:+1 hpr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Antique wyrmscale rivet gauntlets)" check_eq_385 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+8 spr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A gaudy mithril armet)" check_eq_386 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+12 spr:7@{n}]%{PR}%;/endif
@@ -455,7 +455,7 @@
 /def -Fp5 -P1 -mregexp -t"(A blemished mithril tower shield)" check_eq_453 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+3 w:+5 spr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Decorated drakeskin chausses)" check_eq_454 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-8 w:+0 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A shimmering obsidian partisan \(2h\))" check_eq_455 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 d:+1 c:+3 hpr:2 dam:+9 hit:+0 electric:4@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Wielded in right hand: Gimdori's Glorious Crowbar \(2h\) <Bound> <dark aura>)" check_eq_456 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+6 d:+6 c:+6 i:+6 w:+6 ch:+6 hpr:0 spr:0 dam:+15 hit:+15 psionic:22@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Wielded in right hand: Gimdori's Glorious Crowbar \(2h\)  <dark aura>)" check_eq_456 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+6 d:+6 c:+6 i:+6 w:+6 ch:+6 hpr:0 spr:0 dam:+15 hit:+15 psionic:22@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A tainted obsidian sabre \(1h\))" check_eq_457 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+4 d:+1 hpr:5 dam:+4 hit:+16 electric:6@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A dirty silver talisman)" check_eq_458 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+2 c:+1 hpr:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A stained humanskin shirt)" check_eq_459 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+8 hpr:9@{n}]%{PR}%;/endif
@@ -523,7 +523,7 @@
 /def -Fp5 -P1 -mregexp -t"(A blemished orichalcum sapphire ring)" check_eq_521 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 c:+1 ch:+1@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A nice wyvernskin girdle)" check_eq_522 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+5 hpr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A dusty rosewood flail \(1h\))" check_eq_523 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 d:+3 c:+1 hpr:2 dam:+9 hit:+9 cold:2@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Wielded in right hand: The Great Blade of Illusion \(1h\) <Bound> <crackling>)" check_eq_524 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 d:-0 c:-0 i:+8 w:-0 ch:-0 spr:0@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Wielded in right hand: The Great Blade of Illusion \(1h\)  <crackling>)" check_eq_524 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 d:-0 c:-0 i:+8 w:-0 ch:-0 spr:0@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A dreadful drakeskin mantle)" check_eq_525 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+8 w:+8 spr:0@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A garnished orichalcum armet)" check_eq_526 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+3 c:+5 hpr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A weathered silkweave cummerbund)" check_eq_527 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+15 spr:8@{n}]%{PR}%;/endif
@@ -539,16 +539,16 @@
 /def -Fp5 -P1 -mregexp -t"(A tarnished silver horned helm)" check_eq_537 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-0 w:+18 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A ghastly orichalcum bangle)" check_eq_538 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+12 spr:6@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A fancy wyrmscale attic helmet)" check_eq_539 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+0 spr:4@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(A fancy orichalcum torc <Bound>)" check_eq_540 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:-5 w:+15 spr:9@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(A fancy orichalcum torc )" check_eq_540 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:-5 w:+15 spr:9@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Tarnished orichalcum mittens)" check_eq_541 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+8 hpr:1@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A grimy silver lamellar)" check_eq_542 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+2 d:+3 hpr:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A foul viridium wakizashi \(1h\))" check_eq_543 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+5 spr:6 dam:+7 hit:+17 fire:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A nice silver wakizashi \(1h\))" check_eq_544 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+4 hpr:3 dam:+2 hit:+18 acid:2@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An adorned mithril bearded axe \(1h\))" check_eq_545 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+3 w:+3 spr:5 dam:+13 hit:+8 asphyxiation:6@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A worn cuir bouilli splint mail)" check_eq_546 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+1 w:+5 spr:11@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(A dirty silk cloak <Bound>)" check_eq_547 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+8 hpr:4@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(An antique silk rope <Bound>)" check_eq_548 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-6 d:+0 i:+5 hpr:1 spr:1@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Antique silver sabatons <Bound>)" check_eq_549 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+3 w:+8 spr:5@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(A dirty silk cloak )" check_eq_547 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+8 hpr:4@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(An antique silk rope )" check_eq_548 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-6 d:+0 i:+5 hpr:1 spr:1@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Antique silver sabatons )" check_eq_549 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+3 w:+8 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A horrid wyvernskin cincture)" check_eq_550 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:-8 i:+5 ch:+5 spr:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A grimy velvet shirt)" check_eq_551 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:-5 w:+8 spr:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A tainted gold arm ring)" check_eq_552 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+8 c:+5 i:-0 hpr:2@{n}]%{PR}%;/endif
@@ -568,7 +568,7 @@
 /def -Fp5 -P1 -mregexp -t"(Fancy velvet sandals)" check_eq_566 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+1 i:+5 w:-5 ch:+3 spr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(The black boots of thievery)" check_eq_567 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+7@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Wielded in right hand: A steel bladed dagger \(1h\))" check_eq_568 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Weathered trollskin tall boots <Bound>)" check_eq_569 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:-0 w:+20 spr:5@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Weathered trollskin tall boots )" check_eq_569 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:-0 w:+20 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A foul orichalcum flamberge \(1h\))" check_eq_570 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 c:+1 dam:+3 hit:+13 acid:2@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A gaudy gold lariat necklace)" check_eq_571 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+5 w:+3 spr:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An antique obsidian falcata \(1h\))" check_eq_572 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+8 hpr:6 dam:+6 hit:+17 magical:11@{n}]%{PR}%;/endif
@@ -626,7 +626,7 @@
 /def -Fp5 -P1 -mregexp -t"(A shiny wyrmscale buckler)" check_eq_624 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+3 d:+3 hpr:2@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A tainted cuir bouilli lamellar)" check_eq_625 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+8 spr:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A tainted drakeskin sarape)" check_eq_626 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+3 d:+5 hpr:4@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(A blemished silver medallion <Bound>)" check_eq_627 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 d:+8 i:+3 w:-0 hpr:2 spr:1@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(A blemished silver medallion )" check_eq_627 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 d:+8 i:+3 w:-0 hpr:2 spr:1@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A stained trollskin chlamys)" check_eq_628 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 d:+5 c:+3 hpr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A vile mithril claymore \(2h\))" check_eq_629 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+8 spr:5 dam:+9 hit:+14 acid:6@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Repulsive cuir bouilli sandals)" check_eq_630 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+8 d:-0 c:+8 hpr:5@{n}]%{PR}%;/endif
@@ -647,7 +647,7 @@
 /def -Fp5 -P1 -mregexp -t"(A tainted mithril flanged flail \(1h\))" check_eq_645 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+8 c:-8 i:+1 ch:+3 hpr:3 spr:1 dam:+0 hit:+9 acid:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(The Necklace of the Beast)" check_eq_646 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-3 i:+8 w:-5 ch:+15 spr:13@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A shimmering white robe with golden embroidery)" check_eq_647 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+0 ch:+15 spr:18@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(an embroidered velvet coin purse <Bound>)" check_eq_648 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 i:+15 ch:+0 spr:11@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(an embroidered velvet coin purse )" check_eq_648 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 i:+15 ch:+0 spr:11@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Blightspawn Carapace)" check_eq_649 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 c:+16 hpr:13@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Fancy drakeskin boots)" check_eq_650 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+8 spr:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A grisly mithril scimitar \(1h\))" check_eq_651 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 c:+3 hpr:4 dam:+5 hit:+16 cold:6@{n}]%{PR}%;/endif
@@ -683,7 +683,7 @@
 /def -Fp5 -P1 -mregexp -t"(The leggings of Dark Haven)" check_eq_681 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-3 c:-5 i:+4 spr:11@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Dusty wyvernskin legguards)" check_eq_682 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+8 hpr:7@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Nice wyvernskin mittens)" check_eq_683 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+3 w:+8 ch:-8 spr:1@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Ghastly mithril legguards <Bound>)" check_eq_684 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+1 w:+5 spr:8@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Ghastly mithril legguards )" check_eq_684 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+1 w:+5 spr:8@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A disgusting orichalcum sallet)" check_eq_685 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+9 d:-0 c:+3 hpr:6@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A grotesque silver spiked flail \(1h\))" check_eq_686 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+2 d:+1 hpr:3 dam:+14 hit:+5 acid:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A decorated silk mantle)" check_eq_687 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+1 c:-5 w:+5 spr:2@{n}]%{PR}%;/endif
@@ -746,7 +746,7 @@
 /def -Fp5 -P1 -mregexp -t"(A vile drakeskin mantle)" check_eq_744 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+5 hpr:3@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A fancy orichalcum flanged mace \(1h\))" check_eq_745 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known c:+1 dam:+14 hit:-15 fire:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A decorated wyvernskin girdle)" check_eq_746 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+0 hpr:4@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Dusty wyvernskin legguards <Bound>)" check_eq_747 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+8 hpr:7@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Dusty wyvernskin legguards )" check_eq_747 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+8 hpr:7@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Wielded in right hand: A beautiful sword hilt, with a green blade \(2h\) <*glowing*>)" check_eq_748 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 w:-0 dam:+5 hit:+13 fire:0@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A vile titanium aruval \(1h\))" check_eq_749 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+4 i:+3 w:-3 ch:+1 hpr:2 spr:2 dam:+14 hit:+18 asphyxiation:13@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(Filthy wyrmskin sandals)" check_eq_750 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known d:+20 hpr:7@{n}]%{PR}%;/endif
@@ -860,7 +860,7 @@
 /def -Fp5 -P1 -mregexp -t"(A grimy silk vest)" check_eq_858 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-6 i:+5 ch:+5 spr:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A well-crafted orichalcum chain mace \(1h\))" check_eq_859 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A rotting satin rope)" check_eq_860 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known i:+3 w:+3 spr:5@{n}]%{PR}%;/endif
-/def -Fp5 -P1 -mregexp -t"(Wielded in right hand: A foul viridium wakizashi \(1h\) <Bound>)" check_eq_861 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+5 spr:6 dam:+7 hit:+17 fire:4@{n}]%{PR}%;/endif
+/def -Fp5 -P1 -mregexp -t"(Wielded in right hand: A foul viridium wakizashi \(1h\) )" check_eq_861 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known w:+5 spr:6 dam:+7 hit:+17 fire:4@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(A tarnished obsidian mace \(1h\))" check_eq_862 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:+2 d:+1 hpr:4 dam:+15 hit:-13 poison:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An excellent silk rope)" check_eq_863 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known s:-0 i:+5 w:+3 spr:5@{n}]%{PR}%;/endif
 /def -Fp5 -P1 -mregexp -t"(An antique silver great hammer \(2h\))" check_eq_864 = /if (lookup_eq) /substitute -p -- %{PL}%{P0} [@{B}Known@{n}]%{PR}%;/endif
