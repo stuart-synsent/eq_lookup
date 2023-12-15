@@ -9,7 +9,7 @@ Get things like:
 ```
 A ghastly meteoric iron claymore (2h) [Known s:-4 d:+3 c:+12 dam:+8 hit:+14 electric:17]
 ```
-Doesn't show resists or AC/WC/decay as it makes my screen look to messy. Can't be arsed to capture any spell/skills as for the Necrtopolis gear it's not really relevant and neither is additional info you may get from improced ID.
+Doesn't show resists or AC/WC/decay as it makes my screen look to messy. Can't be arsed to capture any spell/skills as for the Necrtopolis gear it's not really relevant and neither is additional info you may get from improved ID.
 
 This is just to help me figure out if stuff is worth killing.
 
