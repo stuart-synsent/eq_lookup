@@ -7653,6 +7653,59 @@
         "resists": {},
         "ac": "non-existent"
     },
+    "A sinister demonhide sarape": {
+        "glow": "slowly.",
+        "stats": {
+            "d": "+15"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "ac": "superb"
+    },
+    "A grisly meteoric iron falx (1h)": {
+        "glow": "slowly.",
+        "stats": {
+            "d": "+1",
+            "i": "+1",
+            "ch": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+11",
+            "electric": 9
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {},
+        "wc": "nice"
+    },
+    "A moth-eaten brocade girdle": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+3",
+            "w": "+3"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "Dusty wyrmscale sollerets": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+1",
+            "c": "+5"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "ac": "poor"
+    },
     "Wielded in both hands: The SILVERBLOOD of Ancient Ages (2h) (glowing)": {
         "glow": "with average speed.",
         "stats": {},
