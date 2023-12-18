@@ -13,7 +13,7 @@ Doesn't show resists or AC/WC/decay as it makes my screen look to messy. Can't b
 
 This is just to help me figure out if stuff is worth killing.
 
-If you want that to know resist etc you can do that yourself from the json.
+If you want to know resist etc you can do that yourself from the json.
 
 Numbers are from:
 
@@ -29,7 +29,7 @@ LOOKUP_LEVEL = {
     "slightly": 7,           
     "somewhat": 8,           
     "noticably": 9,          
-    "adequatly": 10,         
+    "adequately": 10,         
     "an average amount": 11, 
     "a good amount": 12,     
     "nicely": 13,            
