@@ -1434,6 +1434,208 @@
         },
         "ac": "average"
     },
+    "An excellent mithril spiked flail (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "w": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+9",
+            "hit": "+9",
+            "fire": 6
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "An elegant wyvernskin girdle": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+6",
+            "d": "+3",
+            "c": "-10"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "c": "+6"
+        },
+        "ac": "non-existent"
+    },
+    "A repugnant orichalcum flanged flail (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+3",
+            "ch": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+9",
+            "poison": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "m": "-6"
+        },
+        "wc": "nice"
+    },
+    "A superior viridium flanged flail (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "c": "+1",
+            "i": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+12",
+            "acid": 6
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "Filthy orichalcum rivet sabatons": {
+        "glow": "very fast.",
+        "stats": {
+            "s": "-1",
+            "d": "+5",
+            "c": "+1"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "e": "+6"
+        },
+        "ac": "excellent"
+    },
+    "An ornate orichalcum khopesh (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "c": "+5",
+            "ch": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+13",
+            "electric": 3
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {},
+        "wc": "decent"
+    },
+    "A shimmering wyvernskin armband": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+5",
+            "d": "+1",
+            "i": "-5",
+            "ch": "+5"
+        },
+        "regens": {
+            "hpr": 2,
+            "spr": 3
+        },
+        "resists": {
+            "m": "+6"
+        },
+        "ac": "little"
+    },
+    "Vile trollskin tall boots": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "d": "+5"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "ac": "poor"
+    },
+    "Adorned orichalcum prayer beads": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "w": "+10"
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {
+            "f": "+6",
+            "ph": "+6"
+        },
+        "ac": "negative"
+    },
+    "A repugnant orichalcum sallet": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+6",
+            "d": "+1",
+            "c": "+1"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "A garnished silver guisarme (2h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "-6",
+            "c": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+6",
+            "acid": 2
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "good"
+    },
+    "A grotesque viridium great axe (2h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "i": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+20",
+            "hit": "+5",
+            "poison": 12
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "wc": "awesome"
+    },
+    "A decorated drakeskin bracer": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+5",
+            "d": "+5",
+            "c": "+1"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ac": "-6"
+        },
+        "ac": "non-existent"
+    },
     "A foul meteoric iron morningstar (1h)": {
         "glow": "a bit slower than average.",
         "stats": {
