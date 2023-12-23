@@ -6792,6 +6792,314 @@
         "resists": {},
         "ac": "awesome"
     },
+    "A horrible meteoric iron flanged flail (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+1",
+            "d": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+11",
+            "asphyxiation": 8
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {
+            "f": "-6",
+            "m": "-8",
+            "ph": "-6"
+        },
+        "wc": "nice"
+    },
+    "Horrible trollskin vambraces": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+5",
+            "d": "+1",
+            "c": "+1"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "m": "-6",
+            "po": "+8"
+        },
+        "ac": "nice"
+    },
+    "A foul orichalcum morningstar (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "-10",
+            "electric": 2
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "adequate"
+    },
+    "A shiny orichalcum band": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+1",
+            "c": "+5"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ac": "-8",
+            "as": "-6",
+            "po": "+6"
+        },
+        "ac": "non-existent"
+    },
+    "A nice orichalcum bastard sword (2h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+8",
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+7",
+            "hit": "+17",
+            "psionic": 17
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "wc": "awesome"
+    },
+    "A dirty obsidian talisman": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+3",
+            "w": "+5"
+        },
+        "regens": {
+            "hpr": 2,
+            "spr": 4
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "An elegant gold arm ring": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "w": "+8"
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {
+            "po": "+6"
+        },
+        "ac": "negative"
+    },
+    "A disgusting wyrmscale hounskull": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "c": "+12"
+        },
+        "regens": {
+            "hpr": 8
+        },
+        "resists": {
+            "po": "+6",
+            "ph": "+6"
+        },
+        "ac": "excellent"
+    },
+    "A blood-stained obsidian wakizashi (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+5",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+4",
+            "hit": "+17",
+            "cold": 4
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "Horrid humanskin trousers": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "w": "+8"
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {},
+        "ac": "weak"
+    },
+    "Filthy orichalcum demi-gaunts": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+8",
+            "c": "+3",
+            "w": "+1"
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {},
+        "ac": "low"
+    },
+    "An antique obsidian lariat necklace": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+1",
+            "d": "-1",
+            "c": "+8"
+        },
+        "regens": {
+            "hpr": 8
+        },
+        "resists": {
+            "as": "+8",
+            "c": "+6"
+        },
+        "ac": "non-existent"
+    },
+    "A fine viridium flambard (2h)": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+8",
+            "hit": "+10",
+            "psionic": 6
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "A horrible walnut quarterstaff (2h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+8",
+            "w": "-3",
+            "ch": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+7",
+            "hit": "+4",
+            "magical": 4
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "nice"
+    },
+    "A horrid orichalcum great axe (2h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "d": "-5",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+19",
+            "hit": "+3",
+            "cold": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "Gaudy silk long gloves": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+15"
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {},
+        "ac": "low"
+    },
+    "A horrid silver flanged flail (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+4"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+10",
+            "psionic": 4
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "decent"
+    },
+    "Blemished silk sandals": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "i": "+3",
+            "w": "+3"
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A dreadful silver spiked flail (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+12"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+8",
+            "fire": 10
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {
+            "as": "-6",
+            "m": "+6",
+            "po": "+10"
+        },
+        "wc": "nice"
+    },
+    "A superior wyrmscale sallet": {
+        "glow": "fast.",
+        "stats": {
+            "c": "+10"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {
+            "ps": "-6"
+        },
+        "ac": "excellent"
+    },
     "A decorated mithril spiked flail (1h)": {
         "glow": "a bit slower than average.",
         "stats": {
