@@ -8166,6 +8166,373 @@
         "resists": {},
         "wc": "tremendous"
     },
+    "A repulsive obsidian naginata (2h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+3",
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+17",
+            "asphyxiation": 8
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "Old mithril demi-gaunts": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+3",
+            "w": "+5"
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {},
+        "ac": "little"
+    },
+    "A tainted wyrmscale hounskull": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+5"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ac": "+8"
+        },
+        "ac": "adequate"
+    },
+    "A fine orichalcum wand (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+2",
+            "d": "+3",
+            "ch": "+1"
+        },
+        "weapon_stats": {
+            "dam": "-2",
+            "hit": "+5",
+            "acid": 5
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "weak"
+    },
+    "A foul mithril armet": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+7"
+        },
+        "regens": {
+            "hpr": 8
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "A filthy humanskin brigandine": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+2",
+            "d": "+3"
+        },
+        "regens": {
+            "hpr": 8
+        },
+        "resists": {},
+        "ac": "great"
+    },
+    "A grimy orichalcum gladius (1h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "-1",
+            "d": "+5",
+            "i": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+15",
+            "acid": 8
+        },
+        "regens": {
+            "hpr": 3,
+            "spr": 3
+        },
+        "resists": {},
+        "wc": "nice"
+    },
+    "Garnished meteoric iron rivet sabatons": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "w": "+20"
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {},
+        "ac": "superb"
+    },
+    "Gory mithril vambraces": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+15",
+            "w": "+3"
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {
+            "ac": "-6",
+            "as": "+10",
+            "c": "+6"
+        },
+        "ac": "nice"
+    },
+    "A garnished silver great helm": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+5",
+            "d": "-3",
+            "c": "+5"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {
+            "ac": "+6",
+            "f": "+8",
+            "m": "+6"
+        },
+        "ac": "excellent"
+    },
+    "A garnished meteoric iron great falx (2h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "w": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+16",
+            "hit": "+10",
+            "acid": 10
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {
+            "c": "+8",
+            "po": "+6"
+        },
+        "wc": "great"
+    },
+    "A hideous humanskin gorget": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "i": "+12"
+        },
+        "regens": {
+            "spr": 10
+        },
+        "resists": {
+            "as": "+6",
+            "c": "+6",
+            "e": "+6",
+            "ps": "+6"
+        },
+        "ac": "average"
+    },
+    "A garnished orichalcum staff (2h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+2",
+            "hit": "+3",
+            "electric": 3
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {},
+        "wc": "mediocre"
+    },
+    "An adorned silver fauchard (2h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+1",
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+10",
+            "magical": 4
+        },
+        "regens": {},
+        "resists": {},
+        "wc": "adequate"
+    },
+    "A tarnished silver barbute": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "d": "+5",
+            "c": "+5"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "ac": "average"
+    },
+    "A garnished orichalcum pendant": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+2",
+            "ch": "+3"
+        },
+        "regens": {
+            "hpr": 3,
+            "spr": 4
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A well-crafted mithril ranseur (2h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+2",
+            "d": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+7",
+            "hit": "+14",
+            "asphyxiation": 5
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "po": "-6"
+        },
+        "wc": "excellent"
+    },
+    "Stained silk leggings": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "d": "+3",
+            "c": "+3",
+            "w": "+1",
+            "ch": "-3"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "ac": "low"
+    },
+    "Ghastly wyrmscale cuirass": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "-5",
+            "w": "+12"
+        },
+        "regens": {
+            "spr": 11
+        },
+        "resists": {},
+        "ac": "great"
+    },
+    "A grimy viridium turquoise ring": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "d": "+5"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {
+            "as": "+6",
+            "e": "+6",
+            "f": "+6"
+        },
+        "ac": "negative"
+    },
+    "A ghastly orichalcum goosewing axe (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+1",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+9",
+            "hit": "+8",
+            "asphyxiation": 3
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "decent"
+    },
+    "An adorned meteoric iron long mace (2h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "d": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+15",
+            "hit": "-14",
+            "acid": 9
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {},
+        "wc": "great"
+    },
+    "An exceptional mithril partisan (2h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "w": "+10",
+            "ch": "-5"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+15",
+            "psionic": 16
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "wc": "awesome"
+    },
+    "A grim meteoric iron guisarme (2h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+15"
+        },
+        "weapon_stats": {
+            "dam": "+16",
+            "hit": "+8",
+            "magical": 12
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {
+            "as": "+6",
+            "m": "+8"
+        },
+        "wc": "tremendous"
+    },
     "A vile adamantine flail (1h)": {
         "glow": "a bit faster than average.",
         "stats": {
