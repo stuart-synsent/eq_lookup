@@ -5350,6 +5350,36 @@
         "resists": {},
         "ac": "non-existent"
     },
+    "A grotesque meteoric iron aruval (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "c": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+16",
+            "asphyxiation": 9
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {
+            "ps": "-6"
+        },
+        "wc": "excellent"
+    },
+    "A dreadful brocade cape": {
+        "glow": "slowly.",
+        "stats": {
+            "i": "+3",
+            "w": "+15"
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {},
+        "ac": "awesome"
+    },
     "Fancy humanskin tall boots": {
         "glow": "a bit slower than average.",
         "stats": {
@@ -10599,6 +10629,238 @@
         },
         "resists": {},
         "ac": "tiny"
+    },
+    "A masterwork mahogany staff (2h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+5",
+            "c": "+3",
+            "i": "-8"
+        },
+        "weapon_stats": {
+            "dam": "+6",
+            "hit": "+6",
+            "psionic": 9
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {
+            "as": "+6",
+            "m": "+8"
+        },
+        "wc": "adequate"
+    },
+    "A masterwork demonhide shroud": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "d": "+5",
+            "c": "+8"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {},
+        "ac": "average"
+    },
+    "A vile cuir bouilli gown": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "w": "+10"
+        },
+        "regens": {
+            "spr": 12
+        },
+        "resists": {
+            "f": "-6"
+        },
+        "ac": "tiny"
+    },
+    "Shimmering orichalcum gauntlets": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+1",
+            "c": "+8",
+            "i": "+1",
+            "w": "-5"
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {
+            "e": "-8"
+        },
+        "ac": "excellent"
+    },
+    "An elegant mithril morion": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "w": "+12"
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {
+            "po": "-6"
+        },
+        "ac": "excellent"
+    },
+    "A monstrous adamantine wand (1h)": {
+        "glow": "slowly.",
+        "stats": {
+            "w": "+15"
+        },
+        "weapon_stats": {
+            "dam": "+1",
+            "hit": "+6",
+            "asphyxiation": 17
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {
+            "ac": "+6",
+            "m": "+6",
+            "ps": "+6"
+        },
+        "wc": "low"
+    },
+    "An elegant trollskin girdle": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+10"
+        },
+        "regens": {
+            "spr": 7
+        },
+        "resists": {
+            "ac": "+6",
+            "c": "+6",
+            "ps": "+6",
+            "ph": "+6"
+        },
+        "ac": "little"
+    },
+    "A masterwork orichalcum war scythe (2h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "+2",
+            "i": "+1",
+            "w": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+11",
+            "acid": 9
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "ac": "+6",
+            "ps": "+6"
+        },
+        "wc": "great"
+    },
+    "An elegant satin sash": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "w": "+15"
+        },
+        "regens": {
+            "spr": 7
+        },
+        "resists": {
+            "ps": "-6"
+        },
+        "ac": "little"
+    },
+    "Smudged drakeskin greaves": {
+        "glow": "slowly.",
+        "stats": {
+            "d": "+8",
+            "c": "+10"
+        },
+        "regens": {
+            "hpr": 11
+        },
+        "resists": {
+            "ac": "+8",
+            "e": "-6",
+            "ph": "+6"
+        },
+        "ac": "superb"
+    },
+    "Old cuir bouilli sandals": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "c": "+1",
+            "i": "+1",
+            "ch": "+5"
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {},
+        "ac": "little"
+    },
+    "A garnished gold ruby ring": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "w": "+8"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "A nice silver chain mace (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "w": "+1",
+            "ch": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+11",
+            "fire": 2
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "f": "+6",
+            "m": "+6",
+            "ph": "+8"
+        },
+        "wc": "adequate"
+    },
+    "A dirty velvet girdle": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "w": "+1"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "Ornate silver mittens": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+10",
+            "d": "-5",
+            "i": "+1"
+        },
+        "regens": {
+            "hpr": 1
+        },
+        "resists": {},
+        "ac": "non-existent"
     },
     "An elegant silver falchion (1h)": {
         "glow": "a bit faster than average.",
