@@ -13844,6 +13844,112 @@
         "resists": {},
         "ac": "excellent"
     },
+    "A disgusting mithril bearded axe (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "d": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+7",
+            "cold": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ac": "+8"
+        },
+        "wc": "impressive"
+    },
+    "Dirty cuir bouilli gloves": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+5",
+            "d": "+5",
+            "c": "-1"
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "A decorated silk cape": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "i": "+3",
+            "ch": "+3"
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {},
+        "ac": "poor"
+    },
+    "A horrid silver barbute": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+10",
+            "w": "+1"
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "A ghastly orichalcum great sword (2h)": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+4",
+            "d": "+1",
+            "c": "-3"
+        },
+        "weapon_stats": {
+            "dam": "+6",
+            "hit": "+10",
+            "magical": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "as": "+6",
+            "e": "+8"
+        },
+        "wc": "excellent"
+    },
+    "Stained velvet sandals": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+15"
+        },
+        "regens": {
+            "spr": 7
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A garnished orichalcum bastard sword (2h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "d": "+1",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+3",
+            "hit": "+16",
+            "poison": 3
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "m": "+8"
+        },
+        "wc": "good"
+    },
     "A decorated wyvernskin girdle": {
         "glow": "fast.",
         "stats": {
