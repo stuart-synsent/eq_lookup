@@ -9156,6 +9156,223 @@
         },
         "ac": "excellent"
     },
+    "An excellent silver double headed axe (2h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+12",
+            "c": "-10"
+        },
+        "weapon_stats": {
+            "dam": "+15",
+            "hit": "+4",
+            "acid": 8
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {
+            "ac": "-6"
+        },
+        "wc": "great"
+    },
+    "A superior velvet vest": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "w": "+15"
+        },
+        "regens": {
+            "spr": 20
+        },
+        "resists": {
+            "m": "+6",
+            "ph": "+6"
+        },
+        "ac": "low"
+    },
+    "Adorned cuir bouilli boots": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "+9",
+            "c": "+3"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {
+            "m": "+10"
+        },
+        "ac": "poor"
+    },
+    "A horrid orichalcum khanda (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "-0",
+            "d": "+1",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+17",
+            "magical": 3
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "good"
+    },
+    "A repugnant orichalcum arm ring": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "c": "+10"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A garnished silver chain mace (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "-2",
+            "d": "+5",
+            "w": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+13",
+            "acid": 6
+        },
+        "regens": {
+            "hpr": 2,
+            "spr": 3
+        },
+        "resists": {
+            "ps": "-6"
+        },
+        "wc": "excellent"
+    },
+    "A dirty drakeskin cincture": {
+        "glow": "fast.",
+        "stats": {
+            "w": "+10"
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {
+            "ac": "+10"
+        },
+        "ac": "low"
+    },
+    "A shining silvery eyeball of the Lavaworm": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+10",
+            "c": "+10"
+        },
+        "regens": {},
+        "resists": {},
+        "ac": "awesome"
+    },
+    "A dark charred blade (2h)": {
+        "glow": "with average speed.",
+        "stats": {},
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+5",
+            "fire": 16
+        },
+        "regens": {},
+        "resists": {},
+        "wc": "impressive"
+    },
+    "Wielded in right hand: A dark charred blade (*blazing*) (2h) <*glowing*>": {
+        "glow": "with average speed.",
+        "stats": {},
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+5",
+            "fire": 16
+        },
+        "regens": {},
+        "resists": {},
+        "wc": "impressive"
+    },
+    "An old mithril falcata (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+4"
+        },
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+20",
+            "psionic": 5
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "great"
+    },
+    "Shiny silver rivet sabatons": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "i": "+3",
+            "w": "+3"
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {
+            "ps": "-6"
+        },
+        "ac": "average"
+    },
+    "Hideous orichalcum greaves": {
+        "glow": "slowly.",
+        "stats": {
+            "w": "+12"
+        },
+        "regens": {
+            "spr": 11
+        },
+        "resists": {
+            "as": "+10"
+        },
+        "ac": "excellent"
+    },
+    "A repulsive orichalcum spiked flail (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+1",
+            "i": "+5",
+            "ch": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+11",
+            "acid": 10
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "A shimmering gold bangle": {
+        "glow": "slowly.",
+        "stats": {
+            "d": "+15",
+            "c": "-5"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {},
+        "ac": "negative"
+    },
     "An adorned titanium spiked flail (1h)": {
         "glow": "slowly.",
         "stats": {
@@ -17237,6 +17454,66 @@
         },
         "resists": {},
         "wc": "good"
+    },
+    "A tarnished obsidian spiked flail (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+1",
+            "d": "+1",
+            "c": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+8",
+            "cold": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "great"
+    },
+    "A smudged drakeskin bracelet": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "w": "+5"
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A grimy demonhide gorget": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+15"
+        },
+        "regens": {
+            "spr": 15
+        },
+        "resists": {
+            "f": "+6"
+        },
+        "ac": "nice"
+    },
+    "A masterwork meteoric iron flanged flail (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+11",
+            "fire": 9
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {
+            "po": "-6"
+        },
+        "wc": "nice"
     },
     "A fancy mahogany short staff (2h)": {
         "glow": "a bit slower than average.",
