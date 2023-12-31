@@ -12391,6 +12391,15 @@
         },
         "ac": "negative"
     },
+    "A large gold coin": {
+        "glow": "incredibly slowly.",
+        "stats": {
+            "ch": "+20"
+        },
+        "regens": {},
+        "resists": {},
+        "ac": "non-existent"
+    },
     "A horrid cuir bouilli armguard": {
         "glow": "somewhat faster than average.",
         "stats": {
@@ -17514,6 +17523,94 @@
             "po": "-6"
         },
         "wc": "nice"
+    },
+    "A horrible orichalcum bastard sword (2h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+1",
+            "c": "+3",
+            "w": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+16",
+            "acid": 3
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "adequate"
+    },
+    "A grisly titanium scythe (2h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "c": "+1",
+            "i": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+15",
+            "asphyxiation": 14
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "wc": "superb"
+    },
+    "Elegant wyvernskin tall boots": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "-8",
+            "d": "+15"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "c": "-6"
+        },
+        "ac": "adequate"
+    },
+    "A masterwork titanium sickle (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "+8"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+14",
+            "asphyxiation": 14
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "wc": "impressive"
+    },
+    "An old orichalcum signet ring": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "+10",
+            "w": "-5"
+        },
+        "regens": {
+            "spr": 7
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "Garnished trollskin leggings": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "i": "+8"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "poor"
     },
     "A fancy mahogany short staff (2h)": {
         "glow": "a bit slower than average.",
