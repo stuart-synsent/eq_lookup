@@ -12400,6 +12400,242 @@
         "resists": {},
         "ac": "non-existent"
     },
+    "A superior titanium bearded axe (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "c": "+5",
+            "w": "+8",
+            "ch": "-5"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+12",
+            "poison": 18
+        },
+        "regens": {
+            "hpr": 2,
+            "spr": 6
+        },
+        "resists": {
+            "e": "-6",
+            "m": "-6"
+        },
+        "wc": "tremendous"
+    },
+    "A gaudy humanskin pixane": {
+        "glow": "slowly.",
+        "stats": {
+            "d": "+15"
+        },
+        "regens": {
+            "hpr": 10
+        },
+        "resists": {
+            "m": "+6",
+            "po": "+8"
+        },
+        "ac": "excellent"
+    },
+    "A decorated gold diamond ring": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+3",
+            "d": "+5"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "A blemished silver finger armour": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "d": "-1",
+            "c": "+1"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "ph": "-6"
+        },
+        "ac": "negative"
+    },
+    "An adorned velvet mantle": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+5",
+            "w": "+5"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "A decorated obsidian pike (2h)": {
+        "glow": "very fast.",
+        "stats": {
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+8",
+            "hit": "+12",
+            "poison": 6
+        },
+        "regens": {},
+        "resists": {},
+        "wc": "excellent"
+    },
+    "A decorated obsidian panabas (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+4"
+        },
+        "weapon_stats": {
+            "dam": "+9",
+            "hit": "+14",
+            "magical": 5
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "great"
+    },
+    "Disgusting satin gloves": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "+10"
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {
+            "po": "+8"
+        },
+        "ac": "negative"
+    },
+    "An elegant gold finger armour": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "i": "+3",
+            "w": "+1",
+            "ch": "+3"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {
+            "as": "-6"
+        },
+        "ac": "negative"
+    },
+    "Gaudy silver sollerets": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "+2",
+            "c": "+8"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ac": "+6",
+            "as": "-6",
+            "po": "+6"
+        },
+        "ac": "average"
+    },
+    "A grotesque obsidian bardiche (2h)": {
+        "glow": "fast.",
+        "stats": {
+            "d": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+6",
+            "cold": 9
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "A resplendent dusksteel choker necklace": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+8"
+        },
+        "regens": {
+            "hpr": 12
+        },
+        "resists": {
+            "ac": "+6",
+            "ps": "+6"
+        },
+        "ac": "negative"
+    },
+    "A stained wyrmskin cloak": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+3",
+            "d": "-1",
+            "c": "+10"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {
+            "e": "+6",
+            "m": "+8"
+        },
+        "ac": "nice"
+    },
+    "Horrible cuir bouilli trousers": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+12"
+        },
+        "regens": {
+            "spr": 7
+        },
+        "resists": {},
+        "ac": "little"
+    },
+    "An excellent titanium flanged flail (1h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "+1",
+            "d": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+9",
+            "psionic": 18
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {
+            "f": "-6"
+        },
+        "wc": "superb"
+    },
+    "A foul delium medallion": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+10"
+        },
+        "regens": {
+            "spr": 10
+        },
+        "resists": {},
+        "ac": "negative"
+    },
     "A horrid cuir bouilli armguard": {
         "glow": "somewhat faster than average.",
         "stats": {
