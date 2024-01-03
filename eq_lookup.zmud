@@ -1,5 +1,3 @@
-;; Generated 2024-01-03 12:22:42.119653
-/property -b lookup_eq
 #trigger {(Dusty wyrmscale fluted gauntlets)} {#sub {%1 [Known c:+5 i:+1 hpr:1]}}
 #trigger {(A repugnant mithril war scythe ~(2h~))} {#sub {%1 [Known s:+1 d:-1 c:+1 dam:+14 hit:+14 magical:4]}}
 #trigger {(A shiny meteoric iron arm ring)} {#sub {%1 [Known i:+18 spr:9]}}
