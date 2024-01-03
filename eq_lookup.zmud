@@ -1,0 +1,1243 @@
+;; Generated 2024-01-03 12:22:42.119653
+/property -b lookup_eq
+#trigger {(Dusty wyrmscale fluted gauntlets)} {#sub {%1 [Known c:+5 i:+1 hpr:1]}}
+#trigger {(A repugnant mithril war scythe ~(2h~))} {#sub {%1 [Known s:+1 d:-1 c:+1 dam:+14 hit:+14 magical:4]}}
+#trigger {(A shiny meteoric iron arm ring)} {#sub {%1 [Known i:+18 spr:9]}}
+#trigger {(A vile satin rope)} {#sub {%1 [Known w:+20 spr:10]}}
+#trigger {(A horrendous viridium khanda ~(1h~))} {#sub {%1 [Known i:+8 spr:8 dam:+7 hit:+17 cold:10]}}
+#trigger {(A shimmering dusksteel crown)} {#sub {%1 [Known s:+2 d:+3 c:+12 hpr:8]}}
+#trigger {(A repugnant viridium necklace)} {#sub {%1 [Known w:+8 spr:9]}}
+#trigger {(A superior obsidian great falx ~(2h~))} {#sub {%1 [Known s:+1 d:+1 c:+1 dam:+15 hit:+10 psionic:4]}}
+#trigger {(A dirty viridium ecclestiastical ring)} {#sub {%1 [Known w:+10 spr:7]}}
+#trigger {(A shiny silver scythe ~(2h~))} {#sub {%1 [Known s:+1]}}
+#trigger {(An antique silver falcata ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(A tarnished mahogany sceptre ~(1h~))} {#sub {%1 [Known d:-8 c:+10 ch:+1 hpr:2 hit:+3 cold:3]}}
+#trigger {(An elegant orichalcum goosewing axe ~(1h~))} {#sub {%1 [Known s:+4 hpr:3 dam:+9 hit:+5 fire:3]}}
+#trigger {(A blemished orichalcum bloodstone ring)} {#sub {%1 [Known c:+1 i:+1]}}
+#trigger {(Corroding scourager ~(2h~))} {#sub {%1 [Known s:+10 d:-5 dam:+10 hit:+18 acid:17]}}
+#trigger {(A sinister meteoric iron aruval ~(1h~))} {#sub {%1 [Known s:+2 d:-1 c:+3 hpr:4 dam:+13 hit:+18 acid:13]}}
+#trigger {(Disgusting humanskin boots)} {#sub {%1 [Known s:+2 d:+3 c:+1 hpr:4]}}
+#trigger {(Horrid meteoric iron rivet gauntlets)} {#sub {%1 [Known w:+10 spr:4]}}
+#trigger {(A pair of voidplate gauntlets <Bound>)} {#sub {%1 [Known s:+6 d:+6 c:+6 hpr:3]}}
+#trigger {(Disgusting adamantine rivet gauntlets)} {#sub {%1 [Known c:+18 hpr:3]}}
+#trigger {(A weathered wyvernskin girdle)} {#sub {%1 [Known d:+5 hpr:2]}}
+#trigger {(A gory obsidian khanda ~(1h~))} {#sub {%1 [Known d:+8 i:+1 hpr:6 dam:+6 hit:+16 magical:10]}}
+#trigger {(A grimy silk cloak)} {#sub {%1 [Known i:+5 w:+5 spr:7]}}
+#trigger {(An exceptional orichalcum khopesh ~(1h~))} {#sub {%1 [Known d:+8 hpr:3 dam:+9 hit:+18 psionic:8]}}
+#trigger {(A ghastly mithril armband)} {#sub {%1 [Known s:+3 d:+12 c:+3 hpr:6]}}
+#trigger {(An opaline unicorn horn)} {#sub {%1 [Known w:+10]}}
+#trigger {(A shimmering mithril bardiche ~(2h~))} {#sub {%1 [Known s:+2 d:+3 hpr:5 dam:+11 hit:+9 magical:10]}}
+#trigger {(A hideous silver armlet)} {#sub {%1 [Known s:+10 d:-1 hpr:4]}}
+#trigger {(A shimmering velvet sash)} {#sub {%1 [Known i:+12 spr:6]}}
+#trigger {(A nice orichalcum opal ring)} {#sub {%1 [Known d:+8 i:+1 hpr:4]}}
+#trigger {(A hideous mithril ranseur ~(2h~))} {#sub {%1 [Known s:+1 dam:+9 hit:+12 poison:4]}}
+#trigger {(An antique velvet shroud)} {#sub {%1 [Known i:+3 w:+5 spr:6]}}
+#trigger {(Wielded in both hands: The great two-handed hammer named 'Despair' ~(2h~) *glowing*)} {#sub {%1 [Known dam:+20 hit:-8 electric:20]}}
+#trigger {(A vile titanium great axe ~(2h~))} {#sub {%1 [Known s:-1 i:+1 w:+5 ch:+1 spr:6 dam:+19 hit:+6 electric:14]}}
+#trigger {(An antique orichalcum ecclestiastical ring)} {#sub {%1 [Known s:+9 hpr:10]}}
+#trigger {(Adorned meteoric iron sabatons)} {#sub {%1 [Known s:+12 d:-10 c:+5 hpr:5]}}
+#trigger {(Dirty dusksteel rivet cuirass)} {#sub {%1 [Known s:+4 d:+18 c:-10 hpr:13]}}
+#trigger {(A garnished titanium crown)} {#sub {%1 [Known i:+5 w:+10 spr:10]}}
+#trigger {(Pearl-plated sabatons)} {#sub {%1 [Known s:+8 c:+8 w:+8 ch:+13 hpr:9]}}
+#trigger {(A golden locket)} {#sub {%1 [Known]}}
+#trigger {(A gory silver wand ~(1h~))} {#sub {%1 [Known d:+8 ch:+1 hpr:4 dam:-3 hit:+6 poison:6]}}
+#trigger {(A rotting wyvernskin armband)} {#sub {%1 [Known i:+8 spr:5]}}
+#trigger {(Shiny silver chausses)} {#sub {%1 [Known s:+10 hpr:5]}}
+#trigger {(A superior viridium voulge ~(2h~))} {#sub {%1 [Known d:+1 c:+3 hpr:3 dam:+10 hit:+10 magical:5]}}
+#trigger {(Gaudy meteoric iron fluted gauntlets)} {#sub {%1 [Known i:+8 w:+5 spr:4]}}
+#trigger {(A vile orichalcum amethyst ring)} {#sub {%1 [Known ch:+10 spr:7]}}
+#trigger {(A fine mithril goosewing axe ~(1h~))} {#sub {%1 [Known s:+4 d:+1 w:+3 hpr:4 spr:4 dam:+15 hit:+8 psionic:17]}}
+#trigger {(A repulsive drakeskin gown)} {#sub {%1 [Known w:+15 spr:14]}}
+#trigger {(An ornate mithril ranseur ~(2h~))} {#sub {%1 [Known i:+3 w:+8 spr:5 dam:+8 hit:+13 asphyxiation:13]}}
+#trigger {(A gaudy titanium poleaxe ~(2h~))} {#sub {%1 [Known i:+8 w:+5 spr:6 dam:+13 hit:+11 psionic:15]}}
+#trigger {(A grimy mithril battle axe ~(1h~))} {#sub {%1 [Known w:+1 ch:+1 dam:+11 hit:+8 magical:11]}}
+#trigger {(A well-crafted dragonscale shield)} {#sub {%1 [Known s:+2 i:+15 spr:4]}}
+#trigger {(A gaudy demonhide mantle)} {#sub {%1 [Known s:+6 d:+3 c:+3 hpr:7]}}
+#trigger {(A gaudy obsidian aquamarine ring)} {#sub {%1 [Known s:+9 i:-5 hpr:6]}}
+#trigger {(Blood-stained trollskin trousers)} {#sub {%1 [Known i:+5 w:+3 spr:9]}}
+#trigger {(A repulsive viridium chain mace ~(1h~))} {#sub {%1 [Known i:+8 spr:7 dam:+11 hit:+15 acid:8]}}
+#trigger {(A dusty satin cummerbund)} {#sub {%1 [Known i:+12 spr:6]}}
+#trigger {(A gaudy orichalcum great helm)} {#sub {%1 [Known w:+12 spr:10]}}
+#trigger {(A dreadful mithril kite shield)} {#sub {%1 [Known s:+1 d:-3 c:+5 hpr:6]}}
+#trigger {(A gory cuir bouilli vest)} {#sub {%1 [Known w:+12 spr:13]}}
+#trigger {(An excellent orichalcum chain mace ~(1h~))} {#sub {%1 [Known c:+8 hpr:4 dam:+15 hit:+12 acid:6]}}
+#trigger {(A garnished orichalcum targe)} {#sub {%1 [Known i:+5 spr:3]}}
+#trigger {(A foul wyvernskin girdle)} {#sub {%1 [Known s:+1 c:+5 hpr:3]}}
+#trigger {(Dusty viridium prayer beads)} {#sub {%1 [Known d:+8 hpr:7]}}
+#trigger {(Spellstitched trollskin legguards)} {#sub {%1 [Known w:+20 spr:14]}}
+#trigger {(A repulsive satin rope)} {#sub {%1 [Known w:+15 spr:6]}}
+#trigger {(An exceptional titanium jade ring)} {#sub {%1 [Known i:+18 spr:12]}}
+#trigger {(A superior orichalcum buckler)} {#sub {%1 [Known i:+5 spr:3]}}
+#trigger {(An old titanium battle axe ~(1h~))} {#sub {%1 [Known s:+4 i:-3 ch:+1 hpr:4 dam:+14 hit:+10 acid:13]}}
+#trigger {(A well-crafted meteoric iron scimitar ~(1h~))} {#sub {%1 [Known d:+3 c:-10 w:+12 hpr:1 spr:7 dam:+2 hit:+19 cold:10]}}
+#trigger {(A horrid mithril kopis ~(1h~))} {#sub {%1 [Known d:+8 w:+3 hpr:4 spr:2 dam:+7 hit:+19 poison:10]}}
+#trigger {(A smudged silver kite shield)} {#sub {%1 [Known s:+2 d:-3 c:+8 hpr:3]}}
+#trigger {(A garnished electrum turquoise ring)} {#sub {%1 [Known s:+5 d:+10 c:-5 hpr:9]}}
+#trigger {(Well-crafted mithril rivet cuirass)} {#sub {%1 [Known w:+10 spr:15]}}
+#trigger {(Gory silver demi-gaunts)} {#sub {%1 [Known d:+5 c:+3 hpr:2]}}
+#trigger {(Ornate mithril rivet cuirass)} {#sub {%1 [Known s:+2 c:+3 hpr:7]}}
+#trigger {(Old wyrmscale chausses)} {#sub {%1 [Known i:+5 w:+5 spr:7]}}
+#trigger {(A tainted orichalcum pendant)} {#sub {%1 [Known s:+3 hpr:3]}}
+#trigger {(Blemished orichalcum vambraces)} {#sub {%1 [Known w:+8 spr:2]}}
+#trigger {(A vile viridium flambard ~(2h~))} {#sub {%1 [Known s:+8 hpr:7 dam:+11 hit:+16 magical:20]}}
+#trigger {(A shimmering obsidian coronet)} {#sub {%1 [Known s:+7 hpr:7]}}
+#trigger {(An antique mithril talisman)} {#sub {%1 [Known d:+15 c:+3 hpr:12]}}
+#trigger {(Wielded in right hand: The Broadsword, Sunbringer ~(2h~) <*glowing*> <glimmering>)} {#sub {%1 [Known dam:+10 hit:+15 magical:17]}}
+#trigger {(A gaudy mithril great helm)} {#sub {%1 [Known i:+3 w:+8 spr:7]}}
+#trigger {(A grimy orichalcum bastard sword ~(2h~))} {#sub {%1 [Known s:+1 c:+3 hpr:3 dam:+5 hit:+11 electric:3]}}
+#trigger {(A ghastly mithril shashka ~(1h~))} {#sub {%1 [Known s:+1 d:-3 w:+5 ch:+5 spr:9 dam:+6 hit:+18 asphyxiation:18]}}
+#trigger {(Foul wyrmscale demi-gaunts)} {#sub {%1 [Known d:+8 hpr:2]}}
+#trigger {(A fancy gold aquamarine ring)} {#sub {%1 [Known i:+1 w:+5 spr:4]}}
+#trigger {(An adorned viridium signet ring)} {#sub {%1 [Known s:+5 d:+1 c:+3 hpr:5]}}
+#trigger {(A black leather cloak adorned with silver runes)} {#sub {%1 [Known i:-5 w:+20 spr:10]}}
+#trigger {(A fine silver spiked flail ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(A tarnished orichalcum bracer)} {#sub {%1 [Known c:+1 w:+1]}}
+#trigger {(A blemished gold lariat necklace)} {#sub {%1 [Known s:-2 c:+3 hpr:3]}}
+#trigger {(A dreadful walnut flail ~(1h~))} {#sub {%1 [Known s:+2 d:+3 c:+1 hpr:4 dam:+11 hit:+15 electric:15]}}
+#trigger {(Ghastly drakeskin tall boots)} {#sub {%1 [Known s:+1 d:+5 c:+5 hpr:5]}}
+#trigger {(A disgusting viridium sabre ~(1h~))} {#sub {%1 [Known s:-1 i:+1 w:+1 ch:+3 spr:5 dam:+7 hit:+16 asphyxiation:4]}}
+#trigger {(A dirty wyrmscale collar)} {#sub {%1 [Known s:-2 w:+5 ch:+3 spr:8]}}
+#trigger {(A dusty wyrmscale shield)} {#sub {%1 [Known w:+5 spr:2]}}
+#trigger {(Horrid drakeskin legguards)} {#sub {%1 [Known d:-3 ch:+8 spr:8]}}
+#trigger {(A blemished brocade kaftan)} {#sub {%1 [Known i:+5 ch:+5 spr:10]}}
+#trigger {(A nice wood sceptre ~(1h~))} {#sub {%1 [Known w:+10 spr:9 dam:+2 hit:+8 poison:18]}}
+#trigger {(The crest of the hive)} {#sub {%1 [Known c:+8 i:+6 w:+6 ch:-15 spr:6]}}
+#trigger {(An excellent mithril spiked flail ~(1h~))} {#sub {%1 [Known w:+8 spr:5 dam:+9 hit:+9 fire:6]}}
+#trigger {(An elegant wyvernskin girdle)} {#sub {%1 [Known s:+6 d:+3 c:-10 hpr:3]}}
+#trigger {(A repugnant orichalcum flanged flail ~(1h~))} {#sub {%1 [Known d:+3 ch:+1 hpr:4 dam:+13 hit:+9 poison:6]}}
+#trigger {(A superior viridium flanged flail ~(1h~))} {#sub {%1 [Known c:+1 i:+3 spr:5 dam:+11 hit:+12 acid:6]}}
+#trigger {(Filthy orichalcum rivet sabatons)} {#sub {%1 [Known s:-1 d:+5 c:+1 hpr:4]}}
+#trigger {(An ornate orichalcum khopesh ~(1h~))} {#sub {%1 [Known c:+5 ch:+1 hpr:2 dam:+10 hit:+13 electric:3]}}
+#trigger {(A shimmering wyvernskin armband)} {#sub {%1 [Known s:+5 d:+1 i:-5 ch:+5 hpr:2 spr:3]}}
+#trigger {(Vile trollskin tall boots)} {#sub {%1 [Known d:+5 hpr:3]}}
+#trigger {(Adorned orichalcum prayer beads)} {#sub {%1 [Known w:+10 spr:8]}}
+#trigger {(A repugnant orichalcum sallet)} {#sub {%1 [Known s:+6 d:+1 c:+1 hpr:5]}}
+#trigger {(A garnished silver guisarme ~(2h~))} {#sub {%1 [Known s:-6 c:+5 hpr:3 dam:+12 hit:+6 acid:2]}}
+#trigger {(A grotesque viridium great axe ~(2h~))} {#sub {%1 [Known i:+8 spr:6 dam:+20 hit:+5 poison:12]}}
+#trigger {(A decorated drakeskin bracer)} {#sub {%1 [Known s:+5 d:+5 c:+1 hpr:4]}}
+#trigger {(A foul meteoric iron morningstar ~(1h~))} {#sub {%1 [Known c:+5 w:+3 hpr:3 spr:3 dam:+15 hit:-11 cold:10]}}
+#trigger {(An elegant cuir bouilli coat)} {#sub {%1 [Known c:+10 hpr:9]}}
+#trigger {(A hideous wyrmscale great helm)} {#sub {%1 [Known s:+7 d:-10 c:+10 hpr:7]}}
+#trigger {(A rotting silk cape)} {#sub {%1 [Known s:+2 w:-3 ch:+3 hpr:1 spr:2]}}
+#trigger {(A shiny viridium bangle)} {#sub {%1 [Known i:+5 w:+3 spr:5]}}
+#trigger {(A grisly silver spiked flail ~(1h~))} {#sub {%1 [Known i:+3 spr:4 dam:+12 hit:+9 fire:4]}}
+#trigger {(A tainted obsidian bearded axe ~(1h~))} {#sub {%1 [Known s:+1 d:+3 hpr:4 dam:+14 hit:+9 magical:6]}}
+#trigger {(A nice wyvernskin pixane)} {#sub {%1 [Known s:+5 d:+8 c:-10 hpr:7]}}
+#trigger {(A horrid adamantine bastard sword ~(2h~))} {#sub {%1 [Known s:+2 d:+8 c:-5 hpr:7 dam:+4 hit:+17 cold:18]}}
+#trigger {(A rotting velvet rope)} {#sub {%1 [Known i:+1 w:+5 spr:5]}}
+#trigger {(A blood-stained mithril skullcap)} {#sub {%1 [Known w:+12 spr:8]}}
+#trigger {(A nice silver sabre ~(1h~))} {#sub {%1 [Known d:+3 c:+1 i:+5 hpr:1 spr:5 dam:+3 hit:+14 poison:5]}}
+#trigger {(A shiny orichalcum mask)} {#sub {%1 [Known d:+18 hpr:9]}}
+#trigger {(A grimy drakeskin chlamys)} {#sub {%1 [Known i:+5 spr:3]}}
+#trigger {(A garnished orichalcum double headed axe ~(2h~))} {#sub {%1 [Known s:+1 d:+1 c:+1 dam:+21 hit:+8 cold:14]}}
+#trigger {(A fancy wyvernskin pixane)} {#sub {%1 [Known c:+8 hpr:6]}}
+#trigger {(An elegant trollskin coat)} {#sub {%1 [Known s:+4 d:+3 hpr:8]}}
+#trigger {(A tainted obsidian rod ~(1h~))} {#sub {%1 [Known d:+1 c:+3 hpr:5 dam:-2 hit:+8 cold:5]}}
+#trigger {(Antique wyvernskin trousers)} {#sub {%1 [Known c:+5 hpr:4]}}
+#trigger {(A grimy orichalcum spiked flail ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(A worn cuir bouilli gown)} {#sub {%1 [Known d:+1 c:+1 w:+1]}}
+#trigger {(A blood-stained orichalcum scythe ~(2h~))} {#sub {%1 [Known c:+5 hpr:3 dam:+6 hit:+11 cold:3]}}
+#trigger {(Dirty trollskin gloves)} {#sub {%1 [Known i:+5 w:+3 spr:3]}}
+#trigger {(A decorated orichalcum long sceptre ~(2h~))} {#sub {%1 [Known s:+1 c:+3 i:-3 ch:+1 hpr:3 dam:+1 hit:+4 electric:2]}}
+#trigger {(Shimmering drakeskin sandals)} {#sub {%1 [Known s:+4 c:+5 hpr:4]}}
+#trigger {(Smudged silver greaves)} {#sub {%1 [Known w:+5 spr:5]}}
+#trigger {(A blood-stained meteoric iron broadaxe ~(1h~))} {#sub {%1 [Known c:+3 i:+1 w:-1 ch:+5 hpr:1 spr:4 dam:+14 hit:+9 psionic:14]}}
+#trigger {(Stained mithril mittens)} {#sub {%1 [Known i:+8 spr:2]}}
+#trigger {(A masterwork mahogany staff ~(2h~))} {#sub {%1 [Known d:+5 c:+3 i:-8 hpr:2 dam:+6 hit:+6 psionic:9]}}
+#trigger {(A masterwork demonhide shroud)} {#sub {%1 [Known d:+5 c:+8 hpr:5]}}
+#trigger {(A vile cuir bouilli gown)} {#sub {%1 [Known w:+10 spr:12]}}
+#trigger {(Shimmering orichalcum gauntlets)} {#sub {%1 [Known d:+1 c:+8 i:+1 w:-5 hpr:2]}}
+#trigger {(An elegant mithril morion)} {#sub {%1 [Known w:+12 spr:9]}}
+#trigger {(A monstrous adamantine wand ~(1h~))} {#sub {%1 [Known w:+15 spr:9 dam:+1 hit:+6 asphyxiation:17]}}
+#trigger {(An elegant trollskin girdle)} {#sub {%1 [Known i:+10 spr:7]}}
+#trigger {(A masterwork orichalcum war scythe ~(2h~))} {#sub {%1 [Known s:+2 i:+1 w:+1 hpr:3 dam:+14 hit:+11 acid:9]}}
+#trigger {(An elegant satin sash)} {#sub {%1 [Known w:+15 spr:7]}}
+#trigger {(Smudged drakeskin greaves)} {#sub {%1 [Known d:+8 c:+10 hpr:11]}}
+#trigger {(Old cuir bouilli sandals)} {#sub {%1 [Known c:+1 i:+1 ch:+5 spr:4]}}
+#trigger {(A garnished gold ruby ring)} {#sub {%1 [Known w:+8 spr:5]}}
+#trigger {(A nice silver chain mace ~(1h~))} {#sub {%1 [Known s:+2 w:+1 ch:+1 hpr:3 dam:+12 hit:+11 fire:2]}}
+#trigger {(A dirty velvet girdle)} {#sub {%1 [Known s:+2 w:+1 hpr:3]}}
+#trigger {(Ornate silver mittens)} {#sub {%1 [Known s:+10 d:-5 i:+1 hpr:1]}}
+#trigger {(An exceptional wyrmscale tower shield)} {#sub {%1 [Known d:+5 i:+1 hpr:5]}}
+#trigger {(A grim titanium halberd ~(2h~))} {#sub {%1 [Known w:+20 spr:9 dam:+8 hit:+11 acid:16]}}
+#trigger {(A vile meteoric iron morningstar ~(1h~))} {#sub {%1 [Known c:+5 i:+5 hpr:2 spr:5 dam:+16 hit:-14 acid:10]}}
+#trigger {(A horrible silver heater shield)} {#sub {%1 [Known i:+1 w:+3 spr:2]}}
+#trigger {(An adorned wyrmscale tower shield)} {#sub {%1 [Known s:+4 i:+3 hpr:1 spr:1]}}
+#trigger {(A tainted meteoric iron sickle ~(1h~))} {#sub {%1 [Known s:+4 i:+3 hpr:2 spr:2 dam:+7 hit:+13 acid:8]}}
+#trigger {(Worn wyrmskin sandals)} {#sub {%1 [Known i:+8 w:+3 spr:7]}}
+#trigger {(A superior wyrmscale kettle hat)} {#sub {%1 [Known i:+12 w:-3 spr:10]}}
+#trigger {(Superior mithril rivet vambraces <Bound>)} {#sub {%1 [Known i:-8 w:+15 spr:5]}}
+#trigger {(A gaudy silver bastard sword ~(2h~))} {#sub {%1 [Known s:+1 dam:+4 hit:+13 asphyxiation:4]}}
+#trigger {(An odious meteoric iron long sceptre ~(2h~))} {#sub {%1 [Known i:+18 spr:8 dam:+5 hit:+9 magical:19]}}
+#trigger {(Hideous satin long gloves)} {#sub {%1 [Known i:+5 w:+8 spr:4]}}
+#trigger {(Elegant velvet boots)} {#sub {%1 [Known w:+10 spr:6]}}
+#trigger {(A fancy mahogany short staff ~(2h~))} {#sub {%1 [Known d:+5 hpr:3 dam:+3 hit:+1 magical:2]}}
+#trigger {(Antique silver fluted gauntlets)} {#sub {%1 [Known s:+3 d:+5 hpr:1]}}
+#trigger {(Gaudy wyrmscale sollerets)} {#sub {%1 [Known s:-1 d:+5 c:+3 hpr:4]}}
+#trigger {(An elegant drakeskin cincture)} {#sub {%1 [Known s:+5 d:+3 hpr:4]}}
+#trigger {(A blood-stained obsidian flanged flail ~(1h~))} {#sub {%1 [Known s:+6 d:+1 c:-5 hpr:4 dam:+12 hit:+9 cold:6]}}
+#trigger {(A foul viridium circlet)} {#sub {%1 [Known i:+8 spr:6]}}
+#trigger {(Dirty trollskin sandals)} {#sub {%1 [Known c:+5 hpr:3]}}
+#trigger {(A horrid orichalcum spear ~(2h~))} {#sub {%1 [Known s:+1 d:-1 dam:+11 hit:+10 cold:6]}}
+#trigger {(A decorated orichalcum comb morion)} {#sub {%1 [Known i:+10 w:+3 spr:9]}}
+#trigger {(A foul meteoric iron hauberk)} {#sub {%1 [Known d:-1 c:+15 hpr:11]}}
+#trigger {(The Crown of Darkness)} {#sub {%1 [Known i:+6 w:+5 spr:13]}}
+#trigger {(Sea blue necklace)} {#sub {%1 [Known d:-5 i:+10 spr:15]}}
+#trigger {(The cloak of the black circle)} {#sub {%1 [Known i:+12 spr:10]}}
+#trigger {(Amulet of the dying winds)} {#sub {%1 [Known i:+5 ch:+8 spr:17]}}
+#trigger {(A worn leather and tooth bracelet)} {#sub {%1 [Known s:-5 i:+5 w:+15 hpr:2 spr:9]}}
+#trigger {(A multi-jeweled platinum ring)} {#sub {%1 [Known i:+8 spr:12]}}
+#trigger {(A golden ring with a red ruby embedded in it)} {#sub {%1 [Known i:+4 spr:13]}}
+#trigger {(Antique wyrmscale rivet gauntlets <Bound>)} {#sub {%1 [Known w:+8 spr:3]}}
+#trigger {(Tome of Black Hell)} {#sub {%1 [Known s:-3 d:-3 c:+3 i:+7 w:+3 spr:13]}}
+#trigger {(White belt)} {#sub {%1 [Known s:-3 d:-4 c:-2 i:+7 w:+7 spr:10]}}
+#trigger {(Held in right hand: A masterfully crafted golden horn)} {#sub {%1 [Known]}}
+#trigger {(A dusty silver nodachi ~(2h~))} {#sub {%1 [Known c:+3 i:+1 w:-5 ch:+3 hpr:1 spr:2 dam:+5 hit:+13 acid:3]}}
+#trigger {(Wielded in left hand: The ancient warglove called Tebukuro-ken <Poisonblade> ~(2h~) *glowing*)} {#sub {%1 [Known s:+4 d:+10 c:+2 w:-0 ch:-0 hpr:5]}}
+#trigger {(Ascalon, the crystal sword ~(2h~))} {#sub {%1 [Known dam:+8 hit:+18 fire:20]}}
+#trigger {(A large gold coin)} {#sub {%1 [Known ch:+20]}}
+#trigger {(A superior titanium bearded axe ~(1h~))} {#sub {%1 [Known c:+5 w:+8 ch:-5 hpr:2 spr:6 dam:+12 hit:+12 poison:18]}}
+#trigger {(A gaudy humanskin pixane)} {#sub {%1 [Known d:+15 hpr:10]}}
+#trigger {(A decorated gold diamond ring)} {#sub {%1 [Known s:+3 d:+5 hpr:7]}}
+#trigger {(A blemished silver finger armour)} {#sub {%1 [Known s:+2 d:-1 c:+1 hpr:3]}}
+#trigger {(An adorned velvet mantle)} {#sub {%1 [Known i:+5 w:+5 spr:5]}}
+#trigger {(A decorated obsidian pike ~(2h~))} {#sub {%1 [Known c:+1 dam:+8 hit:+12 poison:6]}}
+#trigger {(A decorated obsidian panabas ~(1h~))} {#sub {%1 [Known s:+4 hpr:4 dam:+9 hit:+14 magical:5]}}
+#trigger {(Disgusting satin gloves)} {#sub {%1 [Known i:+10 spr:4]}}
+#trigger {(An elegant gold finger armour)} {#sub {%1 [Known i:+3 w:+1 ch:+3 spr:5]}}
+#trigger {(Gaudy silver sollerets)} {#sub {%1 [Known s:+2 c:+8 hpr:4]}}
+#trigger {(A grotesque obsidian bardiche ~(2h~))} {#sub {%1 [Known d:+5 hpr:6 dam:+14 hit:+6 cold:9]}}
+#trigger {(A resplendent dusksteel choker necklace)} {#sub {%1 [Known s:+8 hpr:12]}}
+#trigger {(A stained wyrmskin cloak)} {#sub {%1 [Known s:+3 d:-1 c:+10 hpr:7]}}
+#trigger {(Horrible cuir bouilli trousers)} {#sub {%1 [Known i:+12 spr:7]}}
+#trigger {(An excellent titanium flanged flail ~(1h~))} {#sub {%1 [Known s:+1 d:+5 hpr:7 dam:+11 hit:+9 psionic:18]}}
+#trigger {(A foul delium medallion)} {#sub {%1 [Known i:+10 spr:10]}}
+#trigger {(A gory silver broadaxe ~(1h~))} {#sub {%1 [Known s:+1 i:+3 w:+3 ch:-1 spr:3 dam:+18 hit:+8 cold:10]}}
+#trigger {(A dirty trollskin cincture)} {#sub {%1 [Known s:+6 hpr:5]}}
+#trigger {(A garnished humanskin chlamys)} {#sub {%1 [Known w:+20 spr:9]}}
+#trigger {(A vile mithril finger armour)} {#sub {%1 [Known s:+7 c:+8 hpr:9]}}
+#trigger {(A filthy cuir bouilli robe)} {#sub {%1 [Known i:+1 w:+3 spr:4]}}
+#trigger {(A well-crafted silver bangle)} {#sub {%1 [Known w:+3 spr:3]}}
+#trigger {(A grotesque orichalcum spear ~(2h~))} {#sub {%1 [Known s:+2 c:+1 hpr:3 dam:+5 hit:+12 cold:2]}}
+#trigger {(Weathered drakeskin cuisses)} {#sub {%1 [Known i:+12 spr:8]}}
+#trigger {(Wielded in right hand: The Broadsword, Sunbringer ~(1h~) <*glowing*> <blessed> <glimmering>)} {#sub {%1 [Known dam:+10 hit:+15 magical:17]}}
+#trigger {(Wielded in right hand: The Broadsword, Sunbringer ~(1h~) <*glowing*> <glimmering>)} {#sub {%1 [Known dam:+10 hit:+15 magical:17]}}
+#trigger {(The horned skull of the dragonking)} {#sub {%1 [Known c:+10 i:-5 w:-5 hpr:4]}}
+#trigger {(A fingerbone necklace)} {#sub {%1 [Known s:+7 d:+3 c:+5 ch:-10 hpr:6]}}
+#trigger {(A horrible silver spiked flail ~(1h~))} {#sub {%1 [Known s:+1 dam:+10 hit:+9 cold:3]}}
+#trigger {(A smudged humanskin girdle)} {#sub {%1 [Known w:+10 spr:6]}}
+#trigger {(A horrible obsidian chain mace ~(1h~))} {#sub {%1 [Known d:+8 c:+1 hpr:4 dam:+13 hit:+12 poison:4]}}
+#trigger {(Shimmering orichalcum vambraces)} {#sub {%1 [Known w:+12 spr:5]}}
+#trigger {(A smudged satin hood)} {#sub {%1 [Known c:+10 hpr:5]}}
+#trigger {(A repugnant silver bracelet)} {#sub {%1 [Known s:+3 d:+1 c:+5 hpr:4]}}
+#trigger {(A foul obsidian wakizashi ~(1h~))} {#sub {%1 [Known s:-4 d:+5 c:+3 hpr:4 dam:+2 hit:+20 asphyxiation:4]}}
+#trigger {(A repugnant humanskin cape)} {#sub {%1 [Known s:+1 d:-10 c:+18 hpr:4]}}
+#trigger {(A tarnished orichalcum kettle hat)} {#sub {%1 [Known d:+5 w:+1 hpr:3]}}
+#trigger {(A fancy orichalcum gladius ~(1h~))} {#sub {%1 [Known s:+4 d:-10 c:+5 hpr:3 dam:+4 hit:+16 fire:3]}}
+#trigger {(A resplendent gold choker necklace)} {#sub {%1 [Known i:+5 spr:8]}}
+#trigger {(A well-crafted orichalcum flanged mace ~(1h~))} {#sub {%1 [Known i:+5 spr:4 dam:+13 hit:-13 poison:3]}}
+#trigger {(An exceptional duskwood flail ~(1h~))} {#sub {%1 [Known d:+1 i:+1 w:-3 ch:+12 spr:9 dam:+14 hit:+10 magical:18]}}
+#trigger {(A repugnant mithril medallion)} {#sub {%1 [Known c:+12 hpr:8]}}
+#trigger {(Masterwork trollskin breeches)} {#sub {%1 [Known d:+18 hpr:12]}}
+#trigger {(A horrid silver choker necklace)} {#sub {%1 [Known d:+10 hpr:4]}}
+#trigger {(A blood-stained trollskin chlamys)} {#sub {%1 [Known s:+5 d:-3 c:+3 hpr:3]}}
+#trigger {(A horrid silver spear ~(2h~))} {#sub {%1 [Known c:+1 dam:+7 hit:+12 cold:3]}}
+#trigger {(Elegant drakeskin vambraces)} {#sub {%1 [Known s:+5 d:+3 hpr:2]}}
+#trigger {(A repulsive mithril great axe ~(2h~))} {#sub {%1 [Known d:+3 c:+12 hpr:7 dam:+22 hit:+6 asphyxiation:18]}}
+#trigger {(A fancy wyrmscale mask)} {#sub {%1 [Known i:+8 w:+5 spr:8]}}
+#trigger {(Superior orichalcum chausses)} {#sub {%1 [Known s:+5 c:+3 hpr:7]}}
+#trigger {(A fancy wyvernskin splint mail)} {#sub {%1 [Known d:+10 hpr:6]}}
+#trigger {(A moth-eaten velvet cummerbund)} {#sub {%1 [Known s:+3 ch:+3 hpr:2 spr:1]}}
+#trigger {(Dirty wyvernskin greaves)} {#sub {%1 [Known s:+5 d:+10 c:-10 hpr:7]}}
+#trigger {(A befouled orichalcum flanged flail ~(1h~))} {#sub {%1 [Known s:+8 i:-10 ch:+5 hpr:2 spr:1 dam:+7 hit:+10 cold:3]}}
+#trigger {(A grisly mithril war scythe ~(2h~))} {#sub {%1 [Known i:+10 spr:6 dam:+13 hit:+10 electric:5]}}
+#trigger {(A tainted wyrmscale attic helmet)} {#sub {%1 [Known c:+3 i:+10 w:-8 spr:4]}}
+#trigger {(A blood-stained silver scythe ~(2h~))} {#sub {%1 [Known s:+1 w:+3 spr:4 dam:+10 hit:+8 cold:4]}}
+#trigger {(A grisly silver goosewing axe ~(1h~))} {#sub {%1 [Known s:-4 d:+1 c:+8 hpr:4 dam:+13 hit:+8 magical:6]}}
+#trigger {(Dusty wyvernskin cuisses)} {#sub {%1 [Known s:+18 d:+5 c:-8 hpr:12]}}
+#trigger {(A fancy pine short staff ~(2h~))} {#sub {%1 [Known s:+4 i:+1 ch:+1 hpr:4 dam:+2 hit:+7 poison:5]}}
+#trigger {(A tainted orichalcum morningstar ~(1h~))} {#sub {%1 [Known s:+1]}}
+#trigger {(A ghastly silver barbute)} {#sub {%1 [Known s:+2 i:+5 hpr:1 spr:3]}}
+#trigger {(A fine mithril sword ~(1h~))} {#sub {%1 [Known s:+2 c:+3 hpr:4 dam:+3 hit:+19 poison:4]}}
+#trigger {(An antique mahogany quarterstaff ~(2h~))} {#sub {%1 [Known c:+3 ch:+5 hpr:1 spr:3 dam:+7 hit:+2 fire:4]}}
+#trigger {(A shiny orichalcum signet ring)} {#sub {%1 [Known s:+1 d:+8 hpr:4]}}
+#trigger {(A grotesque silver spiked mace ~(1h~))} {#sub {%1 [Known c:+1 dam:+10 hit:-13 poison:4]}}
+#trigger {(A fine pine long sceptre ~(2h~))} {#sub {%1 [Known c:+5 hpr:4 dam:+6 hit:+3 cold:5]}}
+#trigger {(An adorned drakeskin cassock)} {#sub {%1 [Known i:-8 w:+12 spr:7]}}
+#trigger {(A vile pine short staff ~(2h~))} {#sub {%1 [Known i:+1 w:+5 spr:4 dam:+1 hit:+3 psionic:3]}}
+#trigger {(A garnished obsidian claymore ~(2h~))} {#sub {%1 [Known d:+1 c:+5 hpr:4 dam:+6 hit:+12 cold:6]}}
+#trigger {(A befouled silver flambard ~(2h~))} {#sub {%1 [Known s:+1 dam:+6 hit:+14 magical:3]}}
+#trigger {(A vile orichalcum flail ~(1h~))} {#sub {%1 [Known d:+1 dam:+9 hit:+10 acid:2]}}
+#trigger {(An ornate viridium panabas ~(1h~))} {#sub {%1 [Known d:+10 w:-8 ch:+3 hpr:4 spr:1 dam:+9 hit:+12 asphyxiation:4]}}
+#trigger {(A horrible silver chain mace ~(1h~))} {#sub {%1 [Known c:+3 hpr:2 dam:+12 hit:+13 poison:4]}}
+#trigger {(An elegant silver spiked flail ~(1h~))} {#sub {%1 [Known s:+2 c:+1 hpr:3 dam:+9 hit:+6 poison:3]}}
+#trigger {(An excellent mithril naginata ~(2h~))} {#sub {%1 [Known s:+4 hpr:4 dam:+11 hit:+16 poison:4]}}
+#trigger {(An ornate mithril panabas ~(1h~))} {#sub {%1 [Known s:+4 hpr:4 dam:+10 hit:+15 magical:4]}}
+#trigger {(A fine orichalcum flanged flail ~(1h~))} {#sub {%1 [Known c:+1 dam:+11 hit:+9 cold:2]}}
+#trigger {(A fine orichalcum mace ~(1h~))} {#sub {%1 [Known d:+3 hpr:3 dam:+12 hit:-12 asphyxiation:2]}}
+#trigger {(A foul mithril flanged mace ~(1h~))} {#sub {%1 [Known c:+5 i:+3 hpr:2 spr:2 dam:+15 hit:-12 magical:6]}}
+#trigger {(An old obsidian band)} {#sub {%1 [Known i:+10 spr:7]}}
+#trigger {(A shiny gold topaz ring)} {#sub {%1 [Known s:+2 d:+3 hpr:3]}}
+#trigger {(An ornate gold onyx ring)} {#sub {%1 [Known s:+2 d:+15 w:-10 hpr:6]}}
+#trigger {(A well-crafted silver signet ring)} {#sub {%1 [Known i:+5 w:+5 spr:5]}}
+#trigger {(An elegant orichalcum talisman)} {#sub {%1 [Known w:+8 spr:6]}}
+#trigger {(A decorated obsidian pendant)} {#sub {%1 [Known s:+5 hpr:6]}}
+#trigger {(A well-crafted silver necklace)} {#sub {%1 [Known s:-2 d:+5 c:+3 hpr:4]}}
+#trigger {(Dirty silver fluted sabatons)} {#sub {%1 [Known c:+5 hpr:3]}}
+#trigger {(Fancy silver fluted sabatons)} {#sub {%1 [Known d:+18 c:-10 hpr:4]}}
+#trigger {(Ornate drakeskin leggings)} {#sub {%1 [Known i:+10 spr:9]}}
+#trigger {(Weathered wyvernskin legguards)} {#sub {%1 [Known w:+8 spr:8]}}
+#trigger {(Garnished wyrmscale legguards)} {#sub {%1 [Known i:+3 w:+5 spr:5]}}
+#trigger {(A blood-stained wyrmscale bracelet)} {#sub {%1 [Known w:+5 spr:6]}}
+#trigger {(An old cuir bouilli bracelet)} {#sub {%1 [Known i:+3 w:+5 spr:6]}}
+#trigger {(A moth-eaten silk sarape)} {#sub {%1 [Known w:+5 ch:+5 spr:4]}}
+#trigger {(A stained wyvernskin mantle)} {#sub {%1 [Known i:+10 spr:5]}}
+#trigger {(An antique cuir bouilli cloak)} {#sub {%1 [Known w:+5 spr:3]}}
+#trigger {(A dirty trollskin shawl)} {#sub {%1 [Known s:+2 d:+1 c:-1 hpr:3]}}
+#trigger {(A vile drakeskin chlamys)} {#sub {%1 [Known w:+5 spr:4]}}
+#trigger {(A dusty orichalcum circlet)} {#sub {%1 [Known w:+3 ch:+5 spr:4]}}
+#trigger {(A tarnished wyrmscale mitre)} {#sub {%1 [Known s:+5 w:+1 hpr:3]}}
+#trigger {(An antique orichalcum barbute)} {#sub {%1 [Known i:+3 w:+5 spr:4]}}
+#trigger {(Blemished silk gloves)} {#sub {%1 [Known i:+10 spr:3]}}
+#trigger {(Horrid mithril gauntlets)} {#sub {%1 [Known c:+12 hpr:2]}}
+#trigger {(Disgusting wyvernskin cuisses)} {#sub {%1 [Known i:+8 spr:8]}}
+#trigger {(Grimy orichalcum cuisses)} {#sub {%1 [Known i:+3 w:+5 spr:7]}}
+#trigger {(Disgusting orichalcum fluted vambraces)} {#sub {%1 [Known i:+5 w:+5 spr:5]}}
+#trigger {(Repugnant mithril greaves)} {#sub {%1 [Known s:-1 d:+8 i:+1 hpr:6]}}
+#trigger {(A garnished viridium fauchard ~(2h~))} {#sub {%1 [Known s:+6 c:-10 hpr:2 dam:+9 hit:+8 fire:4]}}
+#trigger {(A grimy rosewood spear ~(2h~))} {#sub {%1 [Known c:+1 dam:+8 hit:+9 poison:2]}}
+#trigger {(A tainted cuir bouilli robe)} {#sub {%1 [Known d:+1 i:+8 spr:7]}}
+#trigger {(An ornate orichalcum pixane)} {#sub {%1 [Known c:+8 hpr:6]}}
+#trigger {(A disgusting mithril bearded axe ~(1h~))} {#sub {%1 [Known d:+8 hpr:4 dam:+11 hit:+7 cold:6]}}
+#trigger {(Dirty cuir bouilli gloves)} {#sub {%1 [Known s:+5 d:+5 c:-1 hpr:2]}}
+#trigger {(A decorated silk cape)} {#sub {%1 [Known i:+3 ch:+3 spr:3]}}
+#trigger {(A horrid silver barbute)} {#sub {%1 [Known i:+10 w:+1 spr:8]}}
+#trigger {(A ghastly orichalcum great sword ~(2h~))} {#sub {%1 [Known s:+4 d:+1 c:-3 hpr:4 dam:+6 hit:+10 magical:6]}}
+#trigger {(Stained velvet sandals)} {#sub {%1 [Known i:+15 spr:7]}}
+#trigger {(A garnished orichalcum bastard sword ~(2h~))} {#sub {%1 [Known d:+1 c:+3 hpr:3 dam:+3 hit:+16 poison:3]}}
+#trigger {(A masterwork orichalcum wakizashi ~(1h~))} {#sub {%1 [Known d:-1 w:+5 ch:+5 spr:8 dam:+5 hit:+17 psionic:10]}}
+#trigger {(Disgusting orichalcum sollerets)} {#sub {%1 [Known i:+5 w:+5 spr:6]}}
+#trigger {(Stained drakeskin fluted vambraces)} {#sub {%1 [Known c:+5 ch:+3 hpr:2 spr:1]}}
+#trigger {(A horrendous orichalcum great falx ~(2h~))} {#sub {%1 [Known s:-2 d:+8 hpr:5 dam:+13 hit:+14 cold:12]}}
+#trigger {(A nice trollskin hauberk)} {#sub {%1 [Known d:+15 c:-8 hpr:5]}}
+#trigger {(Elegant silver rivet gauntlets)} {#sub {%1 [Known i:+10 spr:2]}}
+#trigger {(A blemished velvet robe)} {#sub {%1 [Known i:+5 w:+3 spr:8]}}
+#trigger {(Smudged silver sabatons)} {#sub {%1 [Known i:+8 w:+3 spr:6]}}
+#trigger {(Ghastly silk long gloves)} {#sub {%1 [Known i:+5 w:+3 spr:2]}}
+#trigger {(A gory viridium flail ~(1h~))} {#sub {%1 [Known c:-3 w:+8 ch:+3 spr:5 dam:+14 hit:+11 cold:5]}}
+#trigger {(A garnished drakeskin pixane)} {#sub {%1 [Known s:+1 d:+8 hpr:4]}}
+#trigger {(Tainted trollskin vambraces)} {#sub {%1 [Known s:+5 c:+3 w:-3 ch:+5 hpr:3 spr:2]}}
+#trigger {(A gaudy orichalcum coronet)} {#sub {%1 [Known c:+10 hpr:6]}}
+#trigger {(A blemished orichalcum comb morion)} {#sub {%1 [Known w:+5 spr:7]}}
+#trigger {(A shiny mithril diadem)} {#sub {%1 [Known s:-1 d:+10 hpr:5]}}
+#trigger {(A shiny obsidian arm ring)} {#sub {%1 [Known i:+8 spr:6]}}
+#trigger {(A tainted obsidian naginata ~(2h~))} {#sub {%1 [Known d:-1 c:+1 dam:+8 hit:+18 cold:5]}}
+#trigger {(An elegant orichalcum bevor)} {#sub {%1 [Known s:-0 d:+15 c:-8 i:-10 w:+12 spr:5]}}
+#trigger {(An antique silk sash)} {#sub {%1 [Known d:+1 c:+3 ch:+1 hpr:3]}}
+#trigger {(A grimy rosewood quarterstaff ~(2h~))} {#sub {%1 [Known w:+1 ch:+3 spr:3 dam:+3 hit:+4 fire:3]}}
+#trigger {(A filthy trollskin shirt)} {#sub {%1 [Known d:+10 c:+1 hpr:7]}}
+#trigger {(A horrid trollskin belt)} {#sub {%1 [Known s:+2 d:-1 c:+5 hpr:3]}}
+#trigger {(A blood-stained mithril halberd ~(2h~))} {#sub {%1 [Known s:+2 d:+5 c:-1 hpr:4 dam:+10 hit:+13 fire:4]}}
+#trigger {(Worn cuir bouilli cuisses)} {#sub {%1 [Known d:+5 c:+1 w:-3 hpr:3]}}
+#trigger {(A filthy mithril burgonet)} {#sub {%1 [Known w:+8 spr:7]}}
+#trigger {(A tarnished orichalcum buckler)} {#sub {%1 [Known s:+3 d:+3 c:+3 i:-8 hpr:1]}}
+#trigger {(Ornate orichalcum rivet vambraces)} {#sub {%1 [Known s:+5 i:+1 hpr:3]}}
+#trigger {(A fine silver flanged flail ~(1h~))} {#sub {%1 [Known c:+3 w:+5 hpr:1 spr:3 dam:+11 hit:+7 poison:4]}}
+#trigger {(A gaudy orichalcum bearded axe ~(1h~))} {#sub {%1 [Known d:-1 c:+5 hpr:4 dam:+11 hit:+6 cold:4]}}
+#trigger {(Blemished silk long gloves)} {#sub {%1 [Known s:-10 c:+1 i:+8 w:+3 spr:1]}}
+#trigger {(A well-crafted silver circlet)} {#sub {%1 [Known d:-5 w:+10 spr:5]}}
+#trigger {(A grotesque orichalcum aruval ~(1h~))} {#sub {%1 [Known s:+1 c:+1 dam:+10 hit:+12 electric:2]}}
+#trigger {(A ghastly silver pendant)} {#sub {%1 [Known i:+5 spr:5]}}
+#trigger {(A foul trollskin kasaya)} {#sub {%1 [Known d:+1 c:+3 hpr:5]}}
+#trigger {(A crude iron talisman)} {#sub {%1 [Known s:+12 c:+8 i:+5 hpr:5 spr:5]}}
+#trigger {(An old viridium falchion ~(1h~))} {#sub {%1 [Known ch:+5 spr:5 dam:+1 hit:+13 electric:6]}}
+#trigger {(A gaudy orichalcum choker necklace)} {#sub {%1 [Known i:+1 w:+3 spr:6]}}
+#trigger {(A well-crafted orichalcum sword ~(1h~))} {#sub {%1 [Known s:+8 hpr:7 dam:+8 hit:+17 asphyxiation:16]}}
+#trigger {(Dreadful meteoric iron rivet vambraces)} {#sub {%1 [Known i:+15 spr:9]}}
+#trigger {(A smudged wyrmscale gorget)} {#sub {%1 [Known i:+1 w:+8 spr:9]}}
+#trigger {(A shimmering pine flail ~(1h~))} {#sub {%1 [Known s:+6 hpr:4 dam:+11 hit:+12 asphyxiation:6]}}
+#trigger {(A worn humanskin cloak)} {#sub {%1 [Known s:+3 c:+1 hpr:4]}}
+#trigger {(Ghastly gold prayer beads)} {#sub {%1 [Known s:+1 d:+1 c:+3 hpr:4]}}
+#trigger {(A disgusting mithril morningstar ~(1h~))} {#sub {%1 [Known c:+3 hpr:4 dam:+14 hit:-13 poison:5]}}
+#trigger {(A superior silkweave sash)} {#sub {%1 [Known i:+15 spr:9]}}
+#trigger {(A grotesque orichalcum morningstar ~(1h~))} {#sub {%1 [Known s:+2 d:+1 c:+1 hpr:4 dam:+12 hit:-9 poison:4]}}
+#trigger {(A horrid velvet cummerbund)} {#sub {%1 [Known c:+8 hpr:2]}}
+#trigger {(Elegant wyvernskin breeches)} {#sub {%1 [Known w:+8 spr:5]}}
+#trigger {(Ghastly humanskin fluted vambraces)} {#sub {%1 [Known i:+10 spr:7]}}
+#trigger {(A grim meteoric iron scythe ~(2h~))} {#sub {%1 [Known d:-5 w:+8 spr:6 dam:+10 hit:+15 acid:15]}}
+#trigger {(A decorated silk belt)} {#sub {%1 [Known i:+3 w:+8 spr:6]}}
+#trigger {(An ornate velvet sarape)} {#sub {%1 [Known c:+1 i:+1 ch:+5 spr:3]}}
+#trigger {(A shiny orichalcum bearded axe ~(1h~))} {#sub {%1 [Known d:+1 dam:+9 hit:+8 electric:4]}}
+#trigger {(An ornate orichalcum chain mace ~(1h~))} {#sub {%1 [Known s:+1 d:+1 c:+3 hpr:4 dam:+11 hit:+11 electric:5]}}
+#trigger {(An elegant gold bloodstone ring)} {#sub {%1 [Known i:+5 spr:4]}}
+#trigger {(A garnished humanskin vest)} {#sub {%1 [Known i:+8 spr:10]}}
+#trigger {(A gaudy silver coronet)} {#sub {%1 [Known d:+5 hpr:4]}}
+#trigger {(A disgusting orichalcum staff ~(2h~))} {#sub {%1 [Known d:+12 i:+5 w:-10 hpr:3 spr:2 dam:+4 hit:+5 cold:4]}}
+#trigger {(A shiny gold finger armour)} {#sub {%1 [Known w:+5 spr:5]}}
+#trigger {(An ornate orichalcum opal ring)} {#sub {%1 [Known w:+8 spr:7]}}
+#trigger {(A repugnant silver ruby ring)} {#sub {%1 [Known d:+8 hpr:6]}}
+#trigger {(An ornate gold diamond ring)} {#sub {%1 [Known s:-1 d:+5 c:+1 hpr:4]}}
+#trigger {(A gaudy mithril finger armour)} {#sub {%1 [Known d:+10 hpr:5]}}
+#trigger {(An excellent orichalcum war scythe ~(2h~))} {#sub {%1 [Known s:+4 i:-5 w:+3 hpr:2 spr:2 dam:+13 hit:+11 acid:6]}}
+#trigger {(An ornate silver onyx ring)} {#sub {%1 [Known i:+3 w:+1 spr:5]}}
+#trigger {(A dusty orichalcum torc)} {#sub {%1 [Known i:+5 spr:8]}}
+#trigger {(A well-crafted silk cincture)} {#sub {%1 [Known w:+10 spr:3]}}
+#trigger {(Hideous silver demi-gaunts)} {#sub {%1 [Known i:+10 w:+5 spr:5]}}
+#trigger {(An adorned pine maul ~(1h~))} {#sub {%1 [Known s:+1 dam:+11 hit:-13 acid:4]}}
+#trigger {(An excellent silver flanged flail ~(1h~))} {#sub {%1 [Known d:+1 c:+3 hpr:4 dam:+10 hit:+10 fire:5]}}
+#trigger {(A nice viridium choker necklace)} {#sub {%1 [Known i:+18 spr:13]}}
+#trigger {(A garnished velvet girdle)} {#sub {%1 [Known i:+15 spr:8]}}
+#trigger {(A nice obsidian spiked mace ~(1h~))} {#sub {%1 [Known d:+1 c:+5 hpr:4 dam:+16 hit:-14 asphyxiation:6]}}
+#trigger {(Ornate meteoric iron rivet sabatons)} {#sub {%1 [Known d:+3 c:+12 hpr:6]}}
+#trigger {(A gaudy meteoric iron yatagan ~(1h~))} {#sub {%1 [Known d:+1 c:+10 hpr:6 dam:+7 hit:+16 acid:16]}}
+#trigger {(A tainted silver buckler)} {#sub {%1 [Known s:+1 d:+1 c:+1]}}
+#trigger {(A tarnished silver shashka ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(A repugnant humanskin belt)} {#sub {%1 [Known i:-10 w:+15 spr:5]}}
+#trigger {(A smudged orichalcum hauberk)} {#sub {%1 [Known s:+4 c:+5 hpr:8]}}
+#trigger {(A horrendous viridium scythe ~(2h~))} {#sub {%1 [Known s:+4 hpr:3 dam:+7 hit:+13 magical:8]}}
+#trigger {(A shiny adamantine spiked flail ~(1h~))} {#sub {%1 [Known s:-0 d:-10 c:+5 i:+20 spr:10 dam:+15 hit:+8 magical:20]}}
+#trigger {(A garnished drakeskin kasaya)} {#sub {%1 [Known d:+5 c:+5 i:+20 hpr:11]}}
+#trigger {(Disgusting humanskin chausses)} {#sub {%1 [Known d:+8 c:+1 hpr:9]}}
+#trigger {(A repugnant mithril shield)} {#sub {%1 [Known s:+2 d:+12 c:-1 hpr:2]}}
+#trigger {(A horrendous humanskin shroud)} {#sub {%1 [Known i:+12 spr:8]}}
+#trigger {(A befouled orichalcum flanged mace ~(1h~))} {#sub {%1 [Known c:+3 ch:+1 hpr:4 dam:+19 hit:-8 fire:14]}}
+#trigger {(A hideous wyvernskin cloak)} {#sub {%1 [Known s:-1 d:+5 c:+5 hpr:4]}}
+#trigger {(A fancy obsidian opal ring)} {#sub {%1 [Known c:+8 w:+3 hpr:4 spr:2]}}
+#trigger {(A smudged drakeskin hauberk)} {#sub {%1 [Known s:+1 d:+3 c:+12 hpr:15]}}
+#trigger {(A gaudy silver round shield)} {#sub {%1 [Known s:+6 d:+3 c:-8 hpr:2]}}
+#trigger {(Worn drakeskin gloves)} {#sub {%1 [Known d:+3 ch:+3 hpr:1 spr:1]}}
+#trigger {(An excellent mithril double headed axe ~(2h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+18 hit:+4 fire:6]}}
+#trigger {(Wielded in right hand: The massive glaive called 'Wyrmslayer' ~(2h~))} {#sub {%1 [Known dam:+10 hit:-5 cold:16]}}
+#trigger {(A blood-red shield with a black rose on it)} {#sub {%1 [Known s:+7 d:+7 c:-4 w:+6]}}
+#trigger {(A weathered wyvernskin chlamys)} {#sub {%1 [Known d:+8 hpr:3]}}
+#trigger {(A vile wyvernskin armband)} {#sub {%1 [Known s:+8 hpr:3]}}
+#trigger {(A gaudy silver longsword ~(1h~))} {#sub {%1 [Known d:+3 c:+1 hpr:4 dam:+2 hit:+19 electric:5]}}
+#trigger {(An adorned gloomleather cincture)} {#sub {%1 [Known s:+7 d:+3 hpr:7]}}
+#trigger {(A tainted drakeskin bracelet)} {#sub {%1 [Known s:+5 d:+12 hpr:8]}}
+#trigger {(A fancy oak long mace ~(2h~))} {#sub {%1 [Known d:+10 c:-10 hpr:4 dam:+17 hit:-12 electric:6]}}
+#trigger {(Garnished cuir bouilli leggings)} {#sub {%1 [Known c:+15 i:+5 w:-10 hpr:5 spr:2]}}
+#trigger {(A ghastly silver onyx ring)} {#sub {%1 [Known i:+8 w:-5 spr:4]}}
+#trigger {(A superior silver morion)} {#sub {%1 [Known s:+2 d:+3 c:+12 hpr:10]}}
+#trigger {(A grimy mahogany long mace ~(2h~))} {#sub {%1 [Known i:+8 spr:6 dam:+13 hit:-9 electric:4]}}
+#trigger {(A hideous silver horned helm)} {#sub {%1 [Known c:-1 w:+10 spr:7]}}
+#trigger {(Grimy satin sandals)} {#sub {%1 [Known c:+12 i:-10 ch:+8 hpr:3 spr:3]}}
+#trigger {(A horrid mithril panabas ~(1h~))} {#sub {%1 [Known d:+3 ch:+1 hpr:4 dam:+8 hit:+18 acid:6]}}
+#trigger {(Smudged runeleather trousers)} {#sub {%1 [Known ch:+15 spr:15]}}
+#trigger {(Blemished gloomleather gauntlets)} {#sub {%1 [Known s:+15 d:-5 c:+8 hpr:3]}}
+#trigger {(A garnished dusksteel crown)} {#sub {%1 [Known d:+5 c:+10 hpr:9]}}
+#trigger {(A garnished obsidian bastard sword ~(2h~))} {#sub {%1 [Known c:-3 i:+5 spr:6 dam:+4 hit:+14 cold:6]}}
+#trigger {(A shimmering viridium chain mace ~(1h~))} {#sub {%1 [Known s:-4 d:+3 c:+8 hpr:4 dam:+15 hit:+12 magical:4]}}
+#trigger {(A superior silver broadaxe ~(1h~))} {#sub {%1 [Known s:+2 d:+1 hpr:4 dam:+17 hit:+7 electric:5]}}
+#trigger {(Shiny silver prayer beads)} {#sub {%1 [Known s:+4 hpr:7]}}
+#trigger {(A shimmering silk rope)} {#sub {%1 [Known w:+15 spr:9]}}
+#trigger {(An ornate orichalcum sickle ~(1h~))} {#sub {%1 [Known d:+8 c:-10 hpr:3 dam:+5 hit:+10 electric:4]}}
+#trigger {(A disgusting viridium lariat necklace)} {#sub {%1 [Known w:+10 spr:8]}}
+#trigger {(An elegant cuir bouilli armguard)} {#sub {%1 [Known i:+10 spr:6]}}
+#trigger {(A hideous mithril chain mace ~(1h~))} {#sub {%1 [Known s:-0 d:+5 c:-10 i:+10 w:+10 hpr:4 dam:+13 hit:+10 psionic:6]}}
+#trigger {(A worn velvet sarape)} {#sub {%1 [Known s:+5 ch:+3 hpr:3 spr:1]}}
+#trigger {(Foul orichalcum cuisses)} {#sub {%1 [Known i:+5 spr:5]}}
+#trigger {(An elegant meteoric iron francisca ~(1h~))} {#sub {%1 [Known s:-0 d:+12 c:-5 i:+5 ch:+3 hpr:7 dam:+11 hit:+15 electric:17]}}
+#trigger {(Dusty mithril gauntlets)} {#sub {%1 [Known w:+18 spr:4]}}
+#trigger {(A repugnant silver heater shield)} {#sub {%1 [Known w:+8 spr:3]}}
+#trigger {(A grisly silver fauchard ~(2h~))} {#sub {%1 [Known s:+2 c:+1 w:-0 hpr:3 dam:+14 hit:+5 poison:4]}}
+#trigger {(Wielded in right hand: An ancient silver longspear called 'Bloodspear' ~(2h~) *glowing* <glimmering> <blessed>)} {#sub {%1 [Known s:+10 dam:+15 hit:-10 magical:17]}}
+#trigger {(A grim obsidian fauchard ~(2h~))} {#sub {%1 [Known c:+5 hpr:5 dam:+15 hit:+10 magical:15]}}
+#trigger {(An exceptional silver guisarme ~(2h~))} {#sub {%1 [Known d:+10 c:+1 hpr:7 dam:+14 hit:+12 asphyxiation:17]}}
+#trigger {(Vile satin breeches)} {#sub {%1 [Known d:+3 ch:+3 hpr:4 spr:4]}}
+#trigger {(A disgusting mithril sabre ~(1h~))} {#sub {%1 [Known d:+3 c:+1 hpr:4 dam:+5 hit:+19 fire:4]}}
+#trigger {(Adorned orichalcum gauntlets)} {#sub {%1 [Known s:+3 d:+1 c:+5 hpr:1]}}
+#trigger {(A vile meteoric iron mace ~(1h~))} {#sub {%1 [Known s:+12 i:+10 hpr:7 dam:+16 hit:-13 electric:17]}}
+#trigger {(A dusty molybdenum diamond ring)} {#sub {%1 [Known c:+18 hpr:10]}}
+#trigger {(A grisly obsidian fauchard ~(2h~))} {#sub {%1 [Known d:+8 hpr:6 dam:+12 hit:+9 acid:8]}}
+#trigger {(A tainted trollskin gorget)} {#sub {%1 [Known s:+3 d:+5 c:+1 hpr:6]}}
+#trigger {(Grimy wyrmscale sollerets)} {#sub {%1 [Known i:+15 spr:8]}}
+#trigger {(Wielded in right hand: A long-bladed butchers knife ~(1h~))} {#sub {%1 [Known d:+3]}}
+#trigger {(A long and dirty leather apron)} {#sub {%1 [Known]}}
+#trigger {(A fine viridium cutlass ~(1h~))} {#sub {%1 [Known s:+2 d:+1 c:-1 hpr:4 dam:+7 hit:+15 asphyxiation:6]}}
+#trigger {(A filthy drakeskin pixane)} {#sub {%1 [Known i:-3 w:+8 spr:6]}}
+#trigger {(A foul obsidian sapphire ring)} {#sub {%1 [Known i:+5 w:+3 spr:6]}}
+#trigger {(A tarnished viridium glaive ~(2h~))} {#sub {%1 [Known s:+1 d:+1 dam:+11 hit:+9 psionic:5]}}
+#trigger {(Garnished silk gloves)} {#sub {%1 [Known w:+8 spr:2]}}
+#trigger {(A tarnished viridium longsword ~(1h~))} {#sub {%1 [Known s:+6 d:+1 c:-5 hpr:4 dam:+6 hit:+17 poison:4]}}
+#trigger {(A shimmering viridium sickle ~(1h~))} {#sub {%1 [Known c:+10 i:-8 w:+1 hpr:4 dam:+7 hit:+11 cold:6]}}
+#trigger {(A stained orichalcum targe)} {#sub {%1 [Known ch:+5 spr:2]}}
+#trigger {(A tainted orichalcum kopis ~(1h~))} {#sub {%1 [Known d:+1 dam:+1 hit:+16 electric:2]}}
+#trigger {(An adorned mithril topaz ring)} {#sub {%1 [Known d:+15 ch:-5 hpr:5]}}
+#trigger {(Grimy trollskin cuisses)} {#sub {%1 [Known d:+3 c:+5 hpr:4]}}
+#trigger {(A shiny pine long mace ~(2h~))} {#sub {%1 [Known s:-6 d:+5 hpr:2 dam:+13 hit:-15 fire:4]}}
+#trigger {(A ghastly obsidian signet ring)} {#sub {%1 [Known s:-2 d:+5 c:+8 hpr:5]}}
+#trigger {(A disgusting viridium spiked flail ~(1h~))} {#sub {%1 [Known s:+4 d:-10 w:+12 hpr:1 spr:5 dam:+12 hit:+6 asphyxiation:6]}}
+#trigger {(A sinister titanium attic helmet)} {#sub {%1 [Known i:+10 w:+8 spr:11]}}
+#trigger {(A nice silk coat)} {#sub {%1 [Known i:+5 w:+3 spr:11]}}
+#trigger {(Wielded in left hand: An immense war-hammer made of rough iron ~(2h~))} {#sub {%1 [Known]}}
+#trigger {(A vile silver armband)} {#sub {%1 [Known s:+1 d:+5 c:+1 hpr:3]}}
+#trigger {(A decorated orichalcum gorget)} {#sub {%1 [Known i:-3 w:+8 spr:5]}}
+#trigger {(A blood-stained orichalcum warhammer ~(1h~))} {#sub {%1 [Known s:+2 i:+8 hpr:1 spr:6 dam:+15 hit:-10 acid:8]}}
+#trigger {(A shimmering gloomleather shawl)} {#sub {%1 [Known s:+5 d:+8 hpr:7]}}
+#trigger {(A dusty viridium ruby ring)} {#sub {%1 [Known i:+3 w:+8 spr:7]}}
+#trigger {(A gory wyrmscale burgonet)} {#sub {%1 [Known i:+18 spr:12]}}
+#trigger {(A shimmering cuir bouilli jacket)} {#sub {%1 [Known s:+9 hpr:12]}}
+#trigger {(A well-crafted viridium scythe ~(2h~))} {#sub {%1 [Known s:-0 w:+1 ch:+5 spr:5 dam:+7 hit:+11 cold:6]}}
+#trigger {(Adorned cuir bouilli leggings)} {#sub {%1 [Known d:+3 c:+8 hpr:9]}}
+#trigger {(A blood-stained wyrmskin hauberk)} {#sub {%1 [Known i:+12 spr:16]}}
+#trigger {(A fancy silver aruval ~(1h~))} {#sub {%1 [Known c:+3 hpr:3 dam:+12 hit:+13 poison:3]}}
+#trigger {(An ornate orichalcum aquamarine ring)} {#sub {%1 [Known i:+10 spr:4]}}
+#trigger {(A blemished orichalcum buckler)} {#sub {%1 [Known c:+1 ch:+5 spr:2]}}
+#trigger {(A superior orichalcum flanged flail ~(1h~))} {#sub {%1 [Known d:+3 w:+1 hpr:4 dam:+12 hit:+7 cold:5]}}
+#trigger {(Blemished humanskin greaves)} {#sub {%1 [Known s:+8 hpr:6]}}
+#trigger {(A dusty silver buckler)} {#sub {%1 [Known s:+3 hpr:1]}}
+#trigger {(A gaudy mithril flanged flail ~(1h~))} {#sub {%1 [Known s:+1 d:+5 hpr:4 dam:+11 hit:+10 poison:4]}}
+#trigger {(A ghastly gold pendant)} {#sub {%1 [Known i:+1 w:+3 spr:5]}}
+#trigger {(Wielded in right hand: The Great Blade of Illusion ~(1h~) <*glowing*> <blessed>)} {#sub {%1 [Known d:+10 dam:+10 hit:+10 electric:18]}}
+#trigger {(An odious titanium double headed axe ~(2h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+20 hit:+6 magical:12]}}
+#trigger {(A filthy cuir bouilli shawl)} {#sub {%1 [Known d:+5 c:+10 hpr:7]}}
+#trigger {(Fancy velvet breeches)} {#sub {%1 [Known w:+10 spr:8]}}
+#trigger {(A tainted wood staff ~(2h~))} {#sub {%1 [Known i:+12 spr:8 dam:+6 hit:+5 magical:18]}}
+#trigger {(An excellent gold bracelet)} {#sub {%1 [Known c:+8 i:+1 w:+3 hpr:3 spr:2]}}
+#trigger {(A tainted orichalcum medallion)} {#sub {%1 [Known i:+3 w:+8 spr:8]}}
+#trigger {(Blemished humanskin long gloves)} {#sub {%1 [Known s:+1 c:+1 ch:+5 spr:3]}}
+#trigger {(An exceptional mithril spiked flail ~(1h~))} {#sub {%1 [Known i:+3 w:+8 spr:8 dam:+12 hit:+12 asphyxiation:10]}}
+#trigger {(An elegant wyrmscale attic helmet)} {#sub {%1 [Known i:+5 w:+5 spr:7]}}
+#trigger {(An elegant viridium choker necklace)} {#sub {%1 [Known i:+5 w:+12 spr:13]}}
+#trigger {(A horrid cuir bouilli armguard)} {#sub {%1 [Known s:+12 d:+5 c:-10 hpr:3]}}
+#trigger {(A grisly silver great hammer ~(2h~))} {#sub {%1 [Known d:+3 c:+1 hpr:3 dam:+16 hit:-18 acid:4]}}
+#trigger {(A shiny obsidian spiked flail ~(1h~))} {#sub {%1 [Known s:+6 d:-8 c:+3 w:+5 hpr:4 spr:4 dam:+14 hit:+13 acid:19]}}
+#trigger {(A horrid mithril great axe ~(2h~))} {#sub {%1 [Known s:+1 c:+1 dam:+21 hit:+4 acid:6]}}
+#trigger {(An excellent satin gown)} {#sub {%1 [Known w:+15 spr:18]}}
+#trigger {(Wielded in right hand: A shimmering psisword pulsing with a blood red aura ~(2h~))} {#sub {%1 [Known s:-0 c:-0 w:-0 dam:-0 more:0]}}
+#trigger {(A tarnished viridium band)} {#sub {%1 [Known s:+7 hpr:7]}}
+#trigger {(A well-crafted obsidian scimitar ~(1h~))} {#sub {%1 [Known c:+5 ch:+5 hpr:3 spr:4 dam:+5 hit:+21 cold:8]}}
+#trigger {(Ornate orichalcum sabatons)} {#sub {%1 [Known s:+2 c:+1 hpr:3]}}
+#trigger {(Superior cuir bouilli long gloves)} {#sub {%1 [Known s:+5 d:+3 hpr:2]}}
+#trigger {(A rotting wyvernskin cincture)} {#sub {%1 [Known s:+2 d:+3 c:-3 hpr:3]}}
+#trigger {(A grotesque orichalcum battle axe ~(1h~))} {#sub {%1 [Known d:-10 c:+10 w:+5 hpr:2 spr:1 dam:+10 hit:+8 cold:4]}}
+#trigger {(Decorated humanskin mittens)} {#sub {%1 [Known s:+5 d:+5 c:-1 hpr:2]}}
+#trigger {(A tarnished silver bevor)} {#sub {%1 [Known i:+10 spr:9]}}
+#trigger {(A fancy mithril band)} {#sub {%1 [Known i:+8 w:+1 spr:7]}}
+#trigger {(A dirty silver gorget)} {#sub {%1 [Known c:+5 hpr:4]}}
+#trigger {(A befouled orichalcum francisca ~(1h~))} {#sub {%1 [Known s:+4 d:+5 i:-8 hpr:3 dam:+4 hit:+11 asphyxiation:4]}}
+#trigger {(An elegant orichalcum flail ~(1h~))} {#sub {%1 [Known s:+2 d:-10 c:+8 hpr:3 dam:+12 hit:+12 asphyxiation:3]}}
+#trigger {(A grisly mithril spiked mace ~(1h~))} {#sub {%1 [Known c:+5 hpr:4 dam:+11 hit:-13 magical:6]}}
+#trigger {(A foul demonhide hauberk)} {#sub {%1 [Known s:+1 d:-1 c:+10 hpr:10]}}
+#trigger {(A shiny gold sapphire ring)} {#sub {%1 [Known i:+5 w:+10 spr:9]}}
+#trigger {(A nice humanskin cassock)} {#sub {%1 [Known s:+4 w:+5 hpr:4 spr:8]}}
+#trigger {(A superior silver bearded axe ~(1h~))} {#sub {%1 [Known d:+8 c:-8 hpr:4 dam:+11 hit:+9 cold:5]}}
+#trigger {(Horrible silver sollerets)} {#sub {%1 [Known d:+1 c:+12 ch:-8 hpr:3]}}
+#trigger {(A pair of massive voidplate boots <Bound>)} {#sub {%1 [Known s:+25 d:+10 c:+25 i:-10 w:-10 ch:-2 hpr:21]}}
+#trigger {(A blood-stained cuir bouilli cape)} {#sub {%1 [Known i:-5 w:+12 spr:4]}}
+#trigger {(Superior mithril rivet vambraces)} {#sub {%1 [Known s:-0 d:+8 c:+5 i:-8 w:+15 spr:5]}}
+#trigger {(A horrid silk sash)} {#sub {%1 [Known s:+1 ch:+8 spr:4]}}
+#trigger {(An antique silver amethyst ring)} {#sub {%1 [Known s:+1 i:-3 ch:+10 spr:5]}}
+#trigger {(A garnished velvet cincture)} {#sub {%1 [Known w:+8 spr:5]}}
+#trigger {(A superior trollskin chlamys)} {#sub {%1 [Known d:+12 hpr:5]}}
+#trigger {(A gaudy satin sash)} {#sub {%1 [Known i:+3 w:+8 spr:8]}}
+#trigger {(A blemished gold arm ring)} {#sub {%1 [Known s:+12 d:-5 hpr:4]}}
+#trigger {(An adorned mithril ring)} {#sub {%1 [Known d:+1 c:+10 hpr:5]}}
+#trigger {(Well-crafted satin gloves)} {#sub {%1 [Known i:+15 spr:3]}}
+#trigger {(Vile silver rivet gauntlets)} {#sub {%1 [Known w:+8 spr:2]}}
+#trigger {(Filthy gloomleather trousers)} {#sub {%1 [Known s:+5 d:+12 hpr:11]}}
+#trigger {(A horrible silver barbute)} {#sub {%1 [Known i:+5 w:+5 spr:8]}}
+#trigger {(A garnished brocade shirt)} {#sub {%1 [Known s:-6 w:+8 ch:+8 spr:11]}}
+#trigger {(A garnished humanskin hood)} {#sub {%1 [Known d:+8 hpr:6]}}
+#trigger {(A nice mithril mitre)} {#sub {%1 [Known w:+8 spr:7]}}
+#trigger {(A garnished gold ecclestiastical ring)} {#sub {%1 [Known i:+12 w:+5 spr:12]}}
+#trigger {(Garnished dusksteel rivet gauntlets)} {#sub {%1 [Known s:+12 c:+8 hpr:3]}}
+#trigger {(Horrid orichalcum demi-gaunts)} {#sub {%1 [Known i:-1 w:+8 spr:2]}}
+#trigger {(Grimy wyvernskin chausses)} {#sub {%1 [Known c:+1 w:+10 spr:8]}}
+#trigger {(Wielded in right hand: A grim titanium halberd ~(2h~) <*glowing*>)} {#sub {%1 [Known w:+20 spr:9 dam:+8 hit:+11 acid:16]}}
+#trigger {(A voidtouched ring with an emerald <Bound>)} {#sub {%1 [Known s:-10 c:+10 i:+15 w:+6 hpr:5 spr:10]}}
+#trigger {(An old mithril ring)} {#sub {%1 [Known w:+18 spr:11]}}
+#trigger {(A garnished viridium broadaxe ~(1h~))} {#sub {%1 [Known c:+5 i:-5 w:+1 ch:+3 hpr:2 spr:1 dam:+16 hit:+7 acid:8]}}
+#trigger {(A fancy orichalcum torc)} {#sub {%1 [Known c:-5 w:+15 spr:9]}}
+#trigger {(Worn wyvernskin leggings)} {#sub {%1 [Known s:+8 hpr:5]}}
+#trigger {(A dirty silver ruby ring)} {#sub {%1 [Known s:+3 hpr:5]}}
+#trigger {(An adorned silver khopesh ~(1h~))} {#sub {%1 [Known d:+5 hpr:3 dam:+7 hit:+12 electric:2]}}
+#trigger {(The Grey Tear of Gyges)} {#sub {%1 [Known w:+16 hpr:6 spr:10]}}
+#trigger {(A grimy yew quarterstaff ~(2h~))} {#sub {%1 [Known s:+4 w:+8 ch:-10 hpr:1 spr:4 dam:+3 hit:+4 electric:4]}}
+#trigger {(An ornate gold talisman)} {#sub {%1 [Known d:-3 w:+5 spr:6]}}
+#trigger {(An elegant silver panabas ~(1h~))} {#sub {%1 [Known s:+1 c:-1 dam:+13 hit:+14 electric:3]}}
+#trigger {(An elegant silver flanged flail ~(1h~))} {#sub {%1 [Known s:-0 c:+3 i:+12 hpr:2 dam:+9 hit:+6 poison:4]}}
+#trigger {(A fine darkwood wand ~(1h~))} {#sub {%1 [Known s:-4 c:+8 i:+3 hpr:3 spr:2 dam:-1 hit:+3 magical:5]}}
+#trigger {(A hideous wood flail ~(1h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+15 hit:+14 acid:6]}}
+#trigger {(A blemished velvet sarape)} {#sub {%1 [Known i:+1 w:+3 spr:4]}}
+#trigger {(Grimy drakeskin leggings)} {#sub {%1 [Known d:+3 c:+5 hpr:7]}}
+#trigger {(A dusty obsidian cutlass ~(1h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+7 hit:+19 magical:5]}}
+#trigger {(An ornate silver double headed axe ~(2h~))} {#sub {%1 [Known d:+5 hpr:3 dam:+12 hit:+5 psionic:4]}}
+#trigger {(An elegant trollskin cape)} {#sub {%1 [Known s:+5 hpr:4]}}
+#trigger {(A decorated satin rope <Bound>)} {#sub {%1 [Known s:-0 i:-0 w:+10 spr:7]}}
+#trigger {(Tainted orichalcum sabatons)} {#sub {%1 [Known s:-4 d:+12 c:+1 hpr:3]}}
+#trigger {(Antique wyrmscale rivet gauntlets)} {#sub {%1 [Known w:+8 spr:3]}}
+#trigger {(A gaudy mithril armet)} {#sub {%1 [Known i:+12 spr:7]}}
+#trigger {(Vile drakeskin leggings)} {#sub {%1 [Known s:+3 c:+8 hpr:6]}}
+#trigger {(Horrid orichalcum prayer beads)} {#sub {%1 [Known s:+4 d:+5 hpr:9]}}
+#trigger {(An adorned satin cummerbund)} {#sub {%1 [Known i:+12 spr:6]}}
+#trigger {(A fancy gold circlet)} {#sub {%1 [Known s:-5 d:+12 hpr:3]}}
+#trigger {(A tarnished orichalcum shashka ~(1h~))} {#sub {%1 [Known ch:+5 spr:4 dam:+2 hit:+15 poison:2]}}
+#trigger {(Well-crafted humanskin chausses)} {#sub {%1 [Known w:+5 spr:8]}}
+#trigger {(Ornate orichalcum rivet gauntlets)} {#sub {%1 [Known w:+5 spr:2]}}
+#trigger {(A gory obsidian chain mace ~(1h~))} {#sub {%1 [Known c:+3 hpr:4 dam:+13 hit:+9 poison:5]}}
+#trigger {(Gaudy wyvernskin legguards)} {#sub {%1 [Known i:+8 spr:6]}}
+#trigger {(An ornate viridium onyx ring)} {#sub {%1 [Known s:+3 d:+1 c:+5 hpr:5]}}
+#trigger {(A glorious incandescent pristine poison fragment)} {#sub {%1 [Known d:+6 i:+13 hpr:12]}}
+#trigger {(A well-crafted wyvernskin girdle)} {#sub {%1 [Known i:+5 spr:6]}}
+#trigger {(Tainted mithril gauntlets)} {#sub {%1 [Known s:-10 d:+15 c:+1 hpr:2]}}
+#trigger {(A shiny silver nodachi ~(2h~))} {#sub {%1 [Known d:+8 hpr:4 dam:+9 hit:+15 asphyxiation:6]}}
+#trigger {(The Broadsword, Sunbringer ~(1h~))} {#sub {%1 [Known dam:+10 hit:+15 magical:17]}}
+#trigger {(A grisly mithril panabas ~(1h~))} {#sub {%1 [Known s:-8 c:+15 hpr:4 dam:+11 hit:+15 cold:4]}}
+#trigger {(A fancy velvet cincture)} {#sub {%1 [Known i:+8 spr:3]}}
+#trigger {(A filthy orichalcum bracer)} {#sub {%1 [Known d:+10 c:-5 hpr:3]}}
+#trigger {(A shiny obsidian halberd ~(2h~))} {#sub {%1 [Known s:-4 d:+1 c:+5 hpr:2 dam:+9 hit:+9 cold:5]}}
+#trigger {(Gory wyrmscale sollerets)} {#sub {%1 [Known w:+10 spr:6]}}
+#trigger {(Horrid wyrmscale mittens)} {#sub {%1 [Known s:+8 hpr:1]}}
+#trigger {(An immense dazzling pristine poison fragment)} {#sub {%1 [Known d:+11 i:+8 hpr:12]}}
+#trigger {(The black necklace of strangulation)} {#sub {%1 [Known s:+10 c:+10]}}
+#trigger {(Wielded in left hand: Staff of Kazlakhor ~(1h~) <*glowing*>)} {#sub {%1 [Known s:-1 d:-10 i:+10 spr:8 hit:+4 magical:8]}}
+#trigger {(A pair of black crocodile skin boots)} {#sub {%1 [Known c:-5 i:+3 w:+12 hpr:4 spr:9]}}
+#trigger {(A horrible meteoric iron flanged flail ~(1h~))} {#sub {%1 [Known s:+1 d:+5 hpr:6 dam:+11 hit:+11 asphyxiation:8]}}
+#trigger {(Horrible trollskin vambraces)} {#sub {%1 [Known s:+5 d:+1 c:+1 hpr:4]}}
+#trigger {(A foul orichalcum morningstar ~(1h~))} {#sub {%1 [Known s:+2 c:+1 hpr:3 dam:+12 hit:-10 electric:2]}}
+#trigger {(A shiny orichalcum band)} {#sub {%1 [Known d:+1 c:+5 hpr:4]}}
+#trigger {(A nice orichalcum bastard sword ~(2h~))} {#sub {%1 [Known s:+8 c:+1 hpr:7 dam:+7 hit:+17 psionic:17]}}
+#trigger {(A dirty obsidian talisman)} {#sub {%1 [Known s:+3 w:+5 hpr:2 spr:4]}}
+#trigger {(An elegant gold arm ring)} {#sub {%1 [Known w:+8 spr:4]}}
+#trigger {(A disgusting wyrmscale hounskull)} {#sub {%1 [Known c:+12 hpr:8]}}
+#trigger {(A blood-stained obsidian wakizashi ~(1h~))} {#sub {%1 [Known d:+5 c:+3 hpr:4 dam:+4 hit:+17 cold:4]}}
+#trigger {(Horrid humanskin trousers)} {#sub {%1 [Known w:+8 spr:8]}}
+#trigger {(Filthy orichalcum demi-gaunts)} {#sub {%1 [Known d:+8 c:+3 w:+1 hpr:2]}}
+#trigger {(An antique obsidian lariat necklace)} {#sub {%1 [Known s:+1 d:-1 c:+8 hpr:8]}}
+#trigger {(A fine viridium flambard ~(2h~))} {#sub {%1 [Known i:+5 spr:6 dam:+8 hit:+10 psionic:6]}}
+#trigger {(A horrible walnut quarterstaff ~(2h~))} {#sub {%1 [Known d:+8 w:-3 ch:+1 hpr:3 dam:+7 hit:+4 magical:4]}}
+#trigger {(A horrid orichalcum great axe ~(2h~))} {#sub {%1 [Known s:+2 d:-5 c:+3 hpr:4 dam:+19 hit:+3 cold:6]}}
+#trigger {(Gaudy silk long gloves)} {#sub {%1 [Known i:+15 spr:4]}}
+#trigger {(A horrid silver flanged flail ~(1h~))} {#sub {%1 [Known s:+4 hpr:3 dam:+10 hit:+10 psionic:4]}}
+#trigger {(Blemished silk sandals)} {#sub {%1 [Known i:+3 w:+3 spr:3]}}
+#trigger {(A dreadful silver spiked flail ~(1h~))} {#sub {%1 [Known d:+12 hpr:5 dam:+13 hit:+8 fire:10]}}
+#trigger {(A superior wyrmscale sallet)} {#sub {%1 [Known c:+10 hpr:5]}}
+#trigger {(A decorated mithril spiked flail ~(1h~))} {#sub {%1 [Known s:+4 c:+1 hpr:4 dam:+11 hit:+7 acid:5]}}
+#trigger {(A dirty dragonscale comb morion)} {#sub {%1 [Known i:+15 spr:10]}}
+#trigger {(A dusty titanium ring)} {#sub {%1 [Known s:+7 d:+5 hpr:10]}}
+#trigger {(Repulsive drakeskin gauntlets)} {#sub {%1 [Known s:+12 d:+5 hpr:3]}}
+#trigger {(An old titanium trident ~(2h~))} {#sub {%1 [Known d:+5 i:+8 hpr:2 spr:6 dam:+10 hit:+16 fire:16]}}
+#trigger {(A sinister silver trident ~(2h~))} {#sub {%1 [Known s:+2 d:+5 c:+3 hpr:7 dam:+9 hit:+15 asphyxiation:16]}}
+#trigger {(A dusty silver aruval ~(1h~))} {#sub {%1 [Known w:+5 spr:5 dam:+10 hit:+12 psionic:5]}}
+#trigger {(A garnished delium jade ring)} {#sub {%1 [Known s:-2 d:+18 c:+1 hpr:9]}}
+#trigger {(Dreadful wyrmscale rivet vambraces)} {#sub {%1 [Known s:+12 d:+5 c:-1 hpr:6]}}
+#trigger {(A grimy drakeskin shawl)} {#sub {%1 [Known i:+5 w:+3 spr:4]}}
+#trigger {(Smudged silver gauntlets)} {#sub {%1 [Known d:+8 hpr:1]}}
+#trigger {(A grisly obsidian panabas ~(1h~))} {#sub {%1 [Known s:+1 dam:+13 hit:+14 acid:6]}}
+#trigger {(A fancy drakeskin cloak)} {#sub {%1 [Known s:+2 d:+3 i:+1 hpr:3]}}
+#trigger {(A horrid obsidian warhammer ~(1h~))} {#sub {%1 [Known s:+4 d:+1 c:+1 hpr:4 dam:+14 hit:-15 cold:5]}}
+#trigger {(Disgusting mithril rivet sabatons)} {#sub {%1 [Known i:-3 w:+12 spr:7]}}
+#trigger {(A smudged wyrmscale bevor)} {#sub {%1 [Known d:+10 i:-3 w:+12 hpr:8]}}
+#trigger {(A foul demonhide bracer)} {#sub {%1 [Known i:+12 w:+3 spr:9]}}
+#trigger {(A superior adamantine flamberge ~(1h~))} {#sub {%1 [Known d:+1 ch:+10 spr:10 dam:+6 hit:+20 fire:17]}}
+#trigger {(A repulsive cuir bouilli belt)} {#sub {%1 [Known s:+2 d:+15 hpr:6]}}
+#trigger {(Antique orichalcum legguards)} {#sub {%1 [Known i:+3 w:+1 spr:6]}}
+#trigger {(An elegant wood quarterstaff ~(2h~))} {#sub {%1 [Known s:-4 ch:+10 spr:3 dam:+4 hit:+2 asphyxiation:4]}}
+#trigger {(A hideous mithril bardiche ~(2h~))} {#sub {%1 [Known d:+10 hpr:6 dam:+12 hit:+12 asphyxiation:17]}}
+#trigger {(A disgusting orichalcum panabas ~(1h~))} {#sub {%1 [Known d:+8 hpr:4 dam:+13 hit:+17 fire:5]}}
+#trigger {(Rotting velvet tall boots)} {#sub {%1 [Known d:+3 i:+8 hpr:1 spr:5]}}
+#trigger {(A stained wyrmscale targe)} {#sub {%1 [Known s:+1 d:+8 hpr:2]}}
+#trigger {(An old orichalcum spiked flail ~(1h~))} {#sub {%1 [Known d:+3 hpr:3 dam:+11 hit:+7 poison:4]}}
+#trigger {(Filthy drakeskin long gloves)} {#sub {%1 [Known]}}
+#trigger {(Old drakeskin long gloves)} {#sub {%1 [Known s:+2 d:-3 c:+1 i:+5 ch:+3 spr:2]}}
+#trigger {(A horrible mithril broadaxe ~(1h~))} {#sub {%1 [Known c:+5 hpr:4 dam:+14 hit:+7 magical:4]}}
+#trigger {(A dusty gold necklace)} {#sub {%1 [Known i:+5 w:+1 spr:9]}}
+#trigger {(Decorated drakeskin trousers)} {#sub {%1 [Known s:+3 d:+3 hpr:5]}}
+#trigger {(A decorated silver great hammer ~(2h~))} {#sub {%1 [Known s:+2 d:+1 c:-1 hpr:5 dam:+16 hit:-19 poison:4]}}
+#trigger {(An adorned wyvernskin jacket)} {#sub {%1 [Known i:+1 w:+5 spr:7]}}
+#trigger {(An ornate meteoric iron flambard ~(2h~))} {#sub {%1 [Known d:+12 hpr:7 dam:+11 hit:+15 acid:19]}}
+#trigger {(A foul cuir bouilli mantle)} {#sub {%1 [Known i:+5 w:+3 spr:5]}}
+#trigger {(A tarnished silver band)} {#sub {%1 [Known i:+5 w:+1 spr:5]}}
+#trigger {(A superior orichalcum voulge ~(2h~))} {#sub {%1 [Known s:+1 d:+1 dam:+13 hit:+10 electric:11]}}
+#trigger {(Odious drakeskin mittens)} {#sub {%1 [Known i:+12 w:+3 spr:5]}}
+#trigger {(A garnished viridium crown)} {#sub {%1 [Known i:+8 spr:7]}}
+#trigger {(Smudged velvet breeches)} {#sub {%1 [Known c:+8 hpr:6]}}
+#trigger {(A grisly obsidian flanged mace ~(1h~))} {#sub {%1 [Known s:+2 d:+3 hpr:4 dam:+13 hit:-12 acid:4]}}
+#trigger {(A blemished mithril tower shield)} {#sub {%1 [Known i:+3 w:+5 spr:3]}}
+#trigger {(Decorated drakeskin chausses)} {#sub {%1 [Known i:-8 w:+10 spr:5]}}
+#trigger {(A shimmering obsidian partisan ~(2h~))} {#sub {%1 [Known s:+1 d:+1 c:+3 hpr:2 dam:+9 hit:+10 electric:4]}}
+#trigger {(Wielded in right hand: Gimdori's Glorious Crowbar ~(2h~) <Bound> <dark aura>)} {#sub {%1 [Known s:+6 d:+6 c:+6 i:+6 w:+6 ch:+6 hpr:10 spr:10 dam:+15 hit:+15 psionic:22]}}
+#trigger {(A tainted obsidian sabre ~(1h~))} {#sub {%1 [Known s:+4 d:+1 hpr:5 dam:+4 hit:+16 electric:6]}}
+#trigger {(A dirty silver talisman)} {#sub {%1 [Known s:+2 c:+1 hpr:4]}}
+#trigger {(A stained humanskin shirt)} {#sub {%1 [Known c:+8 hpr:9]}}
+#trigger {(Wielded in right hand: A vile viridium flambard ~(2h~) <*glowing*> <glimmering>)} {#sub {%1 [Known s:+8 hpr:7 dam:+11 hit:+16 magical:20]}}
+#trigger {(A ghastly mithril torc)} {#sub {%1 [Known d:+3 c:+3 hpr:7]}}
+#trigger {(Ghastly orichalcum greaves)} {#sub {%1 [Known s:+1 c:+3 hpr:5]}}
+#trigger {(A shimmering mithril partisan ~(2h~))} {#sub {%1 [Known s:+2 hpr:2 dam:+10 hit:+11 magical:5]}}
+#trigger {(A foul silkweave kasaya)} {#sub {%1 [Known i:-8 w:+20 spr:18]}}
+#trigger {(Wielded in left hand: A beautiful sword hilt, with a black blade ~(2h~) <*glowing*>)} {#sub {%1 [Known s:-0 w:-0 dam:+5 hit:+13 psionic:10]}}
+#trigger {(Garnished trollskin gauntlets)} {#sub {%1 [Known s:+1 c:+5 hpr:2]}}
+#trigger {(A ghastly titanium battle axe ~(1h~))} {#sub {%1 [Known s:-8 c:+3 i:+5 ch:+15 hpr:1 spr:9 dam:+15 hit:+11 psionic:18]}}
+#trigger {(A grimy meteoric iron great axe ~(2h~))} {#sub {%1 [Known d:+18 w:-10 hpr:6 dam:+18 hit:+3 poison:8]}}
+#trigger {(A well-crafted satin girdle)} {#sub {%1 [Known d:+12 hpr:5]}}
+#trigger {(A horrible meteoric iron flanged mace ~(1h~))} {#sub {%1 [Known ch:+10 spr:9 dam:+17 hit:-10 fire:17]}}
+#trigger {(An adorned orichalcum broadaxe ~(1h~))} {#sub {%1 [Known s:+1 d:+5 c:+1 ch:+10 dam:+11 hit:+9 magical:3]}}
+#trigger {(A gory orichalcum bracelet)} {#sub {%1 [Known c:+5 hpr:4]}}
+#trigger {(A garnished titanium flail ~(1h~))} {#sub {%1 [Known s:-0 i:+5 w:+5 spr:6 dam:+15 hit:+13 psionic:13]}}
+#trigger {(Filthy brocade tall boots)} {#sub {%1 [Known i:+1 w:+5 spr:3]}}
+#trigger {(An old silver chain mace ~(1h~))} {#sub {%1 [Known d:-1 c:+1 dam:+13 hit:+11 cold:4]}}
+#trigger {(A repugnant wyrmscale kettle hat)} {#sub {%1 [Known i:+10 spr:6]}}
+#trigger {(Ghastly wyvernskin rivet vambraces)} {#sub {%1 [Known s:+8 d:-10 c:+5 hpr:3]}}
+#trigger {(A hideous orichalcum chain mace ~(1h~))} {#sub {%1 [Known c:+8 hpr:4 dam:+11 hit:+10 psionic:4]}}
+#trigger {(A blood-stained cuir bouilli jacket)} {#sub {%1 [Known c:+5 hpr:6]}}
+#trigger {(Wielded in right hand: A beautiful sword hilt, with a white blade ~(2h~))} {#sub {%1 [Known s:-0 d:+8 c:+8 w:+8 hpr:4 spr:4 dam:+5 hit:+13 magical:10]}}
+#trigger {(A repulsive obsidian naginata ~(2h~))} {#sub {%1 [Known d:+3 c:+1 hpr:2 dam:+12 hit:+17 asphyxiation:8]}}
+#trigger {(Old mithril demi-gaunts)} {#sub {%1 [Known i:+3 w:+5 spr:3]}}
+#trigger {(A tainted wyrmscale hounskull)} {#sub {%1 [Known s:+5 hpr:4]}}
+#trigger {(A fine orichalcum wand ~(1h~))} {#sub {%1 [Known s:+2 d:+3 ch:+1 hpr:4 dam:-2 hit:+5 acid:5]}}
+#trigger {(A foul mithril armet)} {#sub {%1 [Known s:+7 hpr:8]}}
+#trigger {(A filthy humanskin brigandine)} {#sub {%1 [Known s:+2 d:+3 hpr:8]}}
+#trigger {(A grimy orichalcum gladius ~(1h~))} {#sub {%1 [Known s:-1 d:+5 i:+3 hpr:3 spr:3 dam:+5 hit:+15 acid:8]}}
+#trigger {(Garnished meteoric iron rivet sabatons)} {#sub {%1 [Known w:+20 spr:9]}}
+#trigger {(Gory mithril vambraces)} {#sub {%1 [Known i:+15 w:+3 spr:9]}}
+#trigger {(A garnished silver great helm)} {#sub {%1 [Known s:+5 d:-3 c:+5 hpr:7]}}
+#trigger {(A garnished meteoric iron great falx ~(2h~))} {#sub {%1 [Known w:+8 spr:4 dam:+16 hit:+10 acid:10]}}
+#trigger {(A hideous humanskin gorget)} {#sub {%1 [Known i:+12 spr:10]}}
+#trigger {(A garnished orichalcum staff ~(2h~))} {#sub {%1 [Known i:+5 spr:4 dam:+2 hit:+3 electric:3]}}
+#trigger {(An adorned silver fauchard ~(2h~))} {#sub {%1 [Known d:+1 c:+1 dam:+11 hit:+10 magical:4]}}
+#trigger {(A tarnished silver barbute)} {#sub {%1 [Known d:+5 c:+5 hpr:4]}}
+#trigger {(A garnished orichalcum pendant)} {#sub {%1 [Known s:+2 ch:+3 hpr:3 spr:4]}}
+#trigger {(A well-crafted mithril ranseur ~(2h~))} {#sub {%1 [Known s:+2 d:+3 hpr:4 dam:+7 hit:+14 asphyxiation:5]}}
+#trigger {(Stained silk leggings)} {#sub {%1 [Known d:+3 c:+3 w:+1 ch:-3 hpr:4]}}
+#trigger {(Ghastly wyrmscale cuirass)} {#sub {%1 [Known i:-5 w:+12 spr:11]}}
+#trigger {(A grimy viridium turquoise ring)} {#sub {%1 [Known s:+2 d:+5 hpr:5]}}
+#trigger {(A ghastly orichalcum goosewing axe ~(1h~))} {#sub {%1 [Known s:+1 c:+3 hpr:3 dam:+9 hit:+8 asphyxiation:3]}}
+#trigger {(An adorned meteoric iron long mace ~(2h~))} {#sub {%1 [Known d:+8 hpr:6 dam:+15 hit:-14 acid:9]}}
+#trigger {(An exceptional mithril partisan ~(2h~))} {#sub {%1 [Known w:+10 ch:-5 spr:6 dam:+10 hit:+15 psionic:16]}}
+#trigger {(A grim meteoric iron guisarme ~(2h~))} {#sub {%1 [Known i:+15 spr:6 dam:+16 hit:+8 magical:12]}}
+#trigger {(A vile adamantine flail ~(1h~))} {#sub {%1 [Known w:+5 spr:6 dam:+11 hit:+13 electric:12]}}
+#trigger {(A superior cuir bouilli shirt)} {#sub {%1 [Known c:+5 hpr:8]}}
+#trigger {(A vile wyrmscale barbute)} {#sub {%1 [Known i:+3 w:+3 spr:4]}}
+#trigger {(A ghastly silver amethyst ring)} {#sub {%1 [Known i:+3 w:+5 spr:7]}}
+#trigger {(A horrible obsidian war scythe ~(2h~))} {#sub {%1 [Known c:+3 i:+1 ch:+1 hpr:2 dam:+11 hit:+11 cold:6]}}
+#trigger {(Ornate mithril chausses)} {#sub {%1 [Known s:+8 d:+1 hpr:7]}}
+#trigger {(A horrible obsidian khopesh ~(1h~))} {#sub {%1 [Known i:+1 ch:+1 dam:+7 hit:+12 psionic:6]}}
+#trigger {(Antique silver rivet sabatons)} {#sub {%1 [Known i:+8 spr:5]}}
+#trigger {(A ghastly meteoric iron claymore ~(2h~))} {#sub {%1 [Known s:-4 d:+3 c:+12 hpr:7 dam:+8 hit:+14 electric:17]}}
+#trigger {(A vile silver hounskull)} {#sub {%1 [Known i:+3 w:+5 spr:4]}}
+#trigger {(An old satin shawl)} {#sub {%1 [Known s:-2 w:+5 ch:+3 spr:6]}}
+#trigger {(The Ritual Vestments of Duntrench)} {#sub {%1 [Known w:+26 spr:26]}}
+#trigger {(Band of haptic enhancement)} {#sub {%1 [Known s:-0 d:+6 c:-0 i:-0 w:-0 ch:-0]}}
+#trigger {(The great two-handed hammer named 'Despair' ~(2h~))} {#sub {%1 [Known dam:+20 hit:-8 electric:20]}}
+#trigger {(A double-edged bardiche 'Venomtongue' ~(2h~))} {#sub {%1 [Known poison:18]}}
+#trigger {(Wielded in right hand: A hideous obsidian maul ~(2h~) *glowing* <dark aura>)} {#sub {%1 [Known d:+1 c:+3 hpr:4 dam:+15 hit:-13 cold:6]}}
+#trigger {(A foul mithril flambard ~(2h~))} {#sub {%1 [Known s:-4 d:+3 c:+3 hpr:4 dam:+10 hit:+14 poison:4]}}
+#trigger {(A tainted adamantine khopesh ~(1h~))} {#sub {%1 [Known w:+5 spr:7 dam:+13 hit:+18 electric:14]}}
+#trigger {(A decorated humanskin belt)} {#sub {%1 [Known d:+20 hpr:7]}}
+#trigger {(A vile trollskin sarape)} {#sub {%1 [Known s:+5 d:-1 c:+1 hpr:4]}}
+#trigger {(A hideous mithril kettle hat)} {#sub {%1 [Known d:+10 hpr:5]}}
+#trigger {(An ornate viridium nodachi ~(2h~))} {#sub {%1 [Known s:+2 c:+5 hpr:4 dam:+5 hit:+15 poison:4]}}
+#trigger {(A repugnant trollskin kasaya)} {#sub {%1 [Known i:+12 spr:14]}}
+#trigger {(A grimy mithril broadaxe ~(1h~))} {#sub {%1 [Known s:+9 d:-8 hpr:4 dam:+14 hit:+9 cold:5]}}
+#trigger {(Horrendous drakeskin leggings)} {#sub {%1 [Known s:+20 hpr:10]}}
+#trigger {(A blood-stained silver great axe ~(2h~))} {#sub {%1 [Known w:+5 spr:4 dam:+18 hit:+1 acid:4]}}
+#trigger {(A shimmering titanium sickle ~(1h~))} {#sub {%1 [Known i:+8 spr:6 dam:+9 hit:+15 fire:13]}}
+#trigger {(A masterwork wyrmscale kite shield)} {#sub {%1 [Known w:+10 spr:5]}}
+#trigger {(Shimmering adamantine prayer beads)} {#sub {%1 [Known i:+12 w:+8 spr:12]}}
+#trigger {(A hideous silkweave sash)} {#sub {%1 [Known i:+10 w:+3 spr:7]}}
+#trigger {(An adorned gold topaz ring)} {#sub {%1 [Known i:+3 w:+1 spr:5]}}
+#trigger {(An antique orichalcum topaz ring)} {#sub {%1 [Known c:+3 hpr:2]}}
+#trigger {(A tarnished obsidian onyx ring)} {#sub {%1 [Known i:+10 spr:7]}}
+#trigger {(A tarnished gold emerald ring)} {#sub {%1 [Known d:+5 c:-1 w:+1 ch:+3 hpr:3 spr:2]}}
+#trigger {(A sinister demonhide sarape)} {#sub {%1 [Known d:+15 hpr:7]}}
+#trigger {(A grisly meteoric iron falx ~(1h~))} {#sub {%1 [Known d:+1 i:+1 ch:+5 spr:3 dam:+11 hit:+11 electric:9]}}
+#trigger {(A moth-eaten brocade girdle)} {#sub {%1 [Known i:+3 w:+3 spr:5]}}
+#trigger {(Dusty wyrmscale sollerets)} {#sub {%1 [Known d:+1 c:+5 hpr:3]}}
+#trigger {(Wielded in both hands: The SILVERBLOOD of Ancient Ages ~(2h~) ~(glowing~))} {#sub {%1 [Known psionic:20]}}
+#trigger {(A blemished mithril diamond ring)} {#sub {%1 [Known s:+5 d:-1 w:+1 hpr:6]}}
+#trigger {(A well-crafted obsidian aquamarine ring)} {#sub {%1 [Known d:+3 c:+3 hpr:5]}}
+#trigger {(A foul orichalcum bloodstone ring)} {#sub {%1 [Known s:+3 d:+5 hpr:3]}}
+#trigger {(A horrid mithril topaz ring)} {#sub {%1 [Known s:+6 d:+1 c:+1 hpr:6]}}
+#trigger {(An adorned silver finger armour)} {#sub {%1 [Known i:-1 w:+8 spr:7]}}
+#trigger {(A blemished orichalcum sapphire ring)} {#sub {%1 [Known s:+1 c:+1 ch:+1]}}
+#trigger {(A nice wyvernskin girdle)} {#sub {%1 [Known c:+5 hpr:3]}}
+#trigger {(A dusty rosewood flail ~(1h~))} {#sub {%1 [Known s:+1 d:+3 c:+1 hpr:2 dam:+9 hit:+9 cold:2]}}
+#trigger {(Wielded in right hand: The Great Blade of Illusion ~(1h~) <Bound> <crackling>)} {#sub {%1 [Known s:-0 d:-0 c:-0 i:+8 w:-0 ch:-0 spr:10]}}
+#trigger {(A dreadful drakeskin mantle)} {#sub {%1 [Known i:+8 w:+8 spr:10]}}
+#trigger {(A garnished orichalcum armet)} {#sub {%1 [Known s:+3 c:+5 hpr:5]}}
+#trigger {(A weathered silkweave cummerbund)} {#sub {%1 [Known w:+15 spr:8]}}
+#trigger {(Weathered trollskin tall boots)} {#sub {%1 [Known d:-10 w:+20 spr:5]}}
+#trigger {(Vile wyrmscale gauntlets)} {#sub {%1 [Known i:-5 w:+8 spr:2]}}
+#trigger {(An elegant velvet cincture)} {#sub {%1 [Known s:+6 hpr:3]}}
+#trigger {(A dirty orichalcum arm ring)} {#sub {%1 [Known s:+1 d:+8 c:-5 hpr:2]}}
+#trigger {(A gaudy silk cassock)} {#sub {%1 [Known i:+5 w:+3 spr:8]}}
+#trigger {(Rotting brocade sandals)} {#sub {%1 [Known i:+8 w:-3 spr:5]}}
+#trigger {(Ghastly mithril legguards)} {#sub {%1 [Known i:+1 w:+5 spr:8]}}
+#trigger {(Rotting humanskin leggings)} {#sub {%1 [Known s:+5 d:+3 hpr:7]}}
+#trigger {(A blemished wyvernskin shawl)} {#sub {%1 [Known d:+12 ch:-10 hpr:2]}}
+#trigger {(A tarnished silver horned helm)} {#sub {%1 [Known i:-10 w:+18 spr:5]}}
+#trigger {(A ghastly orichalcum bangle)} {#sub {%1 [Known i:+12 spr:6]}}
+#trigger {(A fancy wyrmscale attic helmet)} {#sub {%1 [Known w:+10 spr:4]}}
+#trigger {(A fancy orichalcum torc <Bound>)} {#sub {%1 [Known c:-5 w:+15 spr:9]}}
+#trigger {(Tarnished orichalcum mittens)} {#sub {%1 [Known s:+8 hpr:1]}}
+#trigger {(A grimy silver lamellar)} {#sub {%1 [Known s:+2 d:+3 hpr:4]}}
+#trigger {(A foul viridium wakizashi ~(1h~))} {#sub {%1 [Known w:+5 spr:6 dam:+7 hit:+17 fire:4]}}
+#trigger {(A nice silver wakizashi ~(1h~))} {#sub {%1 [Known s:+4 hpr:3 dam:+2 hit:+18 acid:2]}}
+#trigger {(An adorned mithril bearded axe ~(1h~))} {#sub {%1 [Known i:+3 w:+3 spr:5 dam:+13 hit:+8 asphyxiation:6]}}
+#trigger {(A worn cuir bouilli splint mail)} {#sub {%1 [Known i:+1 w:+5 spr:11]}}
+#trigger {(A dirty silk cloak <Bound>)} {#sub {%1 [Known c:+8 hpr:4]}}
+#trigger {(An antique silk rope <Bound>)} {#sub {%1 [Known s:-6 d:+10 i:+5 hpr:1 spr:1]}}
+#trigger {(Antique silver sabatons <Bound>)} {#sub {%1 [Known i:+3 w:+8 spr:5]}}
+#trigger {(A horrid wyvernskin cincture)} {#sub {%1 [Known d:-8 i:+5 ch:+5 spr:4]}}
+#trigger {(A grimy velvet shirt)} {#sub {%1 [Known i:-5 w:+8 spr:8]}}
+#trigger {(A tainted gold arm ring)} {#sub {%1 [Known d:+8 c:+5 i:-10 hpr:2]}}
+#trigger {(A blemished gold sapphire ring)} {#sub {%1 [Known i:-8 w:+12 spr:3]}}
+#trigger {(Dirty silver demi-gaunts)} {#sub {%1 [Known s:-8 d:+12 hpr:1]}}
+#trigger {(A blemished silver burgonet)} {#sub {%1 [Known d:+12 w:-8 hpr:2]}}
+#trigger {(Blemished silver vambraces)} {#sub {%1 [Known s:+10 d:+3 c:-8 hpr:2]}}
+#trigger {(Exceptional dragonhide sandals)} {#sub {%1 [Known s:+8 d:+3 c:+3 hpr:7]}}
+#trigger {(A tarnished orichalcum morion)} {#sub {%1 [Known d:+8 c:+1 hpr:4]}}
+#trigger {(Dusty orichalcum gauntlets)} {#sub {%1 [Known c:+15 ch:-10 hpr:1]}}
+#trigger {(A fine viridium falcata ~(1h~))} {#sub {%1 [Known s:+2 d:+3 c:+1 hpr:4 dam:+4 hit:+19 acid:6]}}
+#trigger {(Well-crafted mithril prayer beads)} {#sub {%1 [Known i:+15 w:-10 spr:8]}}
+#trigger {(A grotesque orichalcum great sword ~(2h~))} {#sub {%1 [Known s:+1 d:+3 c:+1 hpr:4 dam:+11 hit:+11 electric:5]}}
+#trigger {(A horrid cuir bouilli kasaya)} {#sub {%1 [Known s:-1 d:+5 c:+1 hpr:5]}}
+#trigger {(A superior meteoric iron khanda ~(1h~))} {#sub {%1 [Known s:+12 d:+3 c:-10 hpr:7 dam:+7 hit:+19 fire:18]}}
+#trigger {(A spellstitched drakeskin cloak)} {#sub {%1 [Known c:+15 hpr:7]}}
+#trigger {(Fancy velvet sandals)} {#sub {%1 [Known d:+1 i:+5 w:-5 ch:+3 spr:3]}}
+#trigger {(The black boots of thievery)} {#sub {%1 [Known d:+7]}}
+#trigger {(Wielded in right hand: A steel bladed dagger ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(Weathered trollskin tall boots <Bound>)} {#sub {%1 [Known d:-10 w:+20 spr:5]}}
+#trigger {(A foul orichalcum flamberge ~(1h~))} {#sub {%1 [Known s:+1 c:+1 dam:+3 hit:+13 acid:2]}}
+#trigger {(A gaudy gold lariat necklace)} {#sub {%1 [Known i:+5 w:+3 spr:8]}}
+#trigger {(An antique obsidian falcata ~(1h~))} {#sub {%1 [Known d:+8 hpr:6 dam:+6 hit:+17 magical:11]}}
+#trigger {(A nice pine quarterstaff ~(2h~))} {#sub {%1 [Known d:+12 w:-10 ch:+5 hpr:3 spr:1 dam:+5 hit:+3 acid:6]}}
+#trigger {(A blood-stained mahogany pike ~(2h~))} {#sub {%1 [Known c:+1 dam:+8 hit:+10 acid:3]}}
+#trigger {(The ancient warglove called Tebukuro-ken ~(2h~))} {#sub {%1 [Known s:-0]}}
+#trigger {(An elegant viridium scythe ~(2h~))} {#sub {%1 [Known i:+8 spr:5 dam:+9 hit:+12 acid:5]}}
+#trigger {(A ghastly gold topaz ring)} {#sub {%1 [Known w:+5 spr:3]}}
+#trigger {(Weathered cuir bouilli gauntlets)} {#sub {%1 [Known c:+5 hpr:1]}}
+#trigger {(A shiny silver voulge ~(2h~))} {#sub {%1 [Known d:+1]}}
+#trigger {(An antique orichalcum long mace ~(2h~))} {#sub {%1 [Known]}}
+#trigger {(A blood-stained orichalcum kopis ~(1h~))} {#sub {%1 [Known w:+5 spr:4 dam:+4 hit:+19 magical:3]}}
+#trigger {(A tainted wyvernskin hauberk)} {#sub {%1 [Known]}}
+#trigger {(An adorned orichalcum scythe ~(2h~))} {#sub {%1 [Known c:+5 hpr:3 dam:+7 hit:+9 poison:3]}}
+#trigger {(A repulsive mithril glaive ~(2h~))} {#sub {%1 [Known c:+5 hpr:4 dam:+11 hit:+13 magical:12]}}
+#trigger {(Antique sabatons)} {#sub {%1 [Known]}}
+#trigger {(A repugnant wyrmscale buckler)} {#sub {%1 [Known d:+5 hpr:2]}}
+#trigger {(A decorated orichalcum cutlass ~(1h~))} {#sub {%1 [Known s:+1 dam:+5 hit:+17 magical:2]}}
+#trigger {(A repulsive mithril bearded axe ~(1h~))} {#sub {%1 [Known s:-0 i:-0 ch:+12 spr:10 dam:+17 hit:+10 asphyxiation:18]}}
+#trigger {(A gory humanskin chlamys)} {#sub {%1 [Known s:-1 i:+5 w:+3 spr:5]}}
+#trigger {(An adorned brocade jacket)} {#sub {%1 [Known w:+8 spr:10]}}
+#trigger {(A worn gloomleather belt)} {#sub {%1 [Known i:+18 spr:10]}}
+#trigger {(Ghastly wyrmscale mittens)} {#sub {%1 [Known s:+5 d:-3 c:+3 hpr:2]}}
+#trigger {(A grotesque mithril spiked flail ~(1h~))} {#sub {%1 [Known s:+1 d:+5 hpr:4 dam:+10 hit:+8 cold:6]}}
+#trigger {(A mammoth glowing pristine physical fragment)} {#sub {%1 [Known s:+6 d:+6 c:+7 spr:12]}}
+#trigger {(An ornate wyvernskin gown)} {#sub {%1 [Known s:-0 i:+10 spr:7]}}
+#trigger {(Gory orichalcum legguards)} {#sub {%1 [Known s:+1 d:+3 c:+5 hpr:7]}}
+#trigger {(Stained silk gloves)} {#sub {%1 [Known i:+5 spr:1]}}
+#trigger {(An old orichalcum sickle ~(1h~))} {#sub {%1 [Known c:+1 i:+3 spr:2]}}
+#trigger {(A decorated silver bevor)} {#sub {%1 [Known ch:+5 spr:4]}}
+#trigger {(An ornate velvet shawl)} {#sub {%1 [Known i:+3 w:+5 spr:4]}}
+#trigger {(An antique mithril shashka ~(1h~))} {#sub {%1 [Known s:+6 d:-10 c:+5 hpr:5 dam:+3 hit:+16 acid:8]}}
+#trigger {(Filthy mithril fluted gauntlets)} {#sub {%1 [Known s:+1 d:+5 c:+5 hpr:2]}}
+#trigger {(Wielded in both hands: A grim titanium halberd ~(2h~) <*glowing*>)} {#sub {%1 [Known w:+20 spr:9 dam:+8 hit:+11 acid:16]}}
+#trigger {(Wielded in both hands: A repulsive mithril glaive ~(2h~) <*glowing*>)} {#sub {%1 [Known c:+5 hpr:4 dam:+11 hit:+13 magical:12]}}
+#trigger {(A gaudy viridium flanged flail ~(1h~))} {#sub {%1 [Known s:+2 c:+3 hpr:4 dam:+13 hit:+11 psionic:4]}}
+#trigger {(A decorated drakeskin cape)} {#sub {%1 [Known i:+5 spr:6]}}
+#trigger {(Antique drakeskin legguards)} {#sub {%1 [Known d:+5 c:+1 hpr:5]}}
+#trigger {(A dreadful orichalcum trident ~(2h~))} {#sub {%1 [Known i:+12 spr:6 dam:+9 hit:+13 fire:12]}}
+#trigger {(A heavy ring made out of gold)} {#sub {%1 [Known s:+6 d:+4 c:+2 w:-4]}}
+#trigger {(Decorative silver gauntlets)} {#sub {%1 [Known s:-5 c:-2 i:+8 w:+4 spr:5]}}
+#trigger {(Wielded in right hand: An ancient longbow ~(2h~))} {#sub {%1 [Known]}}
+#trigger {(A garnished meteoric iron bardiche ~(2h~))} {#sub {%1 [Known s:+8 hpr:5 dam:+12 hit:+11 psionic:14]}}
+#trigger {(An antique brocade robe)} {#sub {%1 [Known w:+12 spr:14]}}
+#trigger {(A horrid silver wakizashi ~(1h~))} {#sub {%1 [Known i:+5 w:+3 spr:6 dam:+7 hit:+19 poison:13]}}
+#trigger {(Disgusting wyvernskin trousers)} {#sub {%1 [Known s:+5 d:-1 c:+3 ch:+1 hpr:7]}}
+#trigger {(A dirty cuir bouilli cincture)} {#sub {%1 [Known i:+3 w:+12 spr:7]}}
+#trigger {(the Gloves of Withering)} {#sub {%1 [Known c:+18 hpr:4]}}
+#trigger {(Grimy drakeskin long gloves)} {#sub {%1 [Known s:+8 c:+1 hpr:2]}}
+#trigger {(A garnished silk vest)} {#sub {%1 [Known i:+1 w:+5 spr:8]}}
+#trigger {(A grotesque viridium war scythe ~(2h~))} {#sub {%1 [Known s:-2 i:+5 spr:5 dam:+10 hit:+10 fire:5]}}
+#trigger {(Adorned silver mittens)} {#sub {%1 [Known w:+8 spr:2]}}
+#trigger {(A smudged velvet hood)} {#sub {%1 [Known s:+3 c:+8 w:-8 ch:+1 hpr:4]}}
+#trigger {(An elegant orichalcum bearded axe ~(1h~))} {#sub {%1 [Known i:+1 w:-10 ch:+15 spr:5 dam:+12 hit:+8 magical:4]}}
+#trigger {(A shiny wyrmscale buckler)} {#sub {%1 [Known s:+3 d:+3 hpr:2]}}
+#trigger {(A tainted cuir bouilli lamellar)} {#sub {%1 [Known w:+8 spr:8]}}
+#trigger {(A tainted drakeskin sarape)} {#sub {%1 [Known s:+3 d:+5 hpr:4]}}
+#trigger {(A blemished silver medallion <Bound>)} {#sub {%1 [Known s:-0 d:+8 i:+3 w:-10 hpr:2 spr:1]}}
+#trigger {(A stained trollskin chlamys)} {#sub {%1 [Known s:+1 d:+5 c:+3 hpr:3]}}
+#trigger {(A vile mithril claymore ~(2h~))} {#sub {%1 [Known i:+8 spr:5 dam:+9 hit:+14 acid:6]}}
+#trigger {(Repulsive cuir bouilli sandals)} {#sub {%1 [Known s:+8 d:-10 c:+8 hpr:5]}}
+#trigger {(A garnished drakeskin brigandine)} {#sub {%1 [Known d:+12 c:+5 i:-8 hpr:11]}}
+#trigger {(A sturdy chain necklace)} {#sub {%1 [Known s:+8 d:-5 c:+20 i:-10 w:-10 hpr:5 spr:5]}}
+#trigger {(An old silver khopesh ~(1h~))} {#sub {%1 [Known s:+1]}}
+#trigger {(Blemished wyvernskin vambraces)} {#sub {%1 [Known s:+5 hpr:2]}}
+#trigger {(A grisly viridium broadaxe ~(1h~))} {#sub {%1 [Known s:+4 d:+3 hpr:4 dam:+12 hit:+9 cold:5]}}
+#trigger {(A horrid orichalcum buckler)} {#sub {%1 [Known s:-2 c:+8 hpr:1]}}
+#trigger {(An armour made of golden dragon scales)} {#sub {%1 [Known s:-5 c:-5 i:+5 w:+10 spr:16]}}
+#trigger {(The brass ring of the elder serpent)} {#sub {%1 [Known i:+1 w:+14 spr:13]}}
+#trigger {(An amulet made entirely out of emeralds)} {#sub {%1 [Known c:-5 i:+8 w:+7 spr:16]}}
+#trigger {(The emerald amulet of 'Desteros')} {#sub {%1 [Known c:+5 i:+10 w:+5 hpr:5 spr:13]}}
+#trigger {(A fine orichalcum bearded axe ~(1h~))} {#sub {%1 [Known c:+1]}}
+#trigger {(A grimy darkwood spear ~(2h~))} {#sub {%1 [Known s:+6 c:-3 hpr:4 dam:+8 hit:+12 acid:4]}}
+#trigger {(Horrid wyvernskin rivet vambraces)} {#sub {%1 [Known c:+8 hpr:3]}}
+#trigger {(A tarnished orichalcum horned helm)} {#sub {%1 [Known s:+6 d:+3 hpr:7]}}
+#trigger {(A tainted mithril flanged flail ~(1h~))} {#sub {%1 [Known d:+8 c:-8 i:+1 ch:+3 hpr:3 spr:1 dam:+10 hit:+9 acid:4]}}
+#trigger {(The Necklace of the Beast)} {#sub {%1 [Known s:-3 i:+8 w:-5 ch:+15 spr:13]}}
+#trigger {(A shimmering white robe with golden embroidery)} {#sub {%1 [Known i:+10 ch:+15 spr:18]}}
+#trigger {(an embroidered velvet coin purse <Bound>)} {#sub {%1 [Known s:-0 i:+15 ch:+0 spr:11]}}
+#trigger {(Blightspawn Carapace)} {#sub {%1 [Known s:-0 c:+16 hpr:13]}}
+#trigger {(Fancy drakeskin boots)} {#sub {%1 [Known i:+8 spr:4]}}
+#trigger {(A grisly mithril scimitar ~(1h~))} {#sub {%1 [Known s:+1 c:+3 hpr:4 dam:+5 hit:+16 cold:6]}}
+#trigger {(A tarnished obsidian spiked flail ~(1h~))} {#sub {%1 [Known s:+1 d:+1 c:+5 hpr:4 dam:+11 hit:+8 cold:6]}}
+#trigger {(A smudged drakeskin bracelet)} {#sub {%1 [Known w:+5 spr:4]}}
+#trigger {(A grimy demonhide gorget)} {#sub {%1 [Known i:+15 spr:15]}}
+#trigger {(A masterwork meteoric iron flanged flail ~(1h~))} {#sub {%1 [Known i:+8 spr:8 dam:+13 hit:+11 fire:9]}}
+#trigger {(A horrible orichalcum bastard sword ~(2h~))} {#sub {%1 [Known s:+1 c:+3 w:+1 hpr:3 dam:+5 hit:+16 acid:3]}}
+#trigger {(A grisly titanium scythe ~(2h~))} {#sub {%1 [Known c:+1 i:+8 spr:6 dam:+11 hit:+15 asphyxiation:14]}}
+#trigger {(Elegant wyvernskin tall boots)} {#sub {%1 [Known s:-8 d:+15 hpr:4]}}
+#trigger {(A masterwork titanium sickle ~(1h~))} {#sub {%1 [Known i:+8 spr:5 dam:+11 hit:+14 asphyxiation:14]}}
+#trigger {(An old orichalcum signet ring)} {#sub {%1 [Known i:+10 w:-5 spr:7]}}
+#trigger {(Garnished trollskin leggings)} {#sub {%1 [Known i:+8 spr:5]}}
+#trigger {(A set of wormhide sleeves)} {#sub {%1 [Known c:+12 w:+6 spr:9]}}
+#trigger {(A set of tattooed trollskin armbands)} {#sub {%1 [Known s:+5 d:+5 c:+10 hpr:3 spr:3]}}
+#trigger {(A gaudy viridium flail ~(1h~))} {#sub {%1 [Known s:-8 d:+5 c:+10 hpr:4 dam:+11 hit:+11 cold:5]}}
+#trigger {(A dreadful mithril flail ~(1h~))} {#sub {%1 [Known i:+5 spr:3 dam:+12 hit:+12 magical:8]}}
+#trigger {(A vile viridium flanged mace ~(1h~))} {#sub {%1 [Known d:-3 c:+8 hpr:4 dam:+15 hit:-11 electric:4]}}
+#trigger {(A dusty drakeskin sarape)} {#sub {%1 [Known i:+12 spr:5]}}
+#trigger {(A blemished silver medallion)} {#sub {%1 [Known d:+8 i:+3 w:-10 hpr:2 spr:1]}}
+#trigger {(A disgusting orichalcum flanged mace ~(1h~))} {#sub {%1 [Known i:+10 spr:8 dam:+16 hit:-7 cold:18]}}
+#trigger {(A shiny silver shield)} {#sub {%1 [Known ch:+3 spr:1]}}
+#trigger {(Disgusting silk boots)} {#sub {%1 [Known i:+12 spr:6]}}
+#trigger {(A horrible cuir bouilli girdle)} {#sub {%1 [Known s:+2 c:+8 hpr:4]}}
+#trigger {(A ghastly silver broadaxe ~(1h~))} {#sub {%1 [Known w:+5 ch:+1 spr:4 dam:+15 hit:+5 poison:3]}}
+#trigger {(A well-crafted orichalcum emerald ring)} {#sub {%1 [Known d:+5 hpr:2]}}
+#trigger {(A nice velvet cloak)} {#sub {%1 [Known c:+10 hpr:3]}}
+#trigger {(A horrid orichalcum panabas ~(1h~))} {#sub {%1 [Known i:+3 spr:3 dam:+8 hit:+13 psionic:3]}}
+#trigger {(An ornate silver war scythe ~(2h~))} {#sub {%1 [Known d:+1 dam:+10 hit:+8 acid:3]}}
+#trigger {(A horrid orichalcum voulge ~(2h~))} {#sub {%1 [Known s:+1 dam:+8 hit:+9 poison:4]}}
+#trigger {(A blood-stained orichalcum double headed axe ~(2h~))} {#sub {%1 [Known d:+5 c:+1 hpr:4 dam:+17 hit:+4 electric:4]}}
+#trigger {(A worn brocade cummerbund)} {#sub {%1 [Known i:+3 w:+1 ch:+5 spr:5]}}
+#trigger {(Wielded in right hand: The massive glaive called 'Wyrmslayer' ~(2h~) <*glowing*> <dark aura>)} {#sub {%1 [Known dam:+5 hit:+5 cold:20]}}
+#trigger {(Wielded in right hand: A blackthorn club ~(2h~) ~(glowing~))} {#sub {%1 [Known poison:16]}}
+#trigger {(A repugnant meteoric iron spiked flail ~(1h~))} {#sub {%1 [Known i:-3 w:+5 spr:3 dam:+13 hit:+10 magical:8]}}
+#trigger {(Blood-stained mithril fluted sabatons)} {#sub {%1 [Known i:+5 w:+1 spr:5]}}
+#trigger {(A grisly mithril yatagan ~(1h~))} {#sub {%1 [Known w:+10 spr:8 dam:+3 hit:+16 electric:8]}}
+#trigger {(Decorated wyrmskin rivet vambraces)} {#sub {%1 [Known d:+10 c:+5 hpr:6]}}
+#trigger {(Decorated silver demi-gaunts)} {#sub {%1 [Known i:+18 spr:4]}}
+#trigger {(A grimy orichalcum double headed axe ~(2h~))} {#sub {%1 [Known d:+5 hpr:2 dam:+16 hit:+2 asphyxiation:3]}}
+#trigger {(A horrid brocade sash)} {#sub {%1 [Known s:+2 d:-3 i:+3 ch:+3 hpr:1 spr:4]}}
+#trigger {(An excellent silver double headed axe ~(2h~))} {#sub {%1 [Known d:+12 c:-10 hpr:2 dam:+15 hit:+4 acid:8]}}
+#trigger {(A superior velvet vest)} {#sub {%1 [Known w:+15 spr:20]}}
+#trigger {(Adorned cuir bouilli boots)} {#sub {%1 [Known s:+9 c:+3 hpr:7]}}
+#trigger {(A horrid orichalcum khanda ~(1h~))} {#sub {%1 [Known s:-0 d:+1 c:+3 hpr:3 dam:+5 hit:+17 magical:3]}}
+#trigger {(A repugnant orichalcum arm ring)} {#sub {%1 [Known c:+10 hpr:4]}}
+#trigger {(A garnished silver chain mace ~(1h~))} {#sub {%1 [Known s:-2 d:+5 w:+5 hpr:2 spr:3 dam:+10 hit:+13 acid:6]}}
+#trigger {(A dirty drakeskin cincture)} {#sub {%1 [Known w:+10 spr:6]}}
+#trigger {(A shining silvery eyeball of the Lavaworm)} {#sub {%1 [Known s:+10 c:+10]}}
+#trigger {(A dark charred blade ~(2h~))} {#sub {%1 [Known dam:+5 hit:+5 fire:16]}}
+#trigger {(Wielded in right hand: A dark charred blade ~(*blazing*~) ~(2h~) <*glowing*>)} {#sub {%1 [Known dam:+5 hit:+5 fire:16]}}
+#trigger {(An old mithril falcata ~(1h~))} {#sub {%1 [Known s:+4 hpr:4 dam:+5 hit:+20 psionic:5]}}
+#trigger {(Shiny silver rivet sabatons)} {#sub {%1 [Known i:+3 w:+3 spr:4]}}
+#trigger {(Hideous orichalcum greaves)} {#sub {%1 [Known w:+12 spr:11]}}
+#trigger {(A repulsive orichalcum spiked flail ~(1h~))} {#sub {%1 [Known s:+1 i:+5 ch:+1 spr:8 dam:+12 hit:+11 acid:10]}}
+#trigger {(A shimmering gold bangle)} {#sub {%1 [Known d:+15 c:-5 hpr:5]}}
+#trigger {(A nice orichalcum bearded axe ~(1h~))} {#sub {%1 [Known c:+1 ch:+5 spr:4 dam:+10 hit:+7 fire:3]}}
+#trigger {(The leggings of Dark Haven)} {#sub {%1 [Known s:-3 c:-5 i:+4 spr:11]}}
+#trigger {(Dusty wyvernskin legguards)} {#sub {%1 [Known s:+8 hpr:7]}}
+#trigger {(Nice wyvernskin mittens)} {#sub {%1 [Known d:+3 w:+8 ch:-8 spr:1]}}
+#trigger {(Ghastly mithril legguards <Bound>)} {#sub {%1 [Known i:+1 w:+5 spr:8]}}
+#trigger {(A disgusting orichalcum sallet)} {#sub {%1 [Known s:+9 d:-10 c:+3 hpr:6]}}
+#trigger {(A grotesque silver spiked flail ~(1h~))} {#sub {%1 [Known s:+2 d:+1 hpr:3 dam:+14 hit:+5 acid:3]}}
+#trigger {(A decorated silk mantle)} {#sub {%1 [Known s:+1 c:-5 w:+5 spr:2]}}
+#trigger {(An antique wyvernskin shawl)} {#sub {%1 [Known i:+3 spr:2]}}
+#trigger {(A hideous silver kettle hat)} {#sub {%1 [Known d:+3 c:+5 hpr:5]}}
+#trigger {(A well-crafted silver gladius ~(1h~))} {#sub {%1 [Known c:+1 dam:+3 hit:+15 poison:4]}}
+#trigger {(Dirty wyrmscale rivet cuirass)} {#sub {%1 [Known i:+8 spr:8]}}
+#trigger {(An adorned silver francisca ~(1h~))} {#sub {%1 [Known d:+1 c:+1 dam:+4 hit:+9 acid:4]}}
+#trigger {(A horrid silver bangle)} {#sub {%1 [Known i:+8 w:+3 spr:5]}}
+#trigger {(A gory silver battle axe ~(1h~))} {#sub {%1 [Known d:+1 c:+1 dam:+11 hit:+6 electric:8]}}
+#trigger {(A superior viridium goosewing axe ~(1h~))} {#sub {%1 [Known d:+5 w:-8 ch:+10 hpr:1 spr:4 dam:+12 hit:+8 cold:6]}}
+#trigger {(Garnished orichalcum rivet sabatons)} {#sub {%1 [Known s:-8 d:+15 c:+3 hpr:4]}}
+#trigger {(A shimmering adamantine voulge ~(2h~))} {#sub {%1 [Known d:+3 hpr:4 dam:+11 hit:+8 magical:12]}}
+#trigger {(A shimmering dusksteel hauberk)} {#sub {%1 [Known d:+20 hpr:12]}}
+#trigger {(An ornate orichalcum aruval ~(1h~))} {#sub {%1 [Known s:+1 d:+1 dam:+9 hit:+13 asphyxiation:2]}}
+#trigger {(A filthy velvet rope)} {#sub {%1 [Known c:+1 i:+3 ch:+3 spr:3]}}
+#trigger {(An antique silver buckler)} {#sub {%1 [Known d:+5 hpr:1]}}
+#trigger {(An elegant silver falchion ~(1h~))} {#sub {%1 [Known c:+1 dam:+2 hit:+12 asphyxiation:3]}}
+#trigger {(Blood-stained orichalcum fluted gauntlets)} {#sub {%1 [Known s:+3 d:+1 c:+5 hpr:1]}}
+#trigger {(An elegant orichalcum pendant)} {#sub {%1 [Known i:+10 spr:5]}}
+#trigger {(An exceptional wood sceptre ~(1h~))} {#sub {%1 [Known s:-8 c:+10 ch:+5 hpr:2 spr:1 dam:+1 hit:+7 psionic:9]}}
+#trigger {(A hideous mithril spiked mace ~(1h~))} {#sub {%1 [Known i:+10 spr:5 dam:+16 hit:-9 electric:6]}}
+#trigger {(A foul orichalcum band)} {#sub {%1 [Known i:+5 w:+5 spr:4]}}
+#trigger {(A grimy silver diamond ring)} {#sub {%1 [Known s:-6 w:+15 spr:7]}}
+#trigger {(A foul orichalcum double headed axe ~(2h~))} {#sub {%1 [Known d:+3 hpr:2 dam:+14 hit:+4 magical:2]}}
+#trigger {(A shiny silver collar)} {#sub {%1 [Known d:+12 i:-5 hpr:6]}}
+#trigger {(An elegant viridium partisan ~(2h~))} {#sub {%1 [Known d:+1 dam:+8 hit:+15 cold:6]}}
+#trigger {(A disgusting wyrmscale armband)} {#sub {%1 [Known i:+8 spr:6]}}
+#trigger {(A grotesque orichalcum chain mace ~(1h~))} {#sub {%1 [Known c:+3 i:+8 ch:-5 spr:3 dam:+11 hit:+11 poison:3]}}
+#trigger {(An ornate satin sash)} {#sub {%1 [Known i:+10 spr:6]}}
+#trigger {(An adorned titanium spiked flail ~(1h~))} {#sub {%1 [Known d:+1 i:+5 spr:6 dam:+13 hit:+7 cold:14]}}
+#trigger {(A dirty wyrmscale shield)} {#sub {%1 [Known s:+2 d:+10 hpr:2]}}
+#trigger {(A blemished demonhide jacket)} {#sub {%1 [Known w:+10 spr:16]}}
+#trigger {(A gory meteoric iron falchion ~(1h~))} {#sub {%1 [Known s:+8 hpr:6 dam:+7 hit:+19 psionic:10]}}
+#trigger {(An antique orichalcum emerald ring)} {#sub {%1 [Known s:+7 i:+3 w:-10 hpr:3 spr:1]}}
+#trigger {(The Harbinger's Wanyugo Mask)} {#sub {%1 [Known w:+18 hpr:6 spr:12]}}
+#trigger {(A fine adamantine broadaxe ~(1h~))} {#sub {%1 [Known c:+5 hpr:7 dam:+15 hit:+10 psionic:17]}}
+#trigger {(An excellent satin cloak)} {#sub {%1 [Known w:+20 spr:8]}}
+#trigger {(A tarnished mithril long mace ~(2h~))} {#sub {%1 [Known d:+8 c:+5 i:-5 hpr:4 dam:+13 hit:-12 magical:4]}}
+#trigger {(Gory orichalcum rivet gauntlets)} {#sub {%1 [Known c:+10 hpr:2]}}
+#trigger {(A fancy orichalcum falcata ~(1h~))} {#sub {%1 [Known d:+1 c:+5 i:+5 ch:-1 hpr:2 spr:5 dam:+6 hit:+17 fire:9]}}
+#trigger {(Dreadful brocade tall boots)} {#sub {%1 [Known i:+15 w:-5 spr:6]}}
+#trigger {(A grotesque oak spear ~(2h~))} {#sub {%1 [Known s:+2 c:+1 hpr:6 dam:+8 hit:+12 magical:10]}}
+#trigger {(A decorated meteoric iron bascinet)} {#sub {%1 [Known w:+10 spr:10]}}
+#trigger {(A worn humanskin gorget)} {#sub {%1 [Known i:+12 w:+3 spr:13]}}
+#trigger {(A ghastly orichalcum double headed axe ~(2h~))} {#sub {%1 [Known s:+2 d:+1 hpr:4 dam:+13 hit:+6 electric:5]}}
+#trigger {(A fancy satin mantle)} {#sub {%1 [Known s:+3 hpr:4]}}
+#trigger {(A befouled oak spear ~(2h~))} {#sub {%1 [Known s:+1 c:+1 dam:+10 hit:+11 fire:5]}}
+#trigger {(A blood-stained viridium bearded axe ~(1h~))} {#sub {%1 [Known d:+3 i:-3 w:+5 hpr:1 spr:5 dam:+18 hit:+12 electric:14]}}
+#trigger {(A dirty delium lariat necklace)} {#sub {%1 [Known s:+2 c:+15 i:-5 hpr:11]}}
+#trigger {(Dusty wyvernskin breeches)} {#sub {%1 [Known s:+12 hpr:10]}}
+#trigger {(A grisly viridium spiked flail ~(1h~))} {#sub {%1 [Known c:+3 ch:+5 hpr:2 spr:5 dam:+14 hit:+11 magical:8]}}
+#trigger {(A masterwork delium aquamarine ring)} {#sub {%1 [Known s:+6 d:-10 c:+18 hpr:10]}}
+#trigger {(A stained wyrmscale horned helm)} {#sub {%1 [Known]}}
+#trigger {(A tainted mithril war scythe ~(2h~))} {#sub {%1 [Known s:-0 d:+3 c:+18 hpr:4 dam:+12 hit:+12 psionic:6]}}
+#trigger {(Excellent wyrmskin long gloves)} {#sub {%1 [Known s:+15 d:+10 c:-10 hpr:3]}}
+#trigger {(An exceptional dragonscale armet)} {#sub {%1 [Known]}}
+#trigger {(A grisly orichalcum yatagan ~(1h~))} {#sub {%1 [Known s:+2 d:-5 c:+5 hpr:5 dam:+1 hit:+11 electric:6]}}
+#trigger {(An antique orichalcum rod ~(1h~))} {#sub {%1 [Known d:+5 c:+1 ch:-8 hpr:2]}}
+#trigger {(A gaudy mithril flamberge ~(1h~))} {#sub {%1 [Known d:+8 hpr:4 dam:+2 hit:+16 fire:6]}}
+#trigger {(A horrid orichalcum sabre ~(1h~))} {#sub {%1 [Known w:+5 spr:3 dam:+2 hit:+16 fire:3]}}
+#trigger {(A grisly viridium bearded axe ~(1h~))} {#sub {%1 [Known d:+8 hpr:4 dam:+12 hit:+6 acid:5]}}
+#trigger {(A decorated orichalcum medallion)} {#sub {%1 [Known s:+1 c:+8 i:-10 w:+1 hpr:3]}}
+#trigger {(A well-crafted cuir bouilli cloak)} {#sub {%1 [Known d:+5 hpr:2]}}
+#trigger {(A grimy orichalcum shashka ~(1h~))} {#sub {%1 [Known d:+5]}}
+#trigger {(An adorned obsidian great axe ~(2h~))} {#sub {%1 [Known w:+10 spr:5 dam:+20 hit:+3 asphyxiation:6]}}
+#trigger {(A stained brocade kaftan)} {#sub {%1 [Known i:+15 spr:15]}}
+#trigger {(A horrid viridium great falx ~(2h~))} {#sub {%1 [Known d:+1 dam:+11 hit:+8 magical:4]}}
+#trigger {(A grimy silver ecclestiastical ring)} {#sub {%1 [Known i:+3 w:+5 spr:5]}}
+#trigger {(A blood-stained cuir bouilli gorget)} {#sub {%1 [Known d:+1 c:+10 hpr:7]}}
+#trigger {(A shiny mithril aruval ~(1h~))} {#sub {%1 [Known c:-8 w:+5 ch:+5 spr:6 dam:+13 hit:+14 asphyxiation:6]}}
+#trigger {(An antique silk cincture)} {#sub {%1 [Known c:+5 hpr:2]}}
+#trigger {(A tainted mithril choker necklace)} {#sub {%1 [Known w:+12 spr:8]}}
+#trigger {(Wielded in right hand: A beautiful sword hilt, with a green blade ~(2h~))} {#sub {%1 [Known dam:+5 hit:+13 fire:10]}}
+#trigger {(A fine mithril spiked flail ~(1h~))} {#sub {%1 [Known s:+1 d:-5 c:+5 hpr:4 dam:+9 hit:+10 fire:5]}}
+#trigger {(A shiny silver cutlass ~(1h~))} {#sub {%1 [Known d:+1 c:+1 dam:+6 hit:+17 magical:3]}}
+#trigger {(A vile drakeskin mantle)} {#sub {%1 [Known d:+5 hpr:3]}}
+#trigger {(A fancy orichalcum flanged mace ~(1h~))} {#sub {%1 [Known c:+1 dam:+14 hit:-15 fire:4]}}
+#trigger {(A decorated wyvernskin girdle)} {#sub {%1 [Known d:+10 hpr:4]}}
+#trigger {(Dusty wyvernskin legguards <Bound>)} {#sub {%1 [Known s:+8 hpr:7]}}
+#trigger {(Wielded in right hand: A beautiful sword hilt, with a green blade ~(2h~) <*glowing*>)} {#sub {%1 [Known s:-0 w:-0 dam:+5 hit:+13 fire:10]}}
+#trigger {(A vile titanium aruval ~(1h~))} {#sub {%1 [Known s:+4 i:+3 w:-3 ch:+1 hpr:2 spr:2 dam:+14 hit:+18 asphyxiation:13]}}
+#trigger {(Filthy wyrmskin sandals)} {#sub {%1 [Known d:+20 hpr:7]}}
+#trigger {(The bracelets of quick thoughts)} {#sub {%1 [Known s:-0 d:-26 c:-0 i:+15 w:-0 ch:-26 spr:10]}}
+#trigger {(A vile silver great hammer ~(2h~))} {#sub {%1 [Known d:+12 hpr:7 dam:+21 hit:-16 cold:18]}}
+#trigger {(A grotesque meteoric iron panabas ~(1h~))} {#sub {%1 [Known s:+8 d:-10 ch:+1 hpr:2 dam:+14 hit:+15 asphyxiation:8]}}
+#trigger {(A blood-stained dusksteel armband)} {#sub {%1 [Known i:+18 spr:10]}}
+#trigger {(Nice adamantine demi-gaunts)} {#sub {%1 [Known i:+5 w:+12 spr:4]}}
+#trigger {(A dirty runeleather girdle)} {#sub {%1 [Known i:+12 w:+5 spr:9]}}
+#trigger {(A blood-stained cuir bouilli mantle)} {#sub {%1 [Known s:+2 c:+1 hpr:2]}}
+#trigger {(A repugnant mithril trident ~(2h~))} {#sub {%1 [Known s:+1 d:+1 c:+1 dam:+8 hit:+12 magical:5]}}
+#trigger {(An old walnut short staff ~(2h~))} {#sub {%1 [Known c:+1 ch:+1 hit:+2 psionic:4]}}
+#trigger {(Wielded in right hand: A heavy tree stump ~(2h~) <dark aura>)} {#sub {%1 [Known]}}
+#trigger {(A dusty wyvernskin girdle)} {#sub {%1 [Known s:+3 d:+3 i:-0 w:-0 hpr:3]}}
+#trigger {(Drab velvet leggings)} {#sub {%1 [Known d:+8 hpr:7]}}
+#trigger {(A fine orichalcum flamberge ~(1h~))} {#sub {%1 [Known s:+8 d:+3 c:-10 hpr:2 dam:+4 hit:+16 poison:3]}}
+#trigger {(A foul orichalcum broadaxe ~(1h~))} {#sub {%1 [Known d:+15 c:-10 hpr:4 dam:+12 hit:+6 magical:4]}}
+#trigger {(A smudged cuir bouilli collar)} {#sub {%1 [Known s:+5 hpr:7]}}
+#trigger {(A disgusting viridium flanged flail ~(1h~))} {#sub {%1 [Known s:+2 c:+5 hpr:4 dam:+13 hit:+8 cold:4]}}
+#trigger {(A foul wyvernskin mantle)} {#sub {%1 [Known i:+1 w:+8 spr:3]}}
+#trigger {(Nice wyvernskin breeches)} {#sub {%1 [Known s:+5 d:+5 c:+1 hpr:6]}}
+#trigger {(A tarnished mithril spiked flail ~(1h~))} {#sub {%1 [Known s:+1 d:+3 c:-1 w:-0 hpr:4 dam:+10 hit:+6 psionic:6]}}
+#trigger {(Decorated mithril demi-gaunts)} {#sub {%1 [Known s:+5 d:+1 c:+5 hpr:2]}}
+#trigger {(A foul dragonhide cincture)} {#sub {%1 [Known d:+10 c:+8 hpr:7]}}
+#trigger {(A weathered silk kaftan)} {#sub {%1 [Known w:+18 spr:18]}}
+#trigger {(A well-crafted mithril goosewing axe ~(1h~))} {#sub {%1 [Known d:+1 w:+5 spr:3 dam:+12 hit:+9 psionic:10]}}
+#trigger {(A repulsive cuir bouilli hauberk)} {#sub {%1 [Known i:+20 w:-10 spr:14]}}
+#trigger {(A befouled mithril double headed axe ~(2h~))} {#sub {%1 [Known s:-1 w:+1 ch:+3 spr:4 dam:+18 hit:+8 psionic:8]}}
+#trigger {(An elegant satin cloak)} {#sub {%1 [Known i:-1 w:+10 spr:6]}}
+#trigger {(A well-crafted orichalcum heater shield)} {#sub {%1 [Known s:+1 d:+1 i:+1]}}
+#trigger {(A foul wood flail ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(Ghastly wyrmscale rivet gauntlets)} {#sub {%1 [Known i:+5 w:+3 spr:2]}}
+#trigger {(A monstrous viridium great falx ~(2h~))} {#sub {%1 [Known c:+5 hpr:4 dam:+15 hit:+12 psionic:12]}}
+#trigger {(A filthy velvet chlamys)} {#sub {%1 [Known d:+3 i:+3 hpr:1 spr:2]}}
+#trigger {(A masterwork orichalcum long sceptre ~(2h~))} {#sub {%1 [Known i:+8 spr:7 dam:+5 hit:+9 electric:9]}}
+#trigger {(A moth-eaten velvet vest)} {#sub {%1 [Known c:-3 i:+1 w:+8 ch:+5 spr:16]}}
+#trigger {(Hideous silk mittens)} {#sub {%1 [Known d:+3 i:+8 spr:3]}}
+#trigger {(Wielded in right hand: A dark charred blade ~(*blazing*~) ~(2h~))} {#sub {%1 [Known s:-0 i:-0 w:-0 ch:-0]}}
+#trigger {(Dusty mithril legguards)} {#sub {%1 [Known d:+18 hpr:12]}}
+#trigger {(A blood-stained dusksteel falx ~(1h~))} {#sub {%1 [Known c:+10 i:-8 ch:+3 hpr:3 spr:1 dam:+12 hit:+12 cold:12]}}
+#trigger {(Antique orichalcum gauntlets)} {#sub {%1 [Known i:+10 ch:+3 spr:4]}}
+#trigger {(A repulsive viridium double headed axe ~(2h~))} {#sub {%1 [Known c:+12 hpr:5 dam:+19 hit:+8 asphyxiation:10]}}
+#trigger {(A repugnant platinum ecclestiastical ring)} {#sub {%1 [Known s:+1 c:+12 hpr:7]}}
+#trigger {(An elegant orichalcum war scythe ~(2h~))} {#sub {%1 [Known s:+1 d:+3 hpr:3 dam:+10 hit:+9 magical:3]}}
+#trigger {(A blemished drakeskin sarape)} {#sub {%1 [Known d:+8 hpr:3]}}
+#trigger {(Smudged wyvernskin breeches)} {#sub {%1 [Known c:+3 w:+3 hpr:2 spr:3]}}
+#trigger {(A blood-stained darkwood spear ~(2h~))} {#sub {%1 [Known s:+1 dam:+5 hit:+9 cold:2]}}
+#trigger {(A vile velvet shirt)} {#sub {%1 [Known c:+1 i:+3 ch:+5 spr:11]}}
+#trigger {(An elegant orichalcum glaive ~(2h~))} {#sub {%1 [Known dam:+10 hit:+8 poison:3]}}
+#trigger {(A blood-stained wyrmscale attic helmet)} {#sub {%1 [Known s:+2 d:+1 hpr:4]}}
+#trigger {(An adorned orichalcum spiked flail ~(1h~))} {#sub {%1 [Known i:+5 spr:3 dam:+10 hit:+4 acid:2]}}
+#trigger {(A foul obsidian great axe ~(2h~))} {#sub {%1 [Known s:+1 d:+3 c:+1 hpr:4 dam:+17 hit:+4 cold:4]}}
+#trigger {(An elegant silver turquoise ring)} {#sub {%1 [Known s:+7 hpr:6]}}
+#trigger {(A horrid gold opal ring)} {#sub {%1 [Known i:+5 w:-3 spr:5]}}
+#trigger {(A decorated orichalcum topaz ring)} {#sub {%1 [Known c:+1 i:+8 spr:6]}}
+#trigger {(A shiny gold bloodstone ring)} {#sub {%1 [Known d:-5 c:+1 ch:+5 spr:3]}}
+#trigger {(A blemished trollskin belt)} {#sub {%1 [Known s:+2 d:+1 c:+5 hpr:3]}}
+#trigger {(A fancy silver chain mace ~(1h~))} {#sub {%1 [Known w:+8 spr:4 dam:+11 hit:+10 electric:4]}}
+#trigger {(Worn wyvernskin tall boots)} {#sub {%1 [Known i:+5 spr:4]}}
+#trigger {(An antique titanium bastard sword ~(2h~))} {#sub {%1 [Known s:+4 d:+3 hpr:6 dam:+5 hit:+16 electric:18]}}
+#trigger {(A hideous meteoric iron armguard)} {#sub {%1 [Known s:-10 d:+18 hpr:5]}}
+#trigger {(A disgusting delium pendant)} {#sub {%1 [Known s:+8 d:-1 c:+1 hpr:11]}}
+#trigger {(Rotting drakeskin legguards)} {#sub {%1 [Known c:+8 hpr:7]}}
+#trigger {(A well-crafted yew sceptre ~(1h~))} {#sub {%1 [Known d:+5 hpr:2 dam:+2 hit:+4 acid:3]}}
+#trigger {(A garnished gold emerald ring)} {#sub {%1 [Known s:+5 c:-1 w:+1 hpr:4]}}
+#trigger {(A stained drakeskin shawl)} {#sub {%1 [Known s:+1 d:+1 c:+3 hpr:3]}}
+#trigger {(A decorated silver bascinet)} {#sub {%1 [Known d:+10 hpr:6]}}
+#trigger {(A horrid yew quarterstaff ~(2h~))} {#sub {%1 [Known i:+3 ch:+3 spr:3 dam:+2 hit:+3 cold:2]}}
+#trigger {(A masterwork mithril ring)} {#sub {%1 [Known i:+20 w:-3 spr:13]}}
+#trigger {(Disgusting demonhide tall boots)} {#sub {%1 [Known i:+5 w:+5 spr:7]}}
+#trigger {(A shiny mithril guisarme ~(2h~))} {#sub {%1 [Known d:+3 c:+1 hpr:3 dam:+12 hit:+10 cold:6]}}
+#trigger {(A tainted silver bascinet)} {#sub {%1 [Known s:+1 d:+1 c:+5 hpr:4]}}
+#trigger {(A well-crafted gold bangle)} {#sub {%1 [Known c:+5 hpr:3]}}
+#trigger {(Smudged satin mittens)} {#sub {%1 [Known s:+15 w:-10 ch:+1 hpr:2]}}
+#trigger {(A foul mithril falx ~(1h~))} {#sub {%1 [Known s:+2 c:+5 hpr:4 dam:+10 hit:+12 magical:5]}}
+#trigger {(A ghastly viridium necklace)} {#sub {%1 [Known w:+5 spr:9]}}
+#trigger {(A horrid silver sceptre ~(1h~))} {#sub {%1 [Known c:+1 i:+3 ch:-1 spr:4 dam:-2 hit:+3 poison:2]}}
+#trigger {(A shimmering orichalcum bastard sword ~(2h~))} {#sub {%1 [Known d:+15 c:-10 hpr:4 dam:+3 hit:+17 magical:5]}}
+#trigger {(An odious adamantine partisan ~(2h~))} {#sub {%1 [Known w:+12 spr:6 dam:+11 hit:+14 acid:16]}}
+#trigger {(A gaudy dusksteel poleaxe ~(2h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+15 hit:+7 electric:14]}}
+#trigger {(Gaudy orichalcum chausses)} {#sub {%1 [Known d:+5 c:+10 i:-10 hpr:4]}}
+#trigger {(A vile drakeskin brigandine)} {#sub {%1 [Known s:+2 d:-5 c:+8 hpr:6]}}
+#trigger {(A gory viridium chain mace ~(1h~))} {#sub {%1 [Known d:-8 i:+1 ch:+8 spr:6 dam:+11 hit:+13 acid:5]}}
+#trigger {(Repugnant orichalcum fluted sabatons)} {#sub {%1 [Known s:+2 c:+5 hpr:4]}}
+#trigger {(A well-crafted orichalcum amethyst ring)} {#sub {%1 [Known s:-6 d:+3 i:+3 ch:+8 hpr:1 spr:4]}}
+#trigger {(An antique silver flamberge ~(1h~))} {#sub {%1 [Known s:-2 d:+1 dam:+7 hit:+15 poison:3]}}
+#trigger {(A tarnished rosewood staff ~(2h~))} {#sub {%1 [Known d:+3 w:+3 hpr:2 spr:4 dam:+4 hit:+4 asphyxiation:5]}}
+#trigger {(Garnished humanskin greaves)} {#sub {%1 [Known d:+5 c:+5 hpr:7]}}
+#trigger {(A blood-stained orichalcum sword ~(1h~))} {#sub {%1 [Known d:+3 c:+1 hpr:2 dam:+5 hit:+15 asphyxiation:2]}}
+#trigger {(An adorned mithril pike ~(2h~))} {#sub {%1 [Known s:+1 dam:+5 hit:+13 acid:5]}}
+#trigger {(An excellent obsidian naginata ~(2h~))} {#sub {%1 [Known s:+2 c:+3 hpr:4 dam:+12 hit:+17 asphyxiation:5]}}
+#trigger {(An adorned silver khanda ~(1h~))} {#sub {%1 [Known s:+1 d:-0 ch:-0 dam:+3 hit:+16 cold:4]}}
+#trigger {(A disgusting velvet chlamys)} {#sub {%1 [Known d:+1 c:+1 i:-3 ch:+5 spr:5]}}
+#trigger {(A horrible silver kopis ~(1h~))} {#sub {%1 [Known s:+1 c:+3 ch:+1 hpr:4 dam:+5 hit:+20 poison:5]}}
+#trigger {(A horrendous trollskin robe)} {#sub {%1 [Known w:+20 spr:18]}}
+#trigger {(A shiny silver onyx ring)} {#sub {%1 [Known s:+5 d:+3 hpr:6]}}
+#trigger {(A horrid meteoric iron war scythe ~(2h~))} {#sub {%1 [Known s:+2 w:+5 hpr:1 spr:3 dam:+12 hit:+12 cold:8]}}
+#trigger {(A grimy silver galea)} {#sub {%1 [Known w:+10 spr:6]}}
+#trigger {(A sinister viridium flail ~(1h~))} {#sub {%1 [Known c:+5 i:-1 ch:+5 hpr:2 spr:3 dam:+14 hit:+12 poison:14]}}
+#trigger {(A vile orichalcum naginata ~(2h~))} {#sub {%1 [Known s:+4 c:-8 i:-1 w:-0 ch:+5 hpr:2 dam:+5 hit:+13 asphyxiation:4]}}
+#trigger {(Ghastly trollskin breeches)} {#sub {%1 [Known s:+8 i:-5 w:+5 hpr:4 spr:4]}}
+#trigger {(A grimy silver pendant)} {#sub {%1 [Known s:+4 d:-10 i:+3 w:+5 ch:+5 hpr:2 spr:3]}}
+#trigger {(A dusty mithril skullcap)} {#sub {%1 [Known s:-0 d:-10 i:+12 w:-0 ch:+5 spr:8]}}
+#trigger {(A ghastly obsidian bangle)} {#sub {%1 [Known i:+18 spr:8]}}
+#trigger {(A horrendous viridium halberd ~(2h~))} {#sub {%1 [Known c:+3 i:+18 w:-5 ch:+10 hpr:1 spr:8 dam:+11 hit:+16 acid:17]}}
+#trigger {(Elegant silver sabatons)} {#sub {%1 [Known w:+8 spr:5]}}
+#trigger {(An odious meteoric iron guisarme ~(2h~))} {#sub {%1 [Known s:+8 hpr:7 dam:+14 hit:+9 psionic:20]}}
+#trigger {(Wielded in right hand: A grimy adamantine trident ~(2h~) <*glowing*> <pulsating>)} {#sub {%1 [Known s:-2 d:-2 c:-2 i:+10 w:-2 ch:-26 hpr:5 spr:10]}}
+#trigger {(A corroded blacksteel scimitar ~(1h~))} {#sub {%1 [Known s:-0 d:-26 c:-0 w:-0 ch:-0]}}
+#trigger {(A foul orichalcum fauchard ~(2h~))} {#sub {%1 [Known]}}
+#trigger {(A fine pine flail ~(1h~))} {#sub {%1 [Known s:-4 d:+3 c:+3 hpr:3 dam:+10 hit:+10 magical:3]}}
+#trigger {(Superior humanskin boots)} {#sub {%1 [Known w:+10 spr:5]}}
+#trigger {(A blood-stained silver halberd ~(2h~))} {#sub {%1 [Known dam:+7 hit:+8 poison:3]}}
+#trigger {(Nice wyrmscale sollerets)} {#sub {%1 [Known s:-0 i:+5 spr:3]}}
+#trigger {(A befouled silver aruval ~(1h~))} {#sub {%1 [Known c:+5 hpr:3 dam:+7 hit:+16 acid:4]}}
+#trigger {(Ornate orichalcum vambraces)} {#sub {%1 [Known s:+12 hpr:4]}}
+#trigger {(Dusty cuir bouilli gloves)} {#sub {%1 [Known c:+8 hpr:1]}}
+#trigger {(A superior silver great falx ~(2h~))} {#sub {%1 [Known w:+5 spr:6 dam:+13 hit:+14 electric:6]}}
+#trigger {(An adorned orichalcum bevor)} {#sub {%1 [Known i:-5 w:+5 ch:+3 spr:6]}}
+#trigger {(Vile silver fluted vambraces)} {#sub {%1 [Known i:+5 w:+5 spr:6]}}
+#trigger {(A ghastly silver heater shield)} {#sub {%1 [Known s:+4 d:+1 c:-1 hpr:1]}}
+#trigger {(A vile orichalcum battle axe ~(1h~))} {#sub {%1 [Known s:+4 c:-10 w:+10 hpr:1 spr:3 dam:+11 hit:+9 fire:2]}}
+#trigger {(A horrible wyrmscale galea)} {#sub {%1 [Known]}}
+#trigger {(An ornate dusksteel naginata ~(2h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+13 hit:+15 poison:14]}}
+#trigger {(A vile wyrmscale bevor)} {#sub {%1 [Known i:+18 ch:+1 spr:14]}}
+#trigger {(Well-crafted dusksteel legguards)} {#sub {%1 [Known w:+15 spr:12]}}
+#trigger {(A horrid humanskin cincture)} {#sub {%1 [Known d:+12 hpr:5]}}
+#trigger {(A vile silver chain mace ~(1h~))} {#sub {%1 [Known s:+1 c:-8 i:+1 ch:+5 spr:3 dam:+13 hit:+12 fire:4]}}
+#trigger {(A horrible orichalcum spiked flail ~(1h~))} {#sub {%1 [Known w:+5 spr:4 dam:+14 hit:+5 psionic:4]}}
+#trigger {(An elegant orichalcum hounskull)} {#sub {%1 [Known]}}
+#trigger {(Cloak of Strahd)} {#sub {%1 [Known s:-1 c:-2 i:+14 w:+8 spr:10]}}
+#trigger {(A dusty obsidian sickle ~(1h~))} {#sub {%1 [Known i:+10 spr:6 dam:+7 hit:+11 cold:4]}}
+#trigger {(Vile velvet boots)} {#sub {%1 [Known i:-8 w:+10 spr:3]}}
+#trigger {(A befouled mithril glaive ~(2h~))} {#sub {%1 [Known s:+2 d:+1 c:+5 hpr:6 dam:+11 hit:+13 asphyxiation:10]}}
+#trigger {(Superior silver rivet cuirass)} {#sub {%1 [Known s:-8 c:+18 hpr:8]}}
+#trigger {(Wielded in right hand: A shiny obsidian spiked flail ~(2h~) <*glowing*>)} {#sub {%1 [Known s:+6 d:-8 c:+3 w:+5 hpr:4 spr:4 dam:+14 hit:+13 acid:19]}}
+#trigger {(Grimy cuir bouilli fluted vambraces)} {#sub {%1 [Known s:+3 d:+5 c:+1 hpr:4]}}
+#trigger {(A garnished obsidian goosewing axe ~(1h~))} {#sub {%1 [Known s:+1 c:+5 hpr:2 dam:+9 hit:+8 cold:10]}}
+#trigger {(Adorned wyvernskin greaves)} {#sub {%1 [Known s:-10 d:+10 c:+8 hpr:7]}}
+#trigger {(A vile wyrmscale bascinet)} {#sub {%1 [Known i:+3 w:+3 spr:5]}}
+#trigger {(An elegant meteoric iron voulge ~(2h~))} {#sub {%1 [Known i:+10 w:-1 spr:6 dam:+13 hit:+13 poison:14]}}
+#trigger {(A horrendous oak pike ~(2h~))} {#sub {%1 [Known i:+20 w:-10 spr:6 dam:+10 hit:+15 poison:14]}}
+#trigger {(A decorated maple sceptre ~(1h~))} {#sub {%1 [Known d:-5 c:+3 ch:+1 hpr:2]}}
+#trigger {(An antique silk rope)} {#sub {%1 [Known s:-6 d:+10 i:+5 hpr:1 spr:1]}}
+#trigger {(A dirty silk cloak)} {#sub {%1 [Known c:+8 hpr:4]}}
+#trigger {(A blemished gold torc)} {#sub {%1 [Known s:+4 d:+5 c:-8 hpr:3]}}
+#trigger {(Antique silver sabatons)} {#sub {%1 [Known i:+3 w:+8 spr:5]}}
+#trigger {(Grimy silk long gloves)} {#sub {%1 [Known d:+3 hpr:1]}}
+#trigger {(An adorned silk vest)} {#sub {%1 [Known d:+3 i:-3 w:+3 ch:+1 hpr:2 spr:5]}}
+#trigger {(An old silver bardiche ~(2h~))} {#sub {%1 [Known]}}
+#trigger {(A befouled silver chain mace ~(1h~))} {#sub {%1 [Known i:+5 spr:3 dam:+14 hit:+11 cold:4]}}
+#trigger {(A dusty silver goosewing axe ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(A horrible orichalcum flanged flail ~(1h~))} {#sub {%1 [Known d:+3 c:+5 hpr:3 dam:+7 hit:+9 acid:4]}}
+#trigger {(A grimy silk vest)} {#sub {%1 [Known s:-6 i:+5 ch:+5 spr:4]}}
+#trigger {(A well-crafted orichalcum chain mace ~(1h~))} {#sub {%1 [Known]}}
+#trigger {(A rotting satin rope)} {#sub {%1 [Known i:+3 w:+3 spr:5]}}
+#trigger {(Wielded in right hand: A foul viridium wakizashi ~(1h~) <Bound>)} {#sub {%1 [Known w:+5 spr:6 dam:+7 hit:+17 fire:4]}}
+#trigger {(A tarnished obsidian mace ~(1h~))} {#sub {%1 [Known s:+2 d:+1 hpr:4 dam:+15 hit:-13 poison:5]}}
+#trigger {(An excellent silk rope)} {#sub {%1 [Known s:-0 i:+5 w:+3 spr:5]}}
+#trigger {(An antique silver great hammer ~(2h~))} {#sub {%1 [Known]}}
+#trigger {(Fancy humanskin tall boots)} {#sub {%1 [Known i:+8 w:+1 spr:6]}}
+#trigger {(A glorious blazing pristine poison fragment)} {#sub {%1 [Known d:+9 i:+10 hpr:12]}}
+#trigger {(A decorated satin rope)} {#sub {%1 [Known s:-0 w:+10 spr:7]}}
+#trigger {(An antique gold arm ring)} {#sub {%1 [Known d:+3 hpr:2]}}
+#trigger {(Adamantite Gothic Shield adorned with a Red Sword)} {#sub {%1 [Known s:-0 w:-0]}}
+#trigger {(An old silver gladius ~(1h~))} {#sub {%1 [Known c:+5 i:+3 hpr:3 spr:3 dam:+4 hit:+16 poison:8]}}
+#trigger {(A dreadful silver bracelet)} {#sub {%1 [Known w:+10 spr:7]}}
+#trigger {(A grimy dusksteel kite shield)} {#sub {%1 [Known s:+8 c:+3 hpr:3]}}
+#trigger {(A dirty obsidian jade ring)} {#sub {%1 [Known i:+10 spr:9]}}
+#trigger {(A tarnished orichalcum ring)} {#sub {%1 [Known s:+3 d:+3 c:+1 hpr:6]}}
+#trigger {(A filthy mithril bevor)} {#sub {%1 [Known s:-5 d:+10 c:+10 hpr:6]}}
+#trigger {(A fine silver cutlass ~(1h~))} {#sub {%1 [Known s:+6 c:+1 hpr:5 dam:+6 hit:+21 fire:9]}}
+#trigger {(Shimmering dragonhide chausses)} {#sub {%1 [Known c:+15 hpr:11]}}
+#trigger {(A masterwork oak flail ~(1h~))} {#sub {%1 [Known w:+10 ch:-5 spr:6 dam:+14 hit:+14 psionic:12]}}
+#trigger {(A gaudy trollskin mantle)} {#sub {%1 [Known s:+2 d:+5 c:+3 hpr:4]}}
+#trigger {(A grimy wyrmscale shield)} {#sub {%1 [Known s:+3 d:+8 c:-8 hpr:1]}}
+#trigger {(A horrible drakeskin brigandine)} {#sub {%1 [Known i:+1 w:+5 spr:8]}}
+#trigger {(An excellent silk belt)} {#sub {%1 [Known c:+8 w:+1 hpr:4]}}
+#trigger {(A blemished orichalcum galea)} {#sub {%1 [Known i:+5 spr:7]}}
+#trigger {(A shiny orichalcum francisca ~(1h~))} {#sub {%1 [Known s:+1 d:+1 c:+1 dam:+10 hit:+13 fire:3]}}
+#trigger {(A hideous wyrmscale morion)} {#sub {%1 [Known w:+12 spr:6]}}
+#trigger {(A nice obsidian pike ~(2h~))} {#sub {%1 [Known d:+5 hpr:4 dam:+7 hit:+11 fire:6]}}
+#trigger {(A repugnant gold opal ring)} {#sub {%1 [Known d:+10 hpr:7]}}
+#trigger {(A repulsive satin cincture)} {#sub {%1 [Known w:+5 spr:4]}}
+#trigger {(An excellent meteoric iron great helm)} {#sub {%1 [Known s:+9 hpr:7]}}
+#trigger {(A horrid delium aquamarine ring)} {#sub {%1 [Known i:+15 spr:11]}}
+#trigger {(A blood-stained cuir bouilli cloak)} {#sub {%1 [Known d:+5 c:+1 i:+3 hpr:2 spr:2]}}
+#trigger {(Shimmering runeleather gloves)} {#sub {%1 [Known s:+15 hpr:3]}}
+#trigger {(A ghastly meteoric iron great axe ~(2h~))} {#sub {%1 [Known i:+8 spr:3 dam:+17 hit:+3 poison:8]}}
+#trigger {(A tainted velvet mantle)} {#sub {%1 [Known i:+5 w:+5 spr:5]}}
+#trigger {(A stained silk cloak)} {#sub {%1 [Known i:+5 w:+3 spr:5]}}
+#trigger {(A dreadful dusksteel cutlass ~(1h~))} {#sub {%1 [Known s:+2 c:+5 hpr:7 dam:+7 hit:+19 fire:16]}}
+#trigger {(Ornate mithril rivet gauntlets)} {#sub {%1 [Known s:+1 d:+5 c:+3 hpr:2]}}
+#trigger {(A gory trollskin gown)} {#sub {%1 [Known i:+10 w:+10 spr:19]}}
+#trigger {(A filthy cuir bouilli collar)} {#sub {%1 [Known s:+3 d:+5 hpr:4]}}
+#trigger {(A fine silver sceptre ~(1h~))} {#sub {%1 [Known d:+5 w:-3 ch:+1 hpr:4 dam:-1 hit:+2 poison:4]}}
+#trigger {(An ornate viridium war scythe ~(2h~))} {#sub {%1 [Known s:+4 d:+1 c:+1 hpr:4 dam:+11 hit:+10 psionic:6]}}
+#trigger {(An old silk sash)} {#sub {%1 [Known ch:+8 spr:2]}}
+#trigger {(A grisly obsidian great axe ~(2h~))} {#sub {%1 [Known d:+5 c:+1 hpr:4 dam:+20 hit:+2 electric:5]}}
+#trigger {(A dirty trollskin shroud)} {#sub {%1 [Known s:+3 c:+1 hpr:4]}}
+#trigger {(A well-crafted orichalcum partisan ~(2h~))} {#sub {%1 [Known c:+1 dam:+9 hit:+10 poison:4]}}
+#trigger {(A repugnant meteoric iron sword ~(1h~))} {#sub {%1 [Known c:+5 i:+3 hpr:3 spr:3 dam:+5 hit:+18 asphyxiation:8]}}
+#trigger {(An elegant humanskin hauberk)} {#sub {%1 [Known s:-1 d:+18 hpr:13]}}
+#trigger {(Dusty trollskin sandals)} {#sub {%1 [Known s:+15 d:-10 hpr:6]}}
+#trigger {(A disgusting silver finger armour)} {#sub {%1 [Known d:+10 hpr:5]}}
+#trigger {(Filthy wyrmscale fluted gauntlets)} {#sub {%1 [Known d:+12 hpr:3]}}
+#trigger {(A horrendous silver great falx ~(2h~))} {#sub {%1 [Known d:+5 c:-8 w:+8 hpr:1 spr:4 dam:+16 hit:+11 fire:14]}}
+#trigger {(A vile wyrmscale pixane)} {#sub {%1 [Known s:-1 d:+5 c:+3 hpr:4]}}
+#trigger {(The timeworn sandals of the wayfarer)} {#sub {%1 [Known s:+4 d:+9 c:+9 hpr:6]}}
+#trigger {(A simple platinum headband)} {#sub {%1 [Known s:+2 d:+5 c:+3 hpr:3 spr:3]}}
+#trigger {(A rusted steel chain belt)} {#sub {%1 [Known s:+10 c:+10 hpr:8]}}
+#trigger {(An adorned mithril opal ring)} {#sub {%1 [Known d:+15 hpr:6]}}
+#trigger {(An excellent silver war scythe ~(2h~))} {#sub {%1 [Known d:+3 c:+5 hpr:4 dam:+11 hit:+10 asphyxiation:5]}}
+#trigger {(A stained silk sash)} {#sub {%1 [Known w:+10 spr:4]}}
+#trigger {(A delicious-looking vappu doughnut)} {#sub {%1 [Known]}}
+#trigger {(An exceptional orichalcum choker necklace)} {#sub {%1 [Known s:+2 d:+1 c:+8 hpr:10]}}
+#trigger {(A vile molybdenum diadem)} {#sub {%1 [Known s:+7 d:+8 c:-5 hpr:10]}}
+#trigger {(A hideous mithril goosewing axe ~(1h~))} {#sub {%1 [Known s:+1 d:+1 dam:+12 hit:+8 cold:4]}}
+#trigger {(An antique humanskin mantle)} {#sub {%1 [Known i:+10 w:+1 spr:5]}}
+#trigger {(Elegant wyrmskin sandals)} {#sub {%1 [Known s:+1 d:-3 c:+5 hpr:3]}}
+#trigger {(A horrible silver broadaxe ~(1h~))} {#sub {%1 [Known c:+5 i:+5 hpr:2 spr:5 dam:+18 hit:+8 psionic:9]}}
+#trigger {(An adorned dragonscale lamellar)} {#sub {%1 [Known s:+14 hpr:14]}}
