@@ -11528,6 +11528,100 @@
         "resists": {},
         "ac": "awesome"
     },
+    "A ghastly orichalcum bearded axe (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "i": "+5",
+            "ch": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+8",
+            "magical": 5
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {
+            "as": "-6"
+        },
+        "wc": "impressive"
+    },
+    "A disgusting mithril turquoise ring": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+2",
+            "d": "-8",
+            "ch": "+8"
+        },
+        "regens": {
+            "hpr": 1,
+            "spr": 5
+        },
+        "resists": {
+            "po": "-6"
+        },
+        "ac": "non-existent"
+    },
+    "A fancy drakeskin armband": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "i": "+1",
+            "w": "+5"
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "ac": "low"
+    },
+    "An excellent obsidian cutlass (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "d": "+8",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+4",
+            "hit": "+21",
+            "acid": 18
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "wc": "tremendous"
+    },
+    "Nice trollskin mittens": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "c": "+15"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "ac": "+6"
+        },
+        "ac": "adequate"
+    },
+    "A frostburned cold metal ring <Bound>": {
+        "glow": "very slowly.",
+        "stats": {
+            "s": "-3",
+            "d": "-3",
+            "c": "+13",
+            "w": "+14"
+        },
+        "regens": {
+            "hpr": 8,
+            "spr": 13
+        },
+        "resists": {
+            "c": "+14"
+        },
+        "ac": "awesome"
+    },
     "A shiny orichalcum francisca (1h)": {
         "glow": "somewhat faster than average.",
         "stats": {
@@ -12634,6 +12728,77 @@
             "spr": 10
         },
         "resists": {},
+        "ac": "negative"
+    },
+    "A gory silver broadaxe (1h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "+1",
+            "i": "+3",
+            "w": "+3",
+            "ch": "-1"
+        },
+        "weapon_stats": {
+            "dam": "+18",
+            "hit": "+8",
+            "cold": 10
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {
+            "ac": "-6",
+            "f": "+6",
+            "po": "+6",
+            "ph": "+6"
+        },
+        "wc": "great"
+    },
+    "A dirty trollskin cincture": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "+6"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {
+            "po": "-6"
+        },
+        "ac": "little"
+    },
+    "A garnished humanskin chlamys": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "w": "+20"
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {
+            "ac": "+6",
+            "c": "+6",
+            "f": "+6",
+            "ph": "+6"
+        },
+        "ac": "superb"
+    },
+    "A vile mithril finger armour": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+7",
+            "c": "+8"
+        },
+        "regens": {
+            "hpr": 9
+        },
+        "resists": {
+            "ac": "+6",
+            "as": "-6",
+            "e": "+6",
+            "m": "+8",
+            "ph": "+6"
+        },
         "ac": "negative"
     },
     "A horrid cuir bouilli armguard": {
