@@ -3626,6 +3626,139 @@
         "resists": {},
         "ac": "non-existent"
     },
+    "A nice mithril francisca (1h)": {
+        "glow": "slowly.",
+        "stats": {
+            "i": "+1",
+            "w": "+18"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+15",
+            "fire": 18
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {
+            "e": "+6",
+            "f": "+8"
+        },
+        "wc": "impressive"
+    },
+    "Decorated orichalcum fluted vambraces": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "+10",
+            "w": "+1"
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {
+            "e": "-6"
+        },
+        "ac": "average"
+    },
+    "An antique orichalcum lamellar": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+1",
+            "c": "+5",
+            "i": "-1",
+            "w": "+3"
+        },
+        "regens": {
+            "hpr": 3,
+            "spr": 3
+        },
+        "resists": {
+            "ps": "-6"
+        },
+        "ac": "good"
+    },
+    "A shimmering mithril fauchard (2h)": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "d": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+6",
+            "fire": 6
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "e": "-6",
+            "f": "+6",
+            "ph": "+8"
+        },
+        "wc": "excellent"
+    },
+    "A gory mithril aruval (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+2",
+            "d": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+14",
+            "poison": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "c": "+6",
+            "ps": "+6"
+        },
+        "wc": "great"
+    },
+    "A stained cuir bouilli chlamys": {
+        "glow": "slowly.",
+        "stats": {
+            "w": "+10"
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {
+            "c": "+6"
+        },
+        "ac": "nice"
+    },
+    "A grimy silver flanged flail (1h)": {
+        "glow": "with average speed.",
+        "stats": {},
+        "regens": {},
+        "resists": {}
+    },
+    "A foul silver round shield": {
+        "glow": "with average speed.",
+        "stats": {
+            "s": "+3",
+            "d": "+1"
+        },
+        "regens": {
+            "hpr": 1
+        },
+        "resists": {},
+        "ac": "feeble"
+    },
+    "Stained silk boots": {
+        "glow": "with average speed.",
+        "stats": {
+            "w": "+3"
+        },
+        "regens": {
+            "spr": 2
+        },
+        "resists": {},
+        "ac": "pathetic"
+    },
     "The Necklace of the Beast": {
         "glow": "with average speed.",
         "stats": {
@@ -9685,6 +9818,116 @@
         },
         "regens": {},
         "resists": {}
+    },
+    "An excellent meteoric iron bardiche (2h)": {
+        "glow": "slowly.",
+        "stats": {
+            "s": "+4"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+10",
+            "acid": 17
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "wc": "superb"
+    },
+    "A repugnant silver coronet": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "c": "+8"
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {},
+        "ac": "pathetic"
+    },
+    "A shiny darkwood quarterstaff (2h)": {
+        "glow": "slowly.",
+        "stats": {
+            "c": "+8",
+            "i": "-10",
+            "w": "+5",
+            "ch": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+4",
+            "hit": "+4",
+            "asphyxiation": 9
+        },
+        "regens": {
+            "hpr": 1,
+            "spr": 2
+        },
+        "resists": {},
+        "wc": "nice"
+    },
+    "Superior silver sollerets": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+6"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "ac": "adequate"
+    },
+    "A dusty delium diadem": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+9",
+            "d": "-1"
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {
+            "f": "+6",
+            "po": "+6",
+            "ps": "+6"
+        },
+        "ac": "negative"
+    },
+    "A stained silver armlet": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "s": "-8",
+            "d": "+20"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {
+            "as": "+6",
+            "c": "+6",
+            "m": "+6",
+            "ph": "+8"
+        },
+        "ac": "poor"
+    },
+    "A fancy orichalcum goosewing axe (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "c": "-3",
+            "ch": "+10"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+9",
+            "asphyxiation": 5
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {
+            "as": "-6"
+        },
+        "wc": "nice"
     },
     "A rusted steel chain belt": {
         "glow": "with average speed.",
