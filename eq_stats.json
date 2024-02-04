@@ -6041,6 +6041,153 @@
         "resists": {},
         "ac": "awesome"
     },
+    "A disgusting viridium katana (1h)": {
+        "glow": "slowly.                                     ",
+        "stats": {
+            "i": "+8",
+            "w": "+10"
+        },
+        "weapon_stats": {
+            "dam": "+3",
+            "hit": "+17",
+            "cold": 20
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {
+            "po": "+8"
+        },
+        "wc": "awesome"
+    },
+    "Elegant trollskin sandals": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+1",
+            "d": "+8"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "A shiny silver choker necklace": {
+        "glow": "a bit faster than average.     ",
+        "stats": {
+            "s": "+3"
+        },
+        "regens": {
+            "hpr": 5
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "Disgusting wyvernskin leggings": {
+        "glow": "somewhat slower than average.       ",
+        "stats": {
+            "w": "+12"
+        },
+        "regens": {
+            "spr": 11
+        },
+        "resists": {
+            "c": "-6",
+            "m": "+8",
+            "ps": "+6",
+            "ph": "+6"
+        },
+        "ac": "low"
+    },
+    "Elegant obsidian prayer beads": {
+        "glow": "somewhat faster than average.                   ",
+        "stats": {
+            "i": "+10",
+            "w": "+8"
+        },
+        "regens": {
+            "spr": 13
+        },
+        "resists": {
+            "as": "+6",
+            "c": "+6",
+            "e": "+6",
+            "m": "+6"
+        },
+        "ac": "pathetic"
+    },
+    "A dusty obsidian chain mace (1h)": {
+        "glow": "very fast. ",
+        "stats": {
+            "d": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+15",
+            "hit": "+13",
+            "poison": 5
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "e": "+6"
+        },
+        "wc": "excellent"
+    },
+    "Wielded in both hands: A garnished obsidian great sword (2h) <*glowing*>": {
+        "glow": "somewhat slower than average.                                          ",
+        "stats": {
+            "s": "+2",
+            "c": "+1",
+            "ch": "+10"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+17",
+            "cold": 18
+        },
+        "regens": {
+            "hpr": 1,
+            "spr": 8
+        },
+        "resists": {},
+        "wc": "awesome"
+    },
+    "Wielded in both hands: A fancy titanium bastard sword (2h) <*glowing*>": {
+        "glow": "slowly.                                                        ",
+        "stats": {
+            "s": "+4",
+            "d": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+6",
+            "hit": "+17",
+            "magical": 16
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "wc": "tremendous"
+    },
+    "Wielded in right hand: A superior titanium chain mace (1h) <*glowing*>": {
+        "glow": "a bit faster than average.                                    ",
+        "stats": {
+            "s": "+6",
+            "d": "+3",
+            "w": "-8"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+11",
+            "electric": 15
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "tremendous"
+    },
     "Fancy humanskin tall boots": {
         "glow": "a bit slower than average.",
         "stats": {
@@ -12292,18 +12439,6 @@
         },
         "resists": {},
         "wc": "poor"
-    },
-    "Elegant trollskin sandals": {
-        "glow": "a bit faster than average.",
-        "stats": {
-            "s": "+1",
-            "d": "+8"
-        },
-        "regens": {
-            "hpr": 4
-        },
-        "resists": {},
-        "ac": "non-existent"
     },
     "Old silk gloves": {
         "glow": "somewhat faster than average.",
@@ -19489,6 +19624,101 @@
         "resists": {},
         "wc": "tremendous"
     },
+    "A grisly silver war scythe (2h)": {
+        "glow": "fast.",
+        "stats": {
+            "d": "+5",
+            "c": "-1"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+12",
+            "acid": 5
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "great"
+    },
+    "Foul trollskin tall boots": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "i": "+8",
+            "w": "+1"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "adequate"
+    },
+    "Antique trollskin cuisses": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "i": "+3",
+            "w": "+5"
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "ac": "nice"
+    },
+    "An elegant obsidian bearded axe (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+10"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+9",
+            "electric": 6
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {
+            "e": "-6"
+        },
+        "wc": "excellent"
+    },
+    "A gory mithril morion": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "d": "+5",
+            "i": "+3",
+            "w": "-3"
+        },
+        "regens": {
+            "hpr": 4,
+            "spr": 2
+        },
+        "resists": {
+            "ac": "-8",
+            "as": "+8",
+            "ps": "-6",
+            "ph": "-6"
+        },
+        "ac": "nice"
+    },
+    "A horrid dusksteel band": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+3",
+            "d": "+8",
+            "c": "+3"
+        },
+        "regens": {
+            "hpr": 10
+        },
+        "resists": {
+            "c": "+6",
+            "m": "+6"
+        },
+        "ac": "negative"
+    },
     "A fancy mithril band": {
         "glow": "very fast.",
         "stats": {
@@ -19553,6 +19783,116 @@
             "ps": "+8"
         },
         "wc": "good"
+    },
+    "A garnished silver war scythe (2h)": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+1",
+            "d": "+1",
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+10",
+            "hit": "+10",
+            "magical": 4
+        },
+        "regens": {},
+        "resists": {},
+        "wc": "great"
+    },
+    "A grimy orichalcum scythe (2h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+4",
+            "d": "+5",
+            "c": "-8"
+        },
+        "weapon_stats": {
+            "dam": "+9",
+            "hit": "+11",
+            "asphyxiation": 2
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "adequate"
+    },
+    "A well-crafted silver scythe (2h)": {
+        "glow": "with average speed.",
+        "stats": {
+            "d": "+8",
+            "c": "-8"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+10",
+            "fire": 4
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "wc": "adequate"
+    },
+    "A vile orichalcum bardiche (2h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+2",
+            "d": "-3"
+        },
+        "weapon_stats": {
+            "dam": "+11",
+            "hit": "+7",
+            "magical": 4
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "great"
+    },
+    "Adorned velvet trousers": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+18"
+        },
+        "regens": {
+            "spr": 13
+        },
+        "resists": {},
+        "ac": "low"
+    },
+    "A rotting trollskin shawl": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+7"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "A hideous oak maul (1h)": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "d": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+17",
+            "hit": "-13",
+            "asphyxiation": 8
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {
+            "f": "+6",
+            "m": "+8",
+            "ph": "+6"
+        },
+        "wc": "impressive"
     },
     "A black leather cloak adorned with silver runes": {
         "glow": "with average speed.",
