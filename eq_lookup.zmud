@@ -1,5 +1,3 @@
-;; Generated 2024-02-04 11:44:37.818699
-/property -b lookup_eq
 #trigger {(A nice wyvernskin girdle)} {#sub {%1 [Known c:+5 hpr:3]}}
 #trigger {(An ornate gold diamond ring)} {#sub {%1 [Known s:-1 d:+5 c:+1 hpr:4]}}
 #trigger {(A dusty rosewood flail \(1h\))} {#sub {%1 [Known s:+1 d:+3 c:+1 hpr:2 dam:+9 hit:+9 cold:2]}}
