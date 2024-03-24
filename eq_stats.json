@@ -21294,6 +21294,82 @@
         },
         "ac": "adequate"
     },
+    "A grotesque viridium spiked flail (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "d": "+3",
+            "c": "+1"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+9",
+            "psionic": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ps": "+6"
+        },
+        "wc": "nice"
+    },
+    "A dirty drakeskin belt": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "+3",
+            "d": "+3",
+            "c": "-3"
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "Well-crafted wyvernskin sandals": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+4"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A hideous silver double headed axe (2h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "c": "+1",
+            "i": "+1",
+            "ch": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+18",
+            "hit": "+8",
+            "cold": 6
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "wc": "impressive"
+    },
+    "An old mithril great helm": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "d": "-3",
+            "w": "+1",
+            "ch": "+18"
+        },
+        "regens": {
+            "spr": 11
+        },
+        "resists": {
+            "po": "+6"
+        },
+        "ac": "awesome"
+    },
     "A dusty silver aruval (1h)": {
         "glow": "somewhat faster than average.",
         "stats": {
