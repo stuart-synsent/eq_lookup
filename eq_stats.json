@@ -2303,6 +2303,146 @@
         "regens": {},
         "resists": {}
     },
+    "A gory obsidian spiked flail (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "d": "+15",
+            "i": "-8"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+7",
+            "magical": 6
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "Nice orichalcum rivet sabatons": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+8",
+            "w": "-3"
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {
+            "c": "-10",
+            "m": "-8",
+            "po": "+8",
+            "ph": "-6"
+        },
+        "ac": "average"
+    },
+    "A shimmering titanium spiked flail (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "d": "+1",
+            "i": "+1",
+            "ch": "+10"
+        },
+        "weapon_stats": {
+            "dam": "+14",
+            "hit": "+10",
+            "poison": 19
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {},
+        "wc": "tremendous"
+    },
+    "A blemished silver ecclestiastical ring": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "i": "-10",
+            "w": "+15"
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A grisly wood long sceptre (2h)": {
+        "glow": "fast.",
+        "stats": {
+            "i": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+3",
+            "hit": "+2",
+            "asphyxiation": 4
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "wc": "decent"
+    },
+    "A dusty obsidian bracelet": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "-1",
+            "c": "+3",
+            "w": "+3",
+            "ch": "+3"
+        },
+        "regens": {
+            "hpr": 1,
+            "spr": 4
+        },
+        "resists": {
+            "po": "+8"
+        },
+        "ac": "negative"
+    },
+    "A befouled adamantine spiked flail (1h)": {
+        "glow": "slowly.",
+        "stats": {
+            "c": "+1",
+            "w": "+10"
+        },
+        "weapon_stats": {
+            "dam": "+13",
+            "hit": "+9",
+            "fire": 17
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {
+            "po": "-6"
+        },
+        "wc": "tremendous"
+    },
+    "Dirty wyvernskin vambraces": {
+        "glow": "slowly.",
+        "stats": {
+            "i": "+18"
+        },
+        "regens": {
+            "spr": 9
+        },
+        "resists": {},
+        "ac": "excellent"
+    },
+    "An exceptional mithril hounskull": {
+        "glow": "slowly.",
+        "stats": {
+            "w": "+12"
+        },
+        "regens": {
+            "spr": 8
+        },
+        "resists": {
+            "f": "-6"
+        },
+        "ac": "adequate"
+    },
     "Tainted trollskin tall boots": {
         "glow": "a bit faster than average.",
         "stats": {
@@ -2366,6 +2506,78 @@
             "po": "-6"
         },
         "ac": "non-existent"
+    },
+    "A grim mithril yatagan (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+2",
+            "d": "+5",
+            "c": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+5",
+            "hit": "+13",
+            "poison": 19
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {
+            "ac": "-6"
+        },
+        "wc": "superb"
+    },
+    "Horrible drakeskin vambraces": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "c": "+12"
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {},
+        "ac": "nice"
+    },
+    "A dreadful meteoric iron amethyst ring": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+5",
+            "d": "+1",
+            "c": "+1"
+        },
+        "regens": {
+            "hpr": 8
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A stained silver comb morion": {
+        "glow": "somewhat slower than average.",
+        "stats": {
+            "i": "+8"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {
+            "f": "+6"
+        },
+        "ac": "decent"
+    },
+    "Filthy drakeskin fluted vambraces": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+5",
+            "c": "+10",
+            "i": "-10"
+        },
+        "regens": {
+            "hpr": 4
+        },
+        "resists": {
+            "ph": "+8"
+        },
+        "ac": "average"
     },
     "The prismatic belt of rainbow colors": {
         "glow": "with average speed.",
@@ -2481,6 +2693,131 @@
             "ps": "-8"
         },
         "ac": "adequate"
+    },
+    "A garnished obsidian sickle (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "s": "-1",
+            "i": "+1",
+            "ch": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+7",
+            "hit": "+14",
+            "acid": 4
+        },
+        "regens": {
+            "spr": 6
+        },
+        "resists": {},
+        "wc": "excellent"
+    },
+    "Repugnant trollskin leggings": {
+        "glow": "fast.",
+        "stats": {
+            "d": "+3",
+            "c": "+5"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "ac": "average"
+    },
+    "An exceptional wyrmscale round shield": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "s": "+6",
+            "d": "+3"
+        },
+        "regens": {
+            "hpr": 3
+        },
+        "resists": {
+            "m": "+6",
+            "po": "+6"
+        },
+        "ac": "feeble"
+    },
+    "An ornate silver francisca (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "c": "+1",
+            "i": "-3",
+            "w": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+9",
+            "hit": "+8",
+            "electric": 3
+        },
+        "regens": {
+            "spr": 4
+        },
+        "resists": {},
+        "wc": "good"
+    },
+    "An old silver talisman": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+5",
+            "c": "+5"
+        },
+        "regens": {
+            "hpr": 7
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "A disgusting silver sabre (1h)": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "s": "+8",
+            "c": "-5"
+        },
+        "weapon_stats": {
+            "dam": "+3",
+            "hit": "+19",
+            "cold": 20
+        },
+        "regens": {
+            "hpr": 6
+        },
+        "resists": {
+            "ac": "-6",
+            "as": "-10",
+            "c": "-6",
+            "f": "-8"
+        },
+        "wc": "awesome"
+    },
+    "A dusty brocade rope": {
+        "glow": "fast.",
+        "stats": {
+            "d": "-5",
+            "i": "+10",
+            "w": "+3"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "negative"
+    },
+    "Horrid silver rivet gauntlets": {
+        "glow": "a bit faster than average.",
+        "stats": {
+            "s": "-0",
+            "c": "-5",
+            "w": "+10"
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {
+            "ac": "+14"
+        },
+        "ac": "little"
     },
     "A befouled darkwood pike (2h)": {
         "glow": "a bit faster than average.",
@@ -24686,6 +25023,83 @@
             "ac": "+8"
         },
         "ac": "low"
+    },
+    "A fancy obsidian spiked flail (1h)": {
+        "glow": "somewhat faster than average.",
+        "stats": {
+            "d": "+3",
+            "c": "+5",
+            "i": "-5",
+            "w": "+3"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+10",
+            "psionic": 5
+        },
+        "regens": {
+            "hpr": 3,
+            "spr": 2
+        },
+        "resists": {
+            "as": "+8",
+            "c": "+6",
+            "m": "+6",
+            "po": "-6"
+        },
+        "wc": "impressive"
+    },
+    "An elegant orichalcum targe": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "i": "+3",
+            "w": "+1"
+        },
+        "regens": {
+            "spr": 3
+        },
+        "resists": {},
+        "ac": "feeble"
+    },
+    "An ornate silver diadem": {
+        "glow": "a bit slower than average.",
+        "stats": {
+            "w": "+8"
+        },
+        "regens": {
+            "spr": 5
+        },
+        "resists": {},
+        "ac": "non-existent"
+    },
+    "A smudged cuir bouilli jacket": {
+        "glow": "fast.",
+        "stats": {
+            "ch": "+10"
+        },
+        "regens": {
+            "spr": 11
+        },
+        "resists": {},
+        "ac": "average"
+    },
+    "A repugnant viridium panabas (1h)": {
+        "glow": "fast.",
+        "stats": {
+            "s": "+1",
+            "d": "-5",
+            "c": "+5"
+        },
+        "weapon_stats": {
+            "dam": "+12",
+            "hit": "+18",
+            "magical": 4
+        },
+        "regens": {
+            "hpr": 2
+        },
+        "resists": {},
+        "wc": "impressive"
     },
     "A vile yew maul (1h)": {
         "glow": "somewhat slower than average.",
